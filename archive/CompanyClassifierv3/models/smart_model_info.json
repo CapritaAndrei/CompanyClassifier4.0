@@ -1,0 +1,13 @@
+{
+  "model_type": "Smart Random Forest",
+  "features": 4388,
+  "training_examples": 2378,
+  "unique_labels": 908,
+  "improvements": [
+    "Semantic embeddings",
+    "Domain-aware features",
+    "Balanced class weights",
+    "Better rare label handling",
+    "Lower min_df for rare words"
+  ]
+}

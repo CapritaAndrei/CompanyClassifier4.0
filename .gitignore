@@ -59,7 +59,14 @@ ipython_config.py
 *.hdf5
 *.model
 *.weights
-models/
+# Exclude model files but keep Python code
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/*.hdf5
+models/*.model
+models/*.weights
+!models/*.py
 !models/README.md
 checkpoints/
 logs/
