@@ -1,0 +1,563 @@
+{
+  "refinement_summary": {
+    "total_analyzed": 201,
+    "false_positives_removed": 41,
+    "final_mappings": 116,
+    "refinement_rate": 57.711442786069654
+  },
+  "training_data_analysis": {
+    "current_mapping": {
+      "codes": 20,
+      "examples": 0,
+      "coverage": 0
+    },
+    "refined_mapping": {
+      "codes": 85,
+      "examples": 0,
+      "coverage": 0
+    },
+    "improvement": {
+      "additional_codes": 65,
+      "additional_examples": 0,
+      "percentage_improvement": 0
+    }
+  },
+  "removed_false_positives": [
+    [
+      "Tank Installation Services",
+      "561730",
+      "Landscape installation services",
+      "false_positive"
+    ],
+    [
+      "Boiler Installation Services",
+      "561730",
+      "Landscape installation services",
+      "false_positive"
+    ],
+    [
+      "Steam Services",
+      "115210",
+      "Stud services",
+      "false_positive"
+    ],
+    [
+      "Gas Installation Services",
+      "561730",
+      "Landscape installation services",
+      "false_positive"
+    ],
+    [
+      "Alarm Installation Services",
+      "561730",
+      "Landscape installation services",
+      "false_positive"
+    ],
+    [
+      "Cable Installation Services",
+      "561730",
+      "Landscape installation services",
+      "false_positive"
+    ],
+    [
+      "Tile Installation Services",
+      "561730",
+      "Landscape installation services",
+      "false_positive"
+    ],
+    [
+      "Painting Services",
+      "812990",
+      "Dating services",
+      "false_positive"
+    ],
+    [
+      "Spray Painting Services",
+      "812990",
+      "Party planning services",
+      "false_positive"
+    ],
+    [
+      "Home Staging Services",
+      "812990",
+      "House sitting services",
+      "false_positive"
+    ],
+    [
+      "Meat Processing Services",
+      "561410",
+      "Word processing services",
+      "false_positive"
+    ],
+    [
+      "Seafood Processing Services",
+      "561410",
+      "Word processing services",
+      "false_positive"
+    ],
+    [
+      "Ice Production Services",
+      "512191",
+      "Teleproduction services",
+      "false_positive"
+    ],
+    [
+      "Grain Processing Services",
+      "561410",
+      "Word processing services",
+      "false_positive"
+    ],
+    [
+      "Coffee Processing Services",
+      "561990",
+      "Coupon processing services",
+      "false_positive"
+    ],
+    [
+      "Seed Processing Services",
+      "561410",
+      "Word processing services",
+      "false_positive"
+    ],
+    [
+      "Bakery Production Services",
+      "512191",
+      "Teleproduction services",
+      "false_positive"
+    ],
+    [
+      "Apparel Manufacturing",
+      "325998",
+      "Napalm manufacturing",
+      "false_positive"
+    ],
+    [
+      "Canvas Manufacturing",
+      "339992",
+      "Ocarinas manufacturing",
+      "false_positive"
+    ],
+    [
+      "Rope Production Services",
+      "512191",
+      "Teleproduction services",
+      "false_positive"
+    ],
+    [
+      "Cabinetry Manufacturing",
+      "332994",
+      "Carbines manufacturing",
+      "false_positive"
+    ],
+    [
+      "Trim Manufacturing",
+      "311710",
+      "Surimi manufacturing",
+      "false_positive"
+    ],
+    [
+      "Paper Production Services",
+      "512191",
+      "Teleproduction services",
+      "false_positive"
+    ],
+    [
+      "Stationery Manufacturing",
+      "311821",
+      "Saltines manufacturing",
+      "false_positive"
+    ],
+    [
+      "Ink Production Services",
+      "512191",
+      "Teleproduction services",
+      "false_positive"
+    ],
+    [
+      "Soap Production Services",
+      "512191",
+      "Teleproduction services",
+      "false_positive"
+    ],
+    [
+      "Media Production Services",
+      "512191",
+      "Teleproduction services",
+      "false_positive"
+    ],
+    [
+      "Food Processing Services",
+      "561410",
+      "Word processing services",
+      "false_positive"
+    ],
+    [
+      "Consulting Services",
+      "541199",
+      "Jury consulting services",
+      "false_positive"
+    ],
+    [
+      "Marketing Services",
+      "812990",
+      "Dating services",
+      "false_positive"
+    ],
+    [
+      "Catering Services",
+      "561990",
+      "Bartering services",
+      "false_positive"
+    ],
+    [
+      "Social Media Services",
+      "562910",
+      "Soil remediation services",
+      "false_positive"
+    ],
+    [
+      "Branding Services",
+      "812990",
+      "Bail bonding services",
+      "false_positive"
+    ],
+    [
+      "Field Welding Services",
+      "541219",
+      "Billing services",
+      "failed_semantic_check"
+    ],
+    [
+      "Residential Driveway Construction",
+      "236220",
+      "Penitentiary construction",
+      "failed_semantic_check"
+    ],
+    [
+      "Fencing Construction Services",
+      "541330",
+      "Engineering consulting services",
+      "failed_semantic_check"
+    ],
+    [
+      "Sidewalk Construction Services",
+      "512191",
+      "Video postproduction services",
+      "failed_semantic_check"
+    ],
+    [
+      "Residential Drain Cleaning",
+      "561720",
+      "Residential cleaning services",
+      "false_positive"
+    ],
+    [
+      "Low-Rise Signage Installation",
+      "238210",
+      "Traffic signal installation",
+      "failed_semantic_check"
+    ],
+    [
+      "High-Rise Signage Installation",
+      "238190",
+      "Fire escape installation",
+      "failed_semantic_check"
+    ],
+    [
+      "Grain Handling Machinery Installation",
+      "238290",
+      "Vending machine installation",
+      "failed_semantic_check"
+    ],
+    [
+      "New Ground Pipeline Installation",
+      "238990",
+      "Playground equipment installation",
+      "failed_semantic_check"
+    ],
+    [
+      "Fire Protection System Services",
+      "561611",
+      "Lie detection services",
+      "failed_semantic_check"
+    ],
+    [
+      "HVAC Installation and Service",
+      "561730",
+      "Landscape installation services",
+      "false_positive"
+    ],
+    [
+      "Low-Rise Foundation Construction",
+      "236220",
+      "Fire station construction",
+      "failed_semantic_check"
+    ],
+    [
+      "High-Rise Foundation Construction",
+      "236220",
+      "Fire station construction",
+      "failed_semantic_check"
+    ],
+    [
+      "Masonry Construction Services",
+      "541690",
+      "Agronomy consulting services",
+      "failed_semantic_check"
+    ],
+    [
+      "Drywall Services",
+      "541199",
+      "Paralegal services",
+      "failed_semantic_check"
+    ],
+    [
+      "Millwork Services",
+      "541219",
+      "Billing services",
+      "failed_semantic_check"
+    ],
+    [
+      "General Handyman Services",
+      "531390",
+      "Landman services",
+      "failed_semantic_check"
+    ],
+    [
+      "Flooring Installation Services",
+      "561730",
+      "Landscape installation services",
+      "false_positive"
+    ],
+    [
+      "Sheet Metal Services",
+      "561410",
+      "Secretarial services",
+      "failed_semantic_check"
+    ],
+    [
+      "Non-Structural Steel Fabrication",
+      "332312",
+      "Structural steel, fabricated, manufacturing",
+      "failed_semantic_check"
+    ],
+    [
+      "Well Drilling Services",
+      "541219",
+      "Billing services",
+      "failed_semantic_check"
+    ],
+    [
+      "Directional Drilling Services",
+      "541860",
+      "Direct mail advertising services",
+      "failed_semantic_check"
+    ],
+    [
+      "Fire Safety Equipment Services",
+      "624230",
+      "Refugee settlement services",
+      "failed_semantic_check"
+    ],
+    [
+      "Single Family Renovation Services",
+      "512199",
+      "Film restoration services",
+      "failed_semantic_check"
+    ],
+    [
+      "Multi-Family Construction Services",
+      "541820",
+      "Political consulting services",
+      "failed_semantic_check"
+    ],
+    [
+      "Apartment Renovation Services",
+      "485991",
+      "Paratransit transportation services",
+      "failed_semantic_check"
+    ],
+    [
+      "Swimming Pool Installation Services",
+      "561730",
+      "Landscape installation services",
+      "false_positive"
+    ],
+    [
+      "Vacant Land Services",
+      "561740",
+      "Carpet cleaning services",
+      "failed_semantic_check"
+    ],
+    [
+      "Brewery Operations",
+      "488310",
+      "Seaway operation",
+      "failed_semantic_check"
+    ],
+    [
+      "Tent Manufacturing Services",
+      "311221",
+      "Gluten manufacturing",
+      "failed_semantic_check"
+    ],
+    [
+      "Window and Door Manufacturing",
+      "332321",
+      "Windows, metal, manufacturing",
+      "failed_semantic_check"
+    ],
+    [
+      "Publishing Services",
+      "541219",
+      "Billing services",
+      "failed_semantic_check"
+    ],
+    [
+      "Gas Manufacturing Services",
+      "332216",
+      "Awls manufacturing",
+      "failed_semantic_check"
+    ],
+    [
+      "Asphalt Production Services",
+      "512191",
+      "Teleproduction services",
+      "false_positive"
+    ],
+    [
+      "Plastic Signage Production",
+      "112390",
+      "Partridge production",
+      "failed_semantic_check"
+    ],
+    [
+      "Laboratory Services",
+      "115310",
+      "Forestry services",
+      "failed_semantic_check"
+    ],
+    [
+      "Recycling Services",
+      "561910",
+      "Labeling services",
+      "failed_semantic_check"
+    ],
+    [
+      "Financial Services",
+      "115210",
+      "Breeding, animal, services",
+      "failed_semantic_check"
+    ],
+    [
+      "Travel Services",
+      "541199",
+      "Paralegal services",
+      "failed_semantic_check"
+    ],
+    [
+      "Digital Marketing Services",
+      "812930",
+      "Valet parking services",
+      "failed_semantic_check"
+    ],
+    [
+      "E-Commerce Services",
+      "541430",
+      "Commercial art services",
+      "failed_semantic_check"
+    ],
+    [
+      "SEO Services",
+      "115210",
+      "Stud services",
+      "false_positive"
+    ],
+    [
+      "Food Safety Services",
+      "115310",
+      "Forestry services",
+      "failed_semantic_check"
+    ],
+    [
+      "Quality Assurance Services",
+      "541990",
+      "Quantity surveyor services",
+      "failed_semantic_check"
+    ],
+    [
+      "Compliance Services",
+      "812990",
+      "Concierge services",
+      "failed_semantic_check"
+    ],
+    [
+      "Risk Assessment Services",
+      "561491",
+      "Repossession services",
+      "failed_semantic_check"
+    ],
+    [
+      "Community Engagement Services",
+      "812220",
+      "Cemetery management services",
+      "failed_semantic_check"
+    ],
+    [
+      "Stakeholder Services",
+      "115210",
+      "Stud services",
+      "false_positive"
+    ],
+    [
+      "Volunteer Services",
+      "812990",
+      "Porter services",
+      "false_positive"
+    ],
+    [
+      "Health Promotion Services",
+      "512191",
+      "Teleproduction services",
+      "failed_semantic_check"
+    ],
+    [
+      "Physical Therapy Services",
+      "541360",
+      "Geophysical mapping services",
+      "failed_semantic_check"
+    ],
+    [
+      "Occupational Health Services",
+      "611710",
+      "Educational testing services",
+      "failed_semantic_check"
+    ]
+  ],
+  "naics_hierarchy": {
+    "2-digit": {
+      "54": 35,
+      "56": 20,
+      "23": 16,
+      "81": 8,
+      "32": 7,
+      "31": 6,
+      "11": 5,
+      "33": 5,
+      "48": 3,
+      "51": 2
+    },
+    "3-digit": {
+      "541": 35,
+      "561": 16,
+      "238": 10,
+      "812": 7,
+      "237": 4,
+      "325": 4,
+      "562": 4,
+      "115": 3,
+      "311": 3,
+      "236": 2
+    }
+  }
+}

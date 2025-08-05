@@ -1,0 +1,108 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Machine Learning
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.model
+*.weights
+models/
+!models/README.md
+checkpoints/
+logs/
+tensorboard/
+
+# Data files (uncomment if you don't want to track data)
+# *.csv
+# *.json
+# *.xlsx
+# *.xls
+# data/
+# datasets/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Git
+.git/
+
+# Logs
+*.log
+*.out
+*.err
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Node modules (if any JavaScript)
+node_modules/
+
+# Archives shouldn't include these either
+archive/*/venv/
+archive/*/__pycache__/
+archive/*/*.pkl
+archive/*/*.log
+archive/*/.git/
+archive/*/node_modules/

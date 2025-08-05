@@ -1,0 +1,912 @@
+{
+  "Landscaping Services": {
+    "match_count": 4,
+    "first_match": "561730: Interior landscaping services",
+    "all_matches": [
+      "561730: Interior landscaping services",
+      "561730: Landscaping services (except planning)",
+      "561730: Seasonal property maintenance services (i.e., snow plowing in winter, landscaping during other seasons)",
+      "561730: Snow plowing services combined with landscaping services (i.e., seasonal property maintenance services)"
+    ]
+  },
+  "Veterinary Services": {
+    "match_count": 5,
+    "first_match": "325412: Veterinary medicinal preparations manufacturing",
+    "all_matches": [
+      "325412: Veterinary medicinal preparations manufacturing",
+      "541714: Biotechnology research and development laboratories or services in the veterinary sciences (except nanobiotechnology research and development)",
+      "541715: Veterinary research and development laboratories or services (except biotechnology and nanotechnology research and development)",
+      "541940: Disease testing services, veterinary",
+      "541940: Internists' offices, veterinary"
+    ]
+  },
+  "Veterinary Clinics": {
+    "match_count": 1,
+    "first_match": "541940: Veterinary clinics",
+    "all_matches": [
+      "541940: Veterinary clinics"
+    ]
+  },
+  "Pet Boarding Services": {
+    "match_count": 2,
+    "first_match": "812910: Kennels, pet boarding",
+    "all_matches": [
+      "812910: Kennels, pet boarding",
+      "812910: Pet boarding services"
+    ]
+  },
+  "Pet Grooming Services": {
+    "match_count": 1,
+    "first_match": "812910: Pet grooming services",
+    "all_matches": [
+      "812910: Pet grooming services"
+    ]
+  },
+  "Sidewalk Construction Services": {
+    "match_count": 1,
+    "first_match": "238990: Sidewalk construction, residential and commercial",
+    "all_matches": [
+      "238990: Sidewalk construction, residential and commercial"
+    ]
+  },
+  "Land Leveling Services": {
+    "match_count": 1,
+    "first_match": "238910: Land leveling contractors",
+    "all_matches": [
+      "238910: Land leveling contractors"
+    ]
+  },
+  "Conveyor System Installation": {
+    "match_count": 2,
+    "first_match": "238290: Conveyor system installation",
+    "all_matches": [
+      "238290: Conveyor system installation",
+      "238290: Pneumatic tube conveyor system installation"
+    ]
+  },
+  "Tank Installation Services": {
+    "match_count": 2,
+    "first_match": "238220: Hot water tank installation",
+    "all_matches": [
+      "238220: Hot water tank installation",
+      "238220: Household oil storage tank installation"
+    ]
+  },
+  "Road Maintenance Services": {
+    "match_count": 1,
+    "first_match": "333120: Drags, road construction and road maintenance equipment, manufacturing",
+    "all_matches": [
+      "333120: Drags, road construction and road maintenance equipment, manufacturing"
+    ]
+  },
+  "Pipeline Construction Services": {
+    "match_count": 3,
+    "first_match": "237120: Natural gas pipeline construction",
+    "all_matches": [
+      "237120: Natural gas pipeline construction",
+      "237120: Oil pipeline construction",
+      "237120: Pipeline construction on oil and gas field gathering lines to point of distribution on a contract basis"
+    ]
+  },
+  "Excavation Services": {
+    "match_count": 4,
+    "first_match": "213112: Slush pits and cellars, excavation of, on a contract basis",
+    "all_matches": [
+      "213112: Slush pits and cellars, excavation of, on a contract basis",
+      "238910: Excavation contractors",
+      "238910: Foundation digging (i.e., excavation)",
+      "238910: Grave excavation contractors"
+    ]
+  },
+  "Boiler Installation Services": {
+    "match_count": 1,
+    "first_match": "238220: Heating boiler installation",
+    "all_matches": [
+      "238220: Heating boiler installation"
+    ]
+  },
+  "Steam Services": {
+    "match_count": 5,
+    "first_match": "213112: Cleaning out (e.g., bailing out, steam cleaning, swabbing) wells on a contract basis",
+    "all_matches": [
+      "213112: Cleaning out (e.g., bailing out, steam cleaning, swabbing) wells on a contract basis",
+      "213112: Steam cleaning oil and gas wells on a contract basis",
+      "221330: Distribution of steam heat",
+      "221330: Geothermal steam production",
+      "221330: Heat, steam, distribution"
+    ]
+  },
+  "Water Treatment Services": {
+    "match_count": 3,
+    "first_match": "221310: Water treatment and distribution",
+    "all_matches": [
+      "221310: Water treatment and distribution",
+      "221310: Water treatment plants",
+      "237110: Water treatment plant construction"
+    ]
+  },
+  "Cable Installation Services": {
+    "match_count": 1,
+    "first_match": "238210: Computer and network cable installation",
+    "all_matches": [
+      "238210: Computer and network cable installation"
+    ]
+  },
+  "Elevator Installation Services": {
+    "match_count": 1,
+    "first_match": "238290: Elevator installation",
+    "all_matches": [
+      "238290: Elevator installation"
+    ]
+  },
+  "Drywall Services": {
+    "match_count": 5,
+    "first_match": "238310: Drywall contractors",
+    "all_matches": [
+      "238310: Drywall contractors",
+      "238310: Drywall finishing (e.g., sanding, spackling, stippling, taping, texturing)",
+      "238310: Drywall hanging",
+      "238310: Drywall installation",
+      "238310: Finishing drywall contractors"
+    ]
+  },
+  "Tile Installation Services": {
+    "match_count": 5,
+    "first_match": "237990: Farm drainage tile installation",
+    "all_matches": [
+      "237990: Farm drainage tile installation",
+      "238310: Ceiling tile installation",
+      "238340: Ceramic tile installation",
+      "238910: Septic tank and weeping tile installation",
+      "238910: Weeping tile installation"
+    ]
+  },
+  "Carpentry Services": {
+    "match_count": 5,
+    "first_match": "238130: Carpentry, framing",
+    "all_matches": [
+      "238130: Carpentry, framing",
+      "238350: Carpentry work (except framing)",
+      "238350: Finish carpentry",
+      "238350: Trim and finish carpentry contractors",
+      "532490: Carpentry equipment rental or leasing"
+    ]
+  },
+  "Millwork Services": {
+    "match_count": 5,
+    "first_match": "238350: Millwork installation",
+    "all_matches": [
+      "238350: Millwork installation",
+      "321114: Millwork, treating",
+      "321912: Planing mills (except millwork)",
+      "321918: Panel work, wood millwork, manufacturing",
+      "321918: Planing mills, millwork"
+    ]
+  },
+  "Insulation Services": {
+    "match_count": 5,
+    "first_match": "238290: Boiler and pipe insulation installation",
+    "all_matches": [
+      "238290: Boiler and pipe insulation installation",
+      "238290: Duct insulation installation",
+      "238290: Insulation, boiler, duct and pipe, installation",
+      "238290: Mechanical equipment insulation",
+      "238290: Pipe, duct and boiler insulation"
+    ]
+  },
+  "Painting Services": {
+    "match_count": 5,
+    "first_match": "237310: Airport runway line painting (e.g., striping)",
+    "all_matches": [
+      "237310: Airport runway line painting (e.g., striping)",
+      "237310: Highway line painting",
+      "237310: Painting lines on highways, streets and bridges",
+      "237310: Painting traffic lanes or parking lots",
+      "237310: Parking lot marking and line painting"
+    ]
+  },
+  "Spray Painting Services": {
+    "match_count": 2,
+    "first_match": "423830: Spray painting equipment, industrial-type, merchant wholesalers",
+    "all_matches": [
+      "423830: Spray painting equipment, industrial-type, merchant wholesalers",
+      "424950: Spray painting equipment (except industrial-type) merchant wholesalers"
+    ]
+  },
+  "Flooring Installation Services": {
+    "match_count": 5,
+    "first_match": "238310: Fireproof flooring installation",
+    "all_matches": [
+      "238310: Fireproof flooring installation",
+      "238330: Access flooring installation",
+      "238330: Computer flooring installation",
+      "238330: Parquet flooring installation",
+      "238340: Stone flooring installation"
+    ]
+  },
+  "Interior Design Services": {
+    "match_count": 3,
+    "first_match": "541410: Interior design consulting services",
+    "all_matches": [
+      "541410: Interior design consulting services",
+      "541410: Interior design services",
+      "541410: Interior designer services"
+    ]
+  },
+  "Sheet Metal Services": {
+    "match_count": 5,
+    "first_match": "238160: Sheet metal roofing installation",
+    "all_matches": [
+      "238160: Sheet metal roofing installation",
+      "238220: Sheet metal duct work installation",
+      "332114: Gutters and down spouts sheet metal, custom roll formed, manufacturing",
+      "332322: Air cowls, sheet metal (except stampings), manufacturing",
+      "332322: Awnings, sheet metal (except stampings), manufacturing"
+    ]
+  },
+  "Welding Services": {
+    "match_count": 5,
+    "first_match": "238190: Welding, on-site, contractors",
+    "all_matches": [
+      "238190: Welding, on-site, contractors",
+      "325998: Fluxes (e.g., brazing, galvanizing, soldering, welding) manufacturing",
+      "331491: Welding rod, uncoated, nonferrous metals (except aluminum, copper), made from purchased metals or scrap",
+      "332313: Plate work (e.g., bending, cutting, punching, shaping, welding), fabricated metal, manufacturing",
+      "333514: Welding positioners (i.e., jigs) manufacturing"
+    ]
+  },
+  "Well Drilling Services": {
+    "match_count": 5,
+    "first_match": "213111: Gas well drilling on a contract basis",
+    "all_matches": [
+      "213111: Gas well drilling on a contract basis",
+      "213111: Oil and gas well drilling services (redrilling, spudding, tailing) on a contract basis",
+      "213111: Oil well drilling on a contract basis",
+      "213111: Service well drilling on a contract basis",
+      "213111: Water intake well drilling, oil and gas field on a contract basis"
+    ]
+  },
+  "Directional Drilling Services": {
+    "match_count": 1,
+    "first_match": "213111: Directional drilling of oil and gas wells on a contract basis",
+    "all_matches": [
+      "213111: Directional drilling of oil and gas wells on a contract basis"
+    ]
+  },
+  "Waterproofing Services": {
+    "match_count": 6,
+    "first_match": "238390: Caulking (i.e., waterproofing) contractors",
+    "all_matches": [
+      "238390: Caulking (i.e., waterproofing) contractors",
+      "238390: Waterproofing contractors",
+      "313320: Garments, oiling (i.e., waterproofing)",
+      "313320: Raincoats waterproofing (i.e., oiling)",
+      "313320: Textile waterproofing",
+      "313320: Waterproofing apparel, fabrics and textile products (e.g., oiling, rubberizing, waxing, varnishing)"
+    ]
+  },
+  "Septic System Services": {
+    "match_count": 1,
+    "first_match": "238910: Septic system contractors",
+    "all_matches": [
+      "238910: Septic system contractors"
+    ]
+  },
+  "Building Cleaning Services": {
+    "match_count": 2,
+    "first_match": "561720: Building cleaning services, interior",
+    "all_matches": [
+      "561720: Building cleaning services, interior",
+      "561720: Building cleaning services, janitorial"
+    ]
+  },
+  "Testing and Inspection Services": {
+    "match_count": 1,
+    "first_match": "334519: Physical properties testing and inspection equipment manufacturing",
+    "all_matches": [
+      "334519: Physical properties testing and inspection equipment manufacturing"
+    ]
+  },
+  "Restoration Services": {
+    "match_count": 5,
+    "first_match": "236118: Fire and flood restoration, multifamily building, general contractors",
+    "all_matches": [
+      "236118: Fire and flood restoration, multifamily building, general contractors",
+      "236118: Fire and flood restoration, single-family housing, general contractors",
+      "236220: Fire and flood restoration of commercial and institutional buildings",
+      "336411: Aircraft rebuilding (i.e., restoration to original design specifications)",
+      "512199: Film restoration services"
+    ]
+  },
+  "Seafood Processing Services": {
+    "match_count": 1,
+    "first_match": "311710: Floating factory ships, seafood processing",
+    "all_matches": [
+      "311710: Floating factory ships, seafood processing"
+    ]
+  },
+  "Canning Services": {
+    "match_count": 5,
+    "first_match": "311111: Meat canning, dog and cat, pet food, made from purchased carcasses",
+    "all_matches": [
+      "311111: Meat canning, dog and cat, pet food, made from purchased carcasses",
+      "311111: Meat products, dog and cat, pet food, canning, made from purchased carcasses",
+      "311421: Canning fruits and vegetables",
+      "311421: Canning jams and jellies",
+      "311421: Fruit juice canning"
+    ]
+  },
+  "Animal Feed Manufacturing": {
+    "match_count": 5,
+    "first_match": "115114: Grain grinding (except custom grinding for animal feed)",
+    "all_matches": [
+      "115114: Grain grinding (except custom grinding for animal feed)",
+      "311111: Animal feed mills, dog and cat, manufacturing",
+      "311111: Animal feeds, prepared, dog and cat, manufacturing",
+      "311119: Animal feed mills (except dog and cat) manufacturing",
+      "311119: Animal feeds, prepared (except dog and cat), manufacturing"
+    ]
+  },
+  "Pet Food Manufacturing": {
+    "match_count": 5,
+    "first_match": "311111: Meat canning, dog and cat, pet food, made from purchased carcasses",
+    "all_matches": [
+      "311111: Meat canning, dog and cat, pet food, made from purchased carcasses",
+      "311111: Meat products, dog and cat, pet food, canning, made from purchased carcasses",
+      "311111: Pet food, dog and cat, manufacturing",
+      "311119: Pet food (except cat, dog) manufacturing",
+      "311612: Meat canning (except baby, pet food, poultry), made from purchased carcasses"
+    ]
+  },
+  "Seed Processing Services": {
+    "match_count": 1,
+    "first_match": "115114: Seed processing, postharvest for propagation",
+    "all_matches": [
+      "115114: Seed processing, postharvest for propagation"
+    ]
+  },
+  "Confectionery Manufacturing": {
+    "match_count": 5,
+    "first_match": "311313: Sugar, confectionery, made from sugar beets",
+    "all_matches": [
+      "311313: Sugar, confectionery, made from sugar beets",
+      "311314: Sugar, confectionery, manufacturing",
+      "311340: Cake ornaments, confectionery, manufacturing",
+      "311340: Confectionery, nonchocolate, manufacturing",
+      "311351: Chocolate, confectionery, made from cacao beans"
+    ]
+  },
+  "Distilling Services": {
+    "match_count": 5,
+    "first_match": "312130: Alcoholic beverages, brandy, distilling",
+    "all_matches": [
+      "312130: Alcoholic beverages, brandy, distilling",
+      "312130: Applejack distilling",
+      "312130: Brandy distilling",
+      "312130: Distilling brandy",
+      "312130: Liquors, brandy, distilling and blending"
+    ]
+  },
+  "Rendering Services": {
+    "match_count": 5,
+    "first_match": "311613: Animal fats rendering",
+    "all_matches": [
+      "311613: Animal fats rendering",
+      "311613: Animal oil rendering",
+      "311613: Bones, fat, rendering",
+      "311613: Fats, animal, rendering",
+      "311613: Grease rendering"
+    ]
+  },
+  "Textile Manufacturing Services": {
+    "match_count": 1,
+    "first_match": "333249: Finishing machinery for textile manufacturing",
+    "all_matches": [
+      "333249: Finishing machinery for textile manufacturing"
+    ]
+  },
+  "Apparel Manufacturing": {
+    "match_count": 5,
+    "first_match": "313210: Textile products (except apparel) made in broadwoven fabric mills",
+    "all_matches": [
+      "313210: Textile products (except apparel) made in broadwoven fabric mills",
+      "313220: Apparel webbings manufacturing",
+      "313220: Textile products (except apparel) made in narrow woven fabric mills",
+      "313240: Lace products (except apparel) made in lace mills",
+      "313240: Textile products (except apparel) made in lace mills"
+    ]
+  },
+  "Accessory Manufacturing": {
+    "match_count": 5,
+    "first_match": "315210: Caps (i.e., apparel accessory) cut and sew apparel contractors",
+    "all_matches": [
+      "315210: Caps (i.e., apparel accessory) cut and sew apparel contractors",
+      "315990: Caps (i.e., apparel accessory) cut and sewn from purchased fabric (except fur, leather, apparel contractors)",
+      "332410: Economizers (i.e., power boiler accessory) manufacturing",
+      "333515: Angle rings (i.e., a machine tool accessory) manufacturing",
+      "333515: Arbors (i.e., a machine tool accessory) manufacturing"
+    ]
+  },
+  "Children's Clothing Manufacturing": {
+    "match_count": 2,
+    "first_match": "424330: Children's clothing merchant wholesalers",
+    "all_matches": [
+      "424330: Children's clothing merchant wholesalers",
+      "424330: Women's and children's clothing accessories merchant wholesalers"
+    ]
+  },
+  "Window Treatment Manufacturing": {
+    "match_count": 1,
+    "first_match": "442291: Window treatment stores",
+    "all_matches": [
+      "442291: Window treatment stores"
+    ]
+  },
+  "Canvas Manufacturing": {
+    "match_count": 5,
+    "first_match": "313210: Canvases weaving",
+    "all_matches": [
+      "313210: Canvases weaving",
+      "314910: Canvas bags manufacturing",
+      "314910: Canvas products made from purchased canvas or canvas substitutes",
+      "316210: Canvas shoes, plastics soled fabric upper, manufacturing",
+      "316210: Canvas shoes, rubber soled fabric upper, manufacturing"
+    ]
+  },
+  "Wood Product Manufacturing": {
+    "match_count": 5,
+    "first_match": "321114: Preserving purchased wood and wood products",
+    "all_matches": [
+      "321114: Preserving purchased wood and wood products",
+      "321114: Treating purchased wood and wood products",
+      "321114: Treating wood products with creosote or other preservatives",
+      "321114: Wood products, creosoting purchased wood products",
+      "423990: Wood products (e.g., chips, posts, shavings, ties) merchant wholesalers"
+    ]
+  },
+  "Window and Door Manufacturing": {
+    "match_count": 3,
+    "first_match": "238350: Window and door (residential-type) of any material, prefabricated, installation",
+    "all_matches": [
+      "238350: Window and door (residential-type) of any material, prefabricated, installation",
+      "336320: Power window and door lock systems, automotive, truck, and bus, manufacturing",
+      "423310: Screens, window and door, merchant wholesalers"
+    ]
+  },
+  "Cabinetry Manufacturing": {
+    "match_count": 1,
+    "first_match": "238350: Cabinetry work performed at the construction site",
+    "all_matches": [
+      "238350: Cabinetry work performed at the construction site"
+    ]
+  },
+  "Trim Manufacturing": {
+    "match_count": 5,
+    "first_match": "115210: Hoof trimming",
+    "all_matches": [
+      "115210: Hoof trimming",
+      "238350: Molding or trim, wood or plastic, installation",
+      "238350: Trim and finish carpentry contractors",
+      "314999: Furniture trimmings made from purchased fabrics",
+      "315210: Apparel trimmings and findings cut and sew apparel contractors"
+    ]
+  },
+  "Pallet Manufacturing": {
+    "match_count": 5,
+    "first_match": "321920: Pallet containers, wood or wood and metal combination, manufacturing",
+    "all_matches": [
+      "321920: Pallet containers, wood or wood and metal combination, manufacturing",
+      "321920: Pallet parts, wood, manufacturing",
+      "321920: Pallets, wood or wood and metal combination, manufacturing",
+      "321920: Skids and pallets, wood or wood and metal combination, manufacturing",
+      "322211: Pallets, corrugated and solid fiber, made from purchased paper or paperboard"
+    ]
+  },
+  "Furniture Manufacturing": {
+    "match_count": 5,
+    "first_match": "238390: Laboratory furniture and equipment installation",
+    "all_matches": [
+      "238390: Laboratory furniture and equipment installation",
+      "238390: Modular furniture system attachment and installation",
+      "238390: Office furniture, modular system, installation",
+      "314999: Furniture trimmings made from purchased fabrics",
+      "321912: Furniture dimension stock, hardwood, unfinished, manufacturing"
+    ]
+  },
+  "Bedding Manufacturing": {
+    "match_count": 5,
+    "first_match": "111219: Acorn squash farming, field, bedding plant and seed production",
+    "all_matches": [
+      "111219: Acorn squash farming, field, bedding plant and seed production",
+      "111219: Artichoke farming, field, bedding plant and seed production",
+      "111219: Asparagus farming, field, bedding plant and seed production",
+      "111219: Beet farming (except sugar beets), field, bedding plant and seed production",
+      "111219: Broccoli farming, field, bedding plant and seed production"
+    ]
+  },
+  "Stationery Manufacturing": {
+    "match_count": 5,
+    "first_match": "322230: Envelopes (i.e., mailing, stationery) made from any material",
+    "all_matches": [
+      "322230: Envelopes (i.e., mailing, stationery) made from any material",
+      "322230: Stationery made from purchased paper",
+      "323111: Stationery, commercial printing (except screen), on a job-order basis",
+      "323113: Stationery, screen printing, on a job-order basis",
+      "327110: Stationery articles, pottery, manufacturing"
+    ]
+  },
+  "Publishing Services": {
+    "match_count": 5,
+    "first_match": "323111: Address lists commercial printing (except screen) without publishing",
+    "all_matches": [
+      "323111: Address lists commercial printing (except screen) without publishing",
+      "323111: Advertising materials (e.g., coupons, flyers) commercial printing (except screen) without publishing",
+      "323111: Agricultural magazines and periodicals commercial printing (except screen) without publishing",
+      "323111: Art prints commercial printing (except screen) without publishing",
+      "323111: Atlases commercial printing (except screen) without publishing"
+    ]
+  },
+  "Printing Services": {
+    "match_count": 5,
+    "first_match": "236210: Printing plant construction",
+    "all_matches": [
+      "236210: Printing plant construction",
+      "313310: Printing fabric grey goods ",
+      "313310: Printing textile banners (except screen printing)",
+      "313310: Printing textile products (except screen and apparel printing)",
+      "313310: Screen printing fabric grey goods"
+    ]
+  },
+  "Gas Manufacturing Services": {
+    "match_count": 3,
+    "first_match": "325120: Compressed and liquefied industrial gas manufacturing",
+    "all_matches": [
+      "325120: Compressed and liquefied industrial gas manufacturing",
+      "325180: Sulfur hexafluoride gas manufacturing",
+      "325199: Tear gas manufacturing"
+    ]
+  },
+  "Ink Production Services": {
+    "match_count": 1,
+    "first_match": "112930: Mink production",
+    "all_matches": [
+      "112930: Mink production"
+    ]
+  },
+  "Plastic Manufacturing": {
+    "match_count": 5,
+    "first_match": "212325: Plastic fire clay mining and/or beneficiating",
+    "all_matches": [
+      "212325: Plastic fire clay mining and/or beneficiating",
+      "238350: Molding or trim, wood or plastic, installation",
+      "238390: Coating concrete structures with plastics",
+      "313320: Plastics coating of textiles and apparel",
+      "314110: Doormats, all materials (except entirely of rubber or plastics), manufacturing"
+    ]
+  },
+  "Cosmetic Manufacturing": {
+    "match_count": 5,
+    "first_match": "316998: Cosmetic bags (except metal) manufacturing",
+    "all_matches": [
+      "316998: Cosmetic bags (except metal) manufacturing",
+      "325620: Cosmetic creams, lotions, and oils manufacturing",
+      "325620: Makeup (i.e., cosmetics) manufacturing",
+      "325620: Rouge, cosmetic, manufacturing",
+      "325620: Toilet preparations (e.g., cosmetics, deodorants, perfumes) manufacturing"
+    ]
+  },
+  "Chemical Manufacturing": {
+    "match_count": 5,
+    "first_match": "115112: Chemical treatment of soil for crops",
+    "all_matches": [
+      "115112: Chemical treatment of soil for crops",
+      "115112: Thinning of crops, mechanical and chemical",
+      "213112: Chemically treating oil and gas wells (e.g., acidizing, bailing, swabbing) on a contract basis",
+      "236210: Chemical (except petrochemical process-type) plant construction",
+      "237120: Construction management, oil refinery and petrochemical complex"
+    ]
+  },
+  "Rubber Manufacturing": {
+    "match_count": 5,
+    "first_match": "111421: Field nurseries (i.e., growing of flowers and shrubbery)",
+    "all_matches": [
+      "111421: Field nurseries (i.e., growing of flowers and shrubbery)",
+      "111421: Shrubbery farming",
+      "212324: Rubber clay mining and/or beneficiating",
+      "238220: Scrubber, air purification, installation",
+      "238290: Rubber door installation"
+    ]
+  },
+  "Software Manufacturing": {
+    "match_count": 5,
+    "first_match": "334613: Computer software tapes and disks, blank, rigid and floppy, manufacturing",
+    "all_matches": [
+      "334613: Computer software tapes and disks, blank, rigid and floppy, manufacturing",
+      "334614: CD-ROM, software, mass reproducing",
+      "334614: Compact discs (i.e., CD-ROM), software, mass reproducing",
+      "334614: Game cartridge software, mass reproducing",
+      "334614: Games, computer software, mass reproducing"
+    ]
+  },
+  "Food Processing Services": {
+    "match_count": 4,
+    "first_match": "236210: Food processing plant construction",
+    "all_matches": [
+      "236210: Food processing plant construction",
+      "311423: Freeze-dried, food processing, fruits and vegetables",
+      "311710: Floating factory ships, seafood processing",
+      "423830: Food processing machinery and equipment merchant wholesalers"
+    ]
+  },
+  "Pharmaceutical Manufacturing": {
+    "match_count": 5,
+    "first_match": "236210: Pharmaceutical manufacturing plant construction",
+    "all_matches": [
+      "236210: Pharmaceutical manufacturing plant construction",
+      "325199: Enzyme proteins (i.e., basic synthetic chemicals) (except pharmaceutical use) manufacturing",
+      "325411: Enzyme proteins (i.e., basic synthetic chemicals), pharmaceutical use, manufacturing",
+      "325412: Pharmaceutical preparations (e.g., capsules, liniments, ointments, tablets) manufacturing",
+      "325412: Sodium chloride pharmaceutical preparations manufacturing"
+    ]
+  },
+  "Laboratory Services": {
+    "match_count": 5,
+    "first_match": "112990: Laboratory animal production (e.g., guinea pigs, mice, rats)",
+    "all_matches": [
+      "112990: Laboratory animal production (e.g., guinea pigs, mice, rats)",
+      "236220: Laboratory construction",
+      "238390: Laboratory furniture and equipment installation",
+      "311119: Laboratory animal feed manufacturing",
+      "315210: Coats, nontailored service apparel (e.g., laboratory, medical, mechanics'), cut and sew apparel contractors"
+    ]
+  },
+  "Waste Management Services": {
+    "match_count": 1,
+    "first_match": "924110: Waste management program administration",
+    "all_matches": [
+      "924110: Waste management program administration"
+    ]
+  },
+  "Recycling Services": {
+    "match_count": 4,
+    "first_match": "325612: Recycling drycleaning fluids",
+    "all_matches": [
+      "325612: Recycling drycleaning fluids",
+      "325998: Recycling services for degreasing solvents (e.g., engine, machinery) manufacturing",
+      "333318: Wash water recycling machinery manufacturing",
+      "811212: Recycling inkjet cartridges"
+    ]
+  },
+  "Environmental Consulting": {
+    "match_count": 1,
+    "first_match": "541620: Environmental consulting services",
+    "all_matches": [
+      "541620: Environmental consulting services"
+    ]
+  },
+  "Property Management Services": {
+    "match_count": 2,
+    "first_match": "531390: Real estate asset management services (except property management)",
+    "all_matches": [
+      "531390: Real estate asset management services (except property management)",
+      "921190: Public property management services, government"
+    ]
+  },
+  "Real Estate Services": {
+    "match_count": 5,
+    "first_match": "237210: Real estate (except cemeteries) subdividers",
+    "all_matches": [
+      "237210: Real estate (except cemeteries) subdividers",
+      "237210: Subdividers, real estate",
+      "237210: Subdividing real estate",
+      "519190: Title search services (except real estate)",
+      "522292: Loan correspondents (i.e., lending funds with real estate as collateral)"
+    ]
+  },
+  "Insurance Services": {
+    "match_count": 5,
+    "first_match": "522220: Insurance premium financing",
+    "all_matches": [
+      "522220: Insurance premium financing",
+      "524113: Accidental death and dismemberment insurance carriers, direct",
+      "524113: Accidental death and dismemberment insurance underwriting, direct",
+      "524113: Cooperative life insurance organizations",
+      "524113: Credit life insurance carriers, direct"
+    ]
+  },
+  "Financial Services": {
+    "match_count": 5,
+    "first_match": "323111: Financial magazines and periodicals commercial printing (except screen) without publishing",
+    "all_matches": [
+      "323111: Financial magazines and periodicals commercial printing (except screen) without publishing",
+      "323113: Financial magazines and periodicals screen printing without publishing",
+      "511120: Financial magazine and periodical publishers (except exclusive Internet publishing)",
+      "511120: Financial magazine and periodical publishers and printing combined",
+      "518210: Data processing services (except payroll services, financial transaction processing services)"
+    ]
+  },
+  "Legal Services": {
+    "match_count": 6,
+    "first_match": "541110: Legal aid services",
+    "all_matches": [
+      "541110: Legal aid services",
+      "541199: Paralegal services",
+      "541922: Video taping services for legal depositions",
+      "541990: Arbitration and conciliation services (except by attorney, paralegal)",
+      "541990: Mediation product services (except by lawyer, attorney, paralegal offices, family and social services)",
+      "922130: Legal counsel offices, government"
+    ]
+  },
+  "Consulting Services": {
+    "match_count": 5,
+    "first_match": "115210: Livestock breeding services (except consulting)",
+    "all_matches": [
+      "115210: Livestock breeding services (except consulting)",
+      "523930: Investment advice consulting services, customized, fees paid by client",
+      "524298: Insurance coverage consulting services",
+      "541199: Jury consulting services",
+      "541199: Trial consulting services"
+    ]
+  },
+  "Marketing Services": {
+    "match_count": 5,
+    "first_match": "423120: Gasoline marketing equipment merchant wholesalers",
+    "all_matches": [
+      "423120: Gasoline marketing equipment merchant wholesalers",
+      "522294: SLMA (Student Loan Marketing Association)",
+      "522294: Student Loan Marketing Association (SLMA)",
+      "541613: Marketing consulting services",
+      "541613: Marketing management consulting services"
+    ]
+  },
+  "Management Consulting": {
+    "match_count": 5,
+    "first_match": "541611: Administrative management consulting services",
+    "all_matches": [
+      "541611: Administrative management consulting services",
+      "541611: Business management consulting services",
+      "541611: Financial management consulting (except investment advice) services",
+      "541611: General management consulting services",
+      "541611: Medical office management consulting services or consultants"
+    ]
+  },
+  "Business Development Services": {
+    "match_count": 1,
+    "first_match": "926110: Small business development agencies",
+    "all_matches": [
+      "926110: Small business development agencies"
+    ]
+  },
+  "Software Development Services": {
+    "match_count": 1,
+    "first_match": "541511: Computer program or software development, custom",
+    "all_matches": [
+      "541511: Computer program or software development, custom"
+    ]
+  },
+  "Strategic Planning Services": {
+    "match_count": 1,
+    "first_match": "541611: Strategic planning consulting services",
+    "all_matches": [
+      "541611: Strategic planning consulting services"
+    ]
+  },
+  "Training Services": {
+    "match_count": 5,
+    "first_match": "115210: Horses, training (except racehorses)",
+    "all_matches": [
+      "115210: Horses, training (except racehorses)",
+      "115210: Training horses (except racehorses)",
+      "213113: Coal mining support services (tunneling, blasting, training, overburden removal)(except site preparation and related construction contractor activities)",
+      "315210: Training pants (i.e., underwear) cut and sew apparel contractors",
+      "315240: Training pants (i.e., underwear), infants', cut and sewn from purchased fabric (except apparel contractors)"
+    ]
+  },
+  "Public Relations Services": {
+    "match_count": 3,
+    "first_match": "541820: Public relations agencies",
+    "all_matches": [
+      "541820: Public relations agencies",
+      "541820: Public relations consulting services",
+      "541820: Public relations services"
+    ]
+  },
+  "Catering Services": {
+    "match_count": 2,
+    "first_match": "722320: Banquet halls with catering staff",
+    "all_matches": [
+      "722320: Banquet halls with catering staff",
+      "722320: Catering services, social"
+    ]
+  },
+  "Travel Services": {
+    "match_count": 5,
+    "first_match": "316998: Traveling bags, all materials, manufacturing",
+    "all_matches": [
+      "316998: Traveling bags, all materials, manufacturing",
+      "323117: Travel guide books printing and binding without publishing",
+      "323117: Travel guide books printing without publishing",
+      "333415: Air-conditioners, unit (e.g., motor home, travel trailer, window), manufacturing",
+      "333923: Cranes, overhead traveling, manufacturing"
+    ]
+  },
+  "Branding Services": {
+    "match_count": 2,
+    "first_match": "115210: Branding",
+    "all_matches": [
+      "115210: Branding",
+      "339940: Branding irons (i.e., marking irons) manufacturing"
+    ]
+  },
+  "Graphic Design Services": {
+    "match_count": 1,
+    "first_match": "541430: Graphic design services",
+    "all_matches": [
+      "541430: Graphic design services"
+    ]
+  },
+  "Advertising Services": {
+    "match_count": 5,
+    "first_match": "323111: Advertising materials (e.g., coupons, flyers) commercial printing (except screen) without publishing",
+    "all_matches": [
+      "323111: Advertising materials (e.g., coupons, flyers) commercial printing (except screen) without publishing",
+      "511120: Advertising periodical publishers (except exclusive Internet publishing)",
+      "511120: Advertising periodical publishers and printing combined",
+      "515112: Advertising sales offices of independent and public radio broadcast stations",
+      "519130: Advertising periodical publishers, exclusively on Internet"
+    ]
+  },
+  "Quality Assurance Services": {
+    "match_count": 1,
+    "first_match": "611430: Quality assurance training",
+    "all_matches": [
+      "611430: Quality assurance training"
+    ]
+  },
+  "Environmental Health Services": {
+    "match_count": 1,
+    "first_match": "923120: Environmental health program administration",
+    "all_matches": [
+      "923120: Environmental health program administration"
+    ]
+  },
+  "Fundraising Services": {
+    "match_count": 4,
+    "first_match": "561499: Fundraising campaign organization services on a contract or fee basis",
+    "all_matches": [
+      "561499: Fundraising campaign organization services on a contract or fee basis",
+      "813212: Disease awareness fundraising organizations",
+      "813212: Disease research (e.g., cancer, heart) fundraising organizations",
+      "813212: Health research fundraising organizations"
+    ]
+  },
+  "Volunteer Services": {
+    "match_count": 5,
+    "first_match": "561990: Private volunteer firefighting",
+    "all_matches": [
+      "561990: Private volunteer firefighting",
+      "624229: Housing repair organizations, volunteer",
+      "624229: Volunteer housing repair organizations",
+      "922160: Fire departments (e.g., government, volunteer (except private))",
+      "922160: Firefighting (except forest), government and volunteer (except private)"
+    ]
+  },
+  "Arts Services": {
+    "match_count": 5,
+    "first_match": "316998: Harnesses and harness parts, leather, manufacturing",
+    "all_matches": [
+      "316998: Harnesses and harness parts, leather, manufacturing",
+      "316998: Saddles and parts, leather, manufacturing",
+      "321114: Bridge and trestle parts, wood, treating",
+      "321114: Trestle parts, wood, treating",
+      "321920: Pallet parts, wood, manufacturing"
+    ]
+  },
+  "Physical Therapy Services": {
+    "match_count": 1,
+    "first_match": "621340: Physical therapy offices (e.g., centers, clinics)",
+    "all_matches": [
+      "621340: Physical therapy offices (e.g., centers, clinics)"
+    ]
+  }
+}

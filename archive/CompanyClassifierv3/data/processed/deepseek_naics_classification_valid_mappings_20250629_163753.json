@@ -1,0 +1,4780 @@
+{
+  "Agricultural Equipment Services": [
+    {
+      "naics_code": "115112",
+      "description": "Soil Preparation, Planting, and Cultivating ",
+      "provided_description": "Soil Preparation, Planting, and Cultivating"
+    },
+    {
+      "naics_code": "115113",
+      "description": "Crop Harvesting, Primarily by Machine ",
+      "provided_description": "Crop Harvesting, Primarily by Machine"
+    },
+    {
+      "naics_code": "811310",
+      "description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ",
+      "provided_description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+    },
+    {
+      "naics_code": "532490",
+      "description": "Other Commercial and Industrial Machinery and Equipment Rental and Leasing ",
+      "provided_description": "Other Commercial and Industrial Machinery and Equipment Rental and Leasing"
+    },
+    {
+      "naics_code": "115114",
+      "description": "Postharvest Crop Activities (except Cotton Ginning) ",
+      "provided_description": "Postharvest Crop Activities"
+    },
+    {
+      "naics_code": "115111",
+      "description": "Cotton Ginning ",
+      "provided_description": "Cotton Ginning"
+    }
+  ],
+  "Soil Nutrient Application Services": [
+    {
+      "naics_code": "115112",
+      "description": "Soil Preparation, Planting, and Cultivating ",
+      "provided_description": "Soil Preparation, Planting, and Cultivating"
+    },
+    {
+      "naics_code": "115114",
+      "description": "Postharvest Crop Activities (except Cotton Ginning) ",
+      "provided_description": "Postharvest Crop Activities"
+    },
+    {
+      "naics_code": "111998",
+      "description": "All Other Miscellaneous Crop Farming ",
+      "provided_description": "All Other Miscellaneous Crop Farming"
+    },
+    {
+      "naics_code": "541990",
+      "description": "All Other Professional, Scientific, and Technical Services",
+      "provided_description": "All Other Professional, Scientific, and Technical Services"
+    }
+  ],
+  "Pesticide Application Services": [
+    {
+      "naics_code": "561710",
+      "description": "Exterminating and Pest Control Services",
+      "provided_description": "Exterminating and Pest Control Services"
+    },
+    {
+      "naics_code": "115112",
+      "description": "Soil Preparation, Planting, and Cultivating ",
+      "provided_description": "Soil Preparation, Planting, and Cultivating"
+    },
+    {
+      "naics_code": "561730",
+      "description": "Landscaping Services",
+      "provided_description": "Landscaping Services"
+    },
+    {
+      "naics_code": "115310",
+      "description": "Support Activities for Forestry",
+      "provided_description": "Support Activities for Forestry"
+    }
+  ],
+  "Ornamental Plant Nurseries": [
+    {
+      "naics_code": "111421",
+      "description": "Nursery and Tree Production ",
+      "provided_description": "Nursery and Tree Production"
+    },
+    {
+      "naics_code": "111422",
+      "description": "Floriculture Production ",
+      "provided_description": "Floriculture Production"
+    }
+  ],
+  "Landscaping Services": [
+    {
+      "naics_code": "561730",
+      "description": "Landscaping Services",
+      "provided_description": "Landscaping Services"
+    }
+  ],
+  "Gardening Services": [
+    {
+      "naics_code": "561730",
+      "description": "Landscaping Services",
+      "provided_description": "Landscaping Services"
+    },
+    {
+      "naics_code": "115112",
+      "description": "Soil Preparation, Planting, and Cultivating ",
+      "provided_description": "Soil Preparation, Planting, and Cultivating"
+    },
+    {
+      "naics_code": "111421",
+      "description": "Nursery and Tree Production ",
+      "provided_description": "Nursery and Tree Production"
+    },
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings ",
+      "provided_description": "Other Services to Buildings and Dwellings"
+    }
+  ],
+  "Tree Services - Pruning / Removal": [
+    {
+      "naics_code": "561730",
+      "description": "Landscaping Services",
+      "provided_description": "Landscaping Services"
+    }
+  ],
+  "Veterinary Services": [
+    {
+      "naics_code": "541940",
+      "description": "Veterinary Services ",
+      "provided_description": "Veterinary Services"
+    }
+  ],
+  "Veterinary Clinics": [
+    {
+      "naics_code": "541940",
+      "description": "Veterinary Services ",
+      "provided_description": "Veterinary Services"
+    }
+  ],
+  "Pet Boarding Services": [
+    {
+      "naics_code": "812910",
+      "description": "Pet Care (except Veterinary) Services ",
+      "provided_description": "Pet Care (except Veterinary) Services"
+    }
+  ],
+  "Animal Day Care Services": [
+    {
+      "naics_code": "812910",
+      "description": "Pet Care (except Veterinary) Services ",
+      "provided_description": "Pet Care (except Veterinary) Services"
+    }
+  ],
+  "Pet Grooming Services": [
+    {
+      "naics_code": "812910",
+      "description": "Pet Care (except Veterinary) Services ",
+      "provided_description": "Pet Care (except Veterinary) Services"
+    }
+  ],
+  "Animal Training Services": [
+    {
+      "naics_code": "812910",
+      "description": "Pet Care (except Veterinary) Services ",
+      "provided_description": "Pet Care (except Veterinary) Services"
+    },
+    {
+      "naics_code": "115210",
+      "description": "Support Activities for Animal Production",
+      "provided_description": "Support Activities for Animal Production"
+    },
+    {
+      "naics_code": "711510",
+      "description": "Independent Artists, Writers, and Performers ",
+      "provided_description": "Independent Artists, Writers, and Performers"
+    }
+  ],
+  "Veterinary Health Centers": [
+    {
+      "naics_code": "541940",
+      "description": "Veterinary Services ",
+      "provided_description": "Veterinary Services"
+    }
+  ],
+  "Animal Trainers": [
+    {
+      "naics_code": "812910",
+      "description": "Pet Care (except Veterinary) Services ",
+      "provided_description": "Pet Care (except Veterinary) Services"
+    },
+    {
+      "naics_code": "115210",
+      "description": "Support Activities for Animal Production",
+      "provided_description": "Support Activities for Animal Production"
+    },
+    {
+      "naics_code": "712130",
+      "description": "Zoos and Botanical Gardens ",
+      "provided_description": "Zoos and Botanical Gardens"
+    },
+    {
+      "naics_code": "541990",
+      "description": "All Other Professional, Scientific, and Technical Services",
+      "provided_description": "All Other Professional, Scientific, and Technical Services"
+    },
+    {
+      "naics_code": "711510",
+      "description": "Independent Artists, Writers, and Performers ",
+      "provided_description": "Independent Artists, Writers, and Performers"
+    }
+  ],
+  "Livestock Dealer Services": [
+    {
+      "naics_code": "424520",
+      "description": "Livestock Merchant Wholesalers ",
+      "provided_description": "Livestock Merchant Wholesalers"
+    },
+    {
+      "naics_code": "425120",
+      "description": "Wholesale Trade Agents and Brokers ",
+      "provided_description": "Wholesale Trade Agents and Brokers"
+    }
+  ],
+  "Timber Harvesting Operations": [
+    {
+      "naics_code": "113310",
+      "description": "Logging ",
+      "provided_description": "Logging"
+    },
+    {
+      "naics_code": "113210",
+      "description": "Forest Nurseries and Gathering of Forest Products ",
+      "provided_description": "Forest Nurseries and Gathering of Forest Products"
+    },
+    {
+      "naics_code": "115310",
+      "description": "Support Activities for Forestry",
+      "provided_description": "Support Activities for Forestry"
+    }
+  ],
+  "Fishing and Hunting Services": [
+    {
+      "naics_code": "713990",
+      "description": "All Other Amusement and Recreation Industries ",
+      "provided_description": "All Other Amusement and Recreation Industries"
+    },
+    {
+      "naics_code": "487210",
+      "description": "Scenic and Sightseeing Transportation, Water",
+      "provided_description": "Scenic and Sightseeing Transportation, Water"
+    }
+  ],
+  "Well Maintenance Services": [
+    {
+      "naics_code": "221310",
+      "description": "Water Supply and Irrigation Systems ",
+      "provided_description": "Water Supply and Irrigation Systems"
+    },
+    {
+      "naics_code": "237110",
+      "description": "Water and Sewer Line and Related Structures Construction ",
+      "provided_description": "Water and Sewer Line and Related Structures Construction"
+    },
+    {
+      "naics_code": "238910",
+      "description": "Site Preparation Contractors",
+      "provided_description": "Site Preparation Contractors"
+    },
+    {
+      "naics_code": "562910",
+      "description": "Remediation Services ",
+      "provided_description": "Remediation Services"
+    }
+  ],
+  "Field Welding Services": [
+    {
+      "naics_code": "238120",
+      "description": "Structural Steel and Precast Concrete Contractors ",
+      "provided_description": "Structural Steel and Precast Concrete Contractors"
+    },
+    {
+      "naics_code": "332312",
+      "description": "Fabricated Structural Metal Manufacturing ",
+      "provided_description": "Fabricated Structural Metal Manufacturing"
+    },
+    {
+      "naics_code": "332710",
+      "description": "Machine Shops",
+      "provided_description": "Machine Shops"
+    },
+    {
+      "naics_code": "332813",
+      "description": "Electroplating, Plating, Polishing, Anodizing, and Coloring ",
+      "provided_description": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    {
+      "naics_code": "332322",
+      "description": "Sheet Metal Work Manufacturing ",
+      "provided_description": "Sheet Metal Work Manufacturing"
+    }
+  ],
+  "Sand and Gravel Mining": [
+    {
+      "naics_code": "212321",
+      "description": "Construction Sand and Gravel Mining ",
+      "provided_description": "Construction Sand and Gravel Mining"
+    },
+    {
+      "naics_code": "212322",
+      "description": "Industrial Sand Mining ",
+      "provided_description": "Industrial Sand Mining"
+    }
+  ],
+  "Residential Driveway Construction": [
+    {
+      "naics_code": "236115",
+      "description": "New Single-Family Housing Construction (except For-Sale Builders) ",
+      "provided_description": "New Single-Family Housing Construction (except For-Sale Builders)"
+    },
+    {
+      "naics_code": "237310",
+      "description": "Highway, Street, and Bridge Construction ",
+      "provided_description": "Highway, Street, and Bridge Construction"
+    },
+    {
+      "naics_code": "238110",
+      "description": "Poured Concrete Foundation and Structure Contractors ",
+      "provided_description": "Poured Concrete Foundation and Structure Contractors"
+    },
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    },
+    {
+      "naics_code": "238910",
+      "description": "Site Preparation Contractors",
+      "provided_description": "Site Preparation Contractors"
+    }
+  ],
+  "Commercial Driveway Construction": [
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    },
+    {
+      "naics_code": "237310",
+      "description": "Highway, Street, and Bridge Construction ",
+      "provided_description": "Highway, Street, and Bridge Construction"
+    },
+    {
+      "naics_code": "238110",
+      "description": "Poured Concrete Foundation and Structure Contractors ",
+      "provided_description": "Poured Concrete Foundation and Structure Contractors"
+    },
+    {
+      "naics_code": "238910",
+      "description": "Site Preparation Contractors",
+      "provided_description": "Site Preparation Contractors"
+    }
+  ],
+  "Fencing Construction Services": [
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    }
+  ],
+  "Sidewalk Construction Services": [
+    {
+      "naics_code": "237310",
+      "description": "Highway, Street, and Bridge Construction ",
+      "provided_description": "Highway, Street, and Bridge Construction"
+    },
+    {
+      "naics_code": "238110",
+      "description": "Poured Concrete Foundation and Structure Contractors ",
+      "provided_description": "Poured Concrete Foundation and Structure Contractors"
+    },
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    },
+    {
+      "naics_code": "237990",
+      "description": "Other Heavy and Civil Engineering Construction ",
+      "provided_description": "Other Heavy and Civil Engineering Construction"
+    },
+    {
+      "naics_code": "237120",
+      "description": "Oil and Gas Pipeline and Related Structures Construction ",
+      "provided_description": "Oil and Gas Pipeline and Related Structures Construction"
+    }
+  ],
+  "Commercial Irrigation Systems": [
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    },
+    {
+      "naics_code": "561730",
+      "description": "Landscaping Services",
+      "provided_description": "Landscaping Services"
+    },
+    {
+      "naics_code": "115310",
+      "description": "Support Activities for Forestry",
+      "provided_description": "Support Activities for Forestry"
+    },
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    }
+  ],
+  "Residential Drainage Systems": [
+    {
+      "naics_code": "238910",
+      "description": "Site Preparation Contractors",
+      "provided_description": "Site Preparation Contractors"
+    },
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    },
+    {
+      "naics_code": "237310",
+      "description": "Highway, Street, and Bridge Construction ",
+      "provided_description": "Highway, Street, and Bridge Construction"
+    },
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings ",
+      "provided_description": "Other Services to Buildings and Dwellings"
+    }
+  ],
+  "Residential Snow Removal": [
+    {
+      "naics_code": "561730",
+      "description": "Landscaping Services",
+      "provided_description": "Landscaping Services"
+    },
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings ",
+      "provided_description": "Other Services to Buildings and Dwellings"
+    },
+    {
+      "naics_code": "561740",
+      "description": "Carpet and Upholstery Cleaning Services",
+      "provided_description": "Carpet and Upholstery Cleaning Services"
+    }
+  ],
+  "Commercial Snow Removal": [
+    {
+      "naics_code": "561730",
+      "description": "Landscaping Services",
+      "provided_description": "Landscaping Services"
+    },
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings ",
+      "provided_description": "Other Services to Buildings and Dwellings"
+    },
+    {
+      "naics_code": "488490",
+      "description": "Other Support Activities for Road Transportation ",
+      "provided_description": "Other Support Activities for Road Transportation"
+    }
+  ],
+  "General Snow Removal Services": [
+    {
+      "naics_code": "561730",
+      "description": "Landscaping Services",
+      "provided_description": "Landscaping Services"
+    },
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings ",
+      "provided_description": "Other Services to Buildings and Dwellings"
+    },
+    {
+      "naics_code": "561990",
+      "description": "All Other Support Services",
+      "provided_description": "All Other Support Services"
+    },
+    {
+      "naics_code": "488490",
+      "description": "Other Support Activities for Road Transportation ",
+      "provided_description": "Other Support Activities for Road Transportation"
+    }
+  ],
+  "Land Leveling Services": [
+    {
+      "naics_code": "238910",
+      "description": "Site Preparation Contractors",
+      "provided_description": "Site Preparation Contractors"
+    },
+    {
+      "naics_code": "115112",
+      "description": "Soil Preparation, Planting, and Cultivating ",
+      "provided_description": "Soil Preparation, Planting, and Cultivating"
+    },
+    {
+      "naics_code": "561730",
+      "description": "Landscaping Services",
+      "provided_description": "Landscaping Services"
+    }
+  ],
+  "Residential Drain Cleaning": [
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings ",
+      "provided_description": "Other Services to Buildings and Dwellings"
+    },
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    }
+  ],
+  "Commercial Drain Cleaning": [
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings ",
+      "provided_description": "Other Services to Buildings and Dwellings"
+    },
+    {
+      "naics_code": "562991",
+      "description": "Septic Tank and Related Services ",
+      "provided_description": "Septic Tank and Related Services"
+    }
+  ],
+  "Street Cleaning Operations": [
+    {
+      "naics_code": "562998",
+      "description": "All Other Miscellaneous Waste Management Services ",
+      "provided_description": "All Other Miscellaneous Waste Management Services"
+    },
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings ",
+      "provided_description": "Other Services to Buildings and Dwellings"
+    },
+    {
+      "naics_code": "921190",
+      "description": "Other General Government Support ",
+      "provided_description": "Other General Government Support"
+    },
+    {
+      "naics_code": "488490",
+      "description": "Other Support Activities for Road Transportation ",
+      "provided_description": "Other Support Activities for Road Transportation"
+    },
+    {
+      "naics_code": "237310",
+      "description": "Highway, Street, and Bridge Construction ",
+      "provided_description": "Highway, Street, and Bridge Construction"
+    }
+  ],
+  "Conveyor System Installation": [
+    {
+      "naics_code": "238290",
+      "description": "Other Building Equipment Contractors ",
+      "provided_description": "Other Building Equipment Contractors"
+    },
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    },
+    {
+      "naics_code": "423830",
+      "description": "Industrial Machinery and Equipment Merchant Wholesalers ",
+      "provided_description": "Industrial Machinery and Equipment Merchant Wholesalers"
+    },
+    {
+      "naics_code": "811310",
+      "description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ",
+      "provided_description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+    },
+    {
+      "naics_code": "333922",
+      "description": "Conveyor and Conveying Equipment Manufacturing ",
+      "provided_description": "Conveyor and Conveying Equipment Manufacturing"
+    }
+  ],
+  "Low-Rise Signage Installation": [
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    },
+    {
+      "naics_code": "541890",
+      "description": "Other Services Related to Advertising ",
+      "provided_description": "Other Services Related to Advertising"
+    },
+    {
+      "naics_code": "238210",
+      "description": "Electrical Contractors and Other Wiring Installation Contractors",
+      "provided_description": "Electrical Contractors and Other Wiring Installation Contractors"
+    },
+    {
+      "naics_code": "339950",
+      "description": "Sign Manufacturing",
+      "provided_description": "Sign Manufacturing"
+    }
+  ],
+  "High-Rise Signage Installation": [
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    },
+    {
+      "naics_code": "238390",
+      "description": "Other Building Finishing Contractors",
+      "provided_description": "Other Building Finishing Contractors"
+    },
+    {
+      "naics_code": "238150",
+      "description": "Glass and Glazing Contractors ",
+      "provided_description": "Glass and Glazing Contractors"
+    },
+    {
+      "naics_code": "238190",
+      "description": "Other Foundation, Structure, and Building Exterior Contractors ",
+      "provided_description": "Other Foundation, Structure, and Building Exterior Contractors"
+    },
+    {
+      "naics_code": "238210",
+      "description": "Electrical Contractors and Other Wiring Installation Contractors",
+      "provided_description": "Electrical Contractors and Other Wiring Installation Contractors"
+    }
+  ],
+  "Tank Installation Services": [
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "237110",
+      "description": "Water and Sewer Line and Related Structures Construction ",
+      "provided_description": "Water and Sewer Line and Related Structures Construction"
+    },
+    {
+      "naics_code": "237120",
+      "description": "Oil and Gas Pipeline and Related Structures Construction ",
+      "provided_description": "Oil and Gas Pipeline and Related Structures Construction"
+    },
+    {
+      "naics_code": "238910",
+      "description": "Site Preparation Contractors",
+      "provided_description": "Site Preparation Contractors"
+    },
+    {
+      "naics_code": "238120",
+      "description": "Structural Steel and Precast Concrete Contractors ",
+      "provided_description": "Structural Steel and Precast Concrete Contractors"
+    },
+    {
+      "naics_code": "236210",
+      "description": "Industrial Building Construction ",
+      "provided_description": "Industrial Building Construction"
+    }
+  ],
+  "Residential Communication Equipment Installation": [
+    {
+      "naics_code": "238210",
+      "description": "Electrical Contractors and Other Wiring Installation Contractors",
+      "provided_description": "Electrical Contractors and Other Wiring Installation Contractors"
+    },
+    {
+      "naics_code": "517111",
+      "description": "Wired Telecommunications Carriers ",
+      "provided_description": "Wired Telecommunications Carriers"
+    }
+  ],
+  "Commercial Communication Equipment Installation": [
+    {
+      "naics_code": "238210",
+      "description": "Electrical Contractors and Other Wiring Installation Contractors",
+      "provided_description": "Electrical Contractors and Other Wiring Installation Contractors"
+    },
+    {
+      "naics_code": "541519",
+      "description": "Other Computer Related Services",
+      "provided_description": "Other Computer Related Services"
+    },
+    {
+      "naics_code": "561621",
+      "description": "Security Systems Services (except Locksmiths) ",
+      "provided_description": "Security Systems Services (except Locksmiths)"
+    }
+  ],
+  "Low-Rise Glass Installation": [
+    {
+      "naics_code": "238390",
+      "description": "Other Building Finishing Contractors",
+      "provided_description": "Other Building Finishing Contractors"
+    }
+  ],
+  "High-Rise Glass Installation": [
+    {
+      "naics_code": "238190",
+      "description": "Other Foundation, Structure, and Building Exterior Contractors ",
+      "provided_description": "Other Foundation, Structure, and Building Exterior Contractors"
+    },
+    {
+      "naics_code": "236220",
+      "description": "Commercial and Institutional Building Construction ",
+      "provided_description": "Commercial and Institutional Building Construction"
+    }
+  ],
+  "Industrial Machinery Installation": [
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    },
+    {
+      "naics_code": "238290",
+      "description": "Other Building Equipment Contractors ",
+      "provided_description": "Other Building Equipment Contractors"
+    },
+    {
+      "naics_code": "238210",
+      "description": "Electrical Contractors and Other Wiring Installation Contractors",
+      "provided_description": "Electrical Contractors and Other Wiring Installation Contractors"
+    },
+    {
+      "naics_code": "811310",
+      "description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ",
+      "provided_description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+    },
+    {
+      "naics_code": "423830",
+      "description": "Industrial Machinery and Equipment Merchant Wholesalers ",
+      "provided_description": "Industrial Machinery and Equipment Merchant Wholesalers"
+    },
+    {
+      "naics_code": "541330",
+      "description": "Engineering Services",
+      "provided_description": "Engineering Services"
+    }
+  ],
+  "Agricultural Machinery Installation": [
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    },
+    {
+      "naics_code": "811310",
+      "description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ",
+      "provided_description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+    },
+    {
+      "naics_code": "115112",
+      "description": "Soil Preparation, Planting, and Cultivating ",
+      "provided_description": "Soil Preparation, Planting, and Cultivating"
+    },
+    {
+      "naics_code": "333111",
+      "description": "Farm Machinery and Equipment Manufacturing ",
+      "provided_description": "Farm Machinery and Equipment Manufacturing"
+    },
+    {
+      "naics_code": "423820",
+      "description": "Farm and Garden Machinery and Equipment Merchant Wholesalers ",
+      "provided_description": "Farm and Garden Machinery and Equipment Merchant Wholesalers"
+    }
+  ],
+  "Grain Handling Machinery Installation": [
+    {
+      "naics_code": "238290",
+      "description": "Other Building Equipment Contractors ",
+      "provided_description": "Other Building Equipment Contractors"
+    },
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    }
+  ],
+  "Dock and Pier Construction": [
+    {
+      "naics_code": "237990",
+      "description": "Other Heavy and Civil Engineering Construction ",
+      "provided_description": "Other Heavy and Civil Engineering Construction"
+    },
+    {
+      "naics_code": "237120",
+      "description": "Oil and Gas Pipeline and Related Structures Construction ",
+      "provided_description": "Oil and Gas Pipeline and Related Structures Construction"
+    },
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    }
+  ],
+  "Road and Highway Construction": [
+    {
+      "naics_code": "237310",
+      "description": "Highway, Street, and Bridge Construction ",
+      "provided_description": "Highway, Street, and Bridge Construction"
+    },
+    {
+      "naics_code": "237990",
+      "description": "Other Heavy and Civil Engineering Construction ",
+      "provided_description": "Other Heavy and Civil Engineering Construction"
+    }
+  ],
+  "Pipeline Construction Services": [
+    {
+      "naics_code": "237110",
+      "description": "Water and Sewer Line and Related Structures Construction ",
+      "provided_description": "Water and Sewer Line and Related Structures Construction"
+    },
+    {
+      "naics_code": "237120",
+      "description": "Oil and Gas Pipeline and Related Structures Construction ",
+      "provided_description": "Oil and Gas Pipeline and Related Structures Construction"
+    }
+  ],
+  "New Ground Pipeline Installation": [
+    {
+      "naics_code": "237120",
+      "description": "Oil and Gas Pipeline and Related Structures Construction ",
+      "provided_description": "Oil and Gas Pipeline and Related Structures Construction"
+    },
+    {
+      "naics_code": "237110",
+      "description": "Water and Sewer Line and Related Structures Construction ",
+      "provided_description": "Water and Sewer Line and Related Structures Construction"
+    },
+    {
+      "naics_code": "238910",
+      "description": "Site Preparation Contractors",
+      "provided_description": "Site Preparation Contractors"
+    }
+  ],
+  "Excavation Services": [
+    {
+      "naics_code": "238910",
+      "description": "Site Preparation Contractors",
+      "provided_description": "Site Preparation Contractors"
+    },
+    {
+      "naics_code": "237310",
+      "description": "Highway, Street, and Bridge Construction ",
+      "provided_description": "Highway, Street, and Bridge Construction"
+    },
+    {
+      "naics_code": "237990",
+      "description": "Other Heavy and Civil Engineering Construction ",
+      "provided_description": "Other Heavy and Civil Engineering Construction"
+    },
+    {
+      "naics_code": "237110",
+      "description": "Water and Sewer Line and Related Structures Construction ",
+      "provided_description": "Water and Sewer Line and Related Structures Construction"
+    },
+    {
+      "naics_code": "237130",
+      "description": "Power and Communication Line and Related Structures Construction ",
+      "provided_description": "Power and Communication Line and Related Structures Construction"
+    }
+  ],
+  "Residential Plumbing Services": [
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "236118",
+      "description": "Residential Remodelers ",
+      "provided_description": "Residential Remodelers"
+    },
+    {
+      "naics_code": "237110",
+      "description": "Water and Sewer Line and Related Structures Construction ",
+      "provided_description": "Water and Sewer Line and Related Structures Construction"
+    },
+    {
+      "naics_code": "562910",
+      "description": "Remediation Services ",
+      "provided_description": "Remediation Services"
+    },
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    }
+  ],
+  "Commercial Plumbing Services": [
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "237110",
+      "description": "Water and Sewer Line and Related Structures Construction ",
+      "provided_description": "Water and Sewer Line and Related Structures Construction"
+    },
+    {
+      "naics_code": "238210",
+      "description": "Electrical Contractors and Other Wiring Installation Contractors",
+      "provided_description": "Electrical Contractors and Other Wiring Installation Contractors"
+    },
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings ",
+      "provided_description": "Other Services to Buildings and Dwellings"
+    },
+    {
+      "naics_code": "811310",
+      "description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ",
+      "provided_description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+    }
+  ],
+  "Industrial Plumbing Services": [
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "237110",
+      "description": "Water and Sewer Line and Related Structures Construction ",
+      "provided_description": "Water and Sewer Line and Related Structures Construction"
+    },
+    {
+      "naics_code": "238290",
+      "description": "Other Building Equipment Contractors ",
+      "provided_description": "Other Building Equipment Contractors"
+    },
+    {
+      "naics_code": "237990",
+      "description": "Other Heavy and Civil Engineering Construction ",
+      "provided_description": "Other Heavy and Civil Engineering Construction"
+    },
+    {
+      "naics_code": "332913",
+      "description": "Plumbing Fixture Fitting and Trim Manufacturing ",
+      "provided_description": "Plumbing Fixture Fitting and Trim Manufacturing"
+    },
+    {
+      "naics_code": "811310",
+      "description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ",
+      "provided_description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+    }
+  ],
+  "Boiler Installation Services": [
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "237990",
+      "description": "Other Heavy and Civil Engineering Construction ",
+      "provided_description": "Other Heavy and Civil Engineering Construction"
+    },
+    {
+      "naics_code": "238290",
+      "description": "Other Building Equipment Contractors ",
+      "provided_description": "Other Building Equipment Contractors"
+    },
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    }
+  ],
+  "Boiler Repair Services": [
+    {
+      "naics_code": "811310",
+      "description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ",
+      "provided_description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+    },
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    }
+  ],
+  "Steam Services": [
+    {
+      "naics_code": "221330",
+      "description": "Steam and Air-Conditioning Supply ",
+      "provided_description": "Steam and Air-Conditioning Supply"
+    },
+    {
+      "naics_code": "333414",
+      "description": "Heating Equipment (except Warm Air Furnaces) Manufacturing ",
+      "provided_description": "Heating Equipment (except Warm Air Furnaces) Manufacturing"
+    },
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "562998",
+      "description": "All Other Miscellaneous Waste Management Services ",
+      "provided_description": "All Other Miscellaneous Waste Management Services"
+    },
+    {
+      "naics_code": "811310",
+      "description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ",
+      "provided_description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+    }
+  ],
+  "Gas Installation Services": [
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "237120",
+      "description": "Oil and Gas Pipeline and Related Structures Construction ",
+      "provided_description": "Oil and Gas Pipeline and Related Structures Construction"
+    },
+    {
+      "naics_code": "221210",
+      "description": "Natural Gas Distribution ",
+      "provided_description": "Natural Gas Distribution"
+    }
+  ],
+  "Medical Gas Installation Services": [
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "238290",
+      "description": "Other Building Equipment Contractors ",
+      "provided_description": "Other Building Equipment Contractors"
+    }
+  ],
+  "Fire Protection System Services": [
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "561621",
+      "description": "Security Systems Services (except Locksmiths) ",
+      "provided_description": "Security Systems Services (except Locksmiths)"
+    },
+    {
+      "naics_code": "811310",
+      "description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ",
+      "provided_description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+    },
+    {
+      "naics_code": "541330",
+      "description": "Engineering Services",
+      "provided_description": "Engineering Services"
+    },
+    {
+      "naics_code": "561621",
+      "description": "Security Systems Services (except Locksmiths) ",
+      "provided_description": "Security Systems Services (except Locksmiths)"
+    }
+  ],
+  "HVAC Installation and Service": [
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings ",
+      "provided_description": "Other Services to Buildings and Dwellings"
+    },
+    {
+      "naics_code": "811310",
+      "description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ",
+      "provided_description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+    }
+  ],
+  "HVAC Inspections": [
+    {
+      "naics_code": "541350",
+      "description": "Building Inspection Services",
+      "provided_description": "Building Inspection Services"
+    },
+    {
+      "naics_code": "541330",
+      "description": "Engineering Services",
+      "provided_description": "Engineering Services"
+    },
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    }
+  ],
+  "Air Duct Cleaning Services": [
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings ",
+      "provided_description": "Other Services to Buildings and Dwellings"
+    }
+  ],
+  "Water Treatment Services": [
+    {
+      "naics_code": "221310",
+      "description": "Water Supply and Irrigation Systems ",
+      "provided_description": "Water Supply and Irrigation Systems"
+    },
+    {
+      "naics_code": "221320",
+      "description": "Sewage Treatment Facilities ",
+      "provided_description": "Sewage Treatment Facilities"
+    },
+    {
+      "naics_code": "562219",
+      "description": "Other Nonhazardous Waste Treatment and Disposal ",
+      "provided_description": "Other Nonhazardous Waste Treatment and Disposal"
+    },
+    {
+      "naics_code": "562910",
+      "description": "Remediation Services ",
+      "provided_description": "Remediation Services"
+    },
+    {
+      "naics_code": "541380",
+      "description": "Testing Laboratories and Services",
+      "provided_description": "Testing Laboratories"
+    }
+  ],
+  "Residential Electrical Services": [
+    {
+      "naics_code": "238210",
+      "description": "Electrical Contractors and Other Wiring Installation Contractors",
+      "provided_description": "Electrical Contractors and Other Wiring Installation Contractors"
+    },
+    {
+      "naics_code": "238290",
+      "description": "Other Building Equipment Contractors ",
+      "provided_description": "Other Building Equipment Contractors"
+    }
+  ],
+  "Commercial Electrical Services": [
+    {
+      "naics_code": "238210",
+      "description": "Electrical Contractors and Other Wiring Installation Contractors",
+      "provided_description": "Electrical Contractors and Other Wiring Installation Contractors"
+    },
+    {
+      "naics_code": "811310",
+      "description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ",
+      "provided_description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+    },
+    {
+      "naics_code": "561621",
+      "description": "Security Systems Services (except Locksmiths) ",
+      "provided_description": "Security Systems Services (except Locksmiths)"
+    },
+    {
+      "naics_code": "238290",
+      "description": "Other Building Equipment Contractors ",
+      "provided_description": "Other Building Equipment Contractors"
+    },
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    },
+    {
+      "naics_code": "237130",
+      "description": "Power and Communication Line and Related Structures Construction ",
+      "provided_description": "Power and Communication Line and Related Structures Construction"
+    }
+  ],
+  "Alarm Installation Services": [
+    {
+      "naics_code": "238210",
+      "description": "Electrical Contractors and Other Wiring Installation Contractors",
+      "provided_description": "Electrical Contractors and Other Wiring Installation Contractors"
+    },
+    {
+      "naics_code": "561621",
+      "description": "Security Systems Services (except Locksmiths) ",
+      "provided_description": "Security Systems Services (except Locksmiths)"
+    }
+  ],
+  "Electric Line Construction": [
+    {
+      "naics_code": "237130",
+      "description": "Power and Communication Line and Related Structures Construction ",
+      "provided_description": "Power and Communication Line and Related Structures Construction"
+    },
+    {
+      "naics_code": "238210",
+      "description": "Electrical Contractors and Other Wiring Installation Contractors",
+      "provided_description": "Electrical Contractors and Other Wiring Installation Contractors"
+    },
+    {
+      "naics_code": "221121",
+      "description": "Electric Bulk Power Transmission and Control ",
+      "provided_description": "Electric Bulk Power Transmission and Control"
+    },
+    {
+      "naics_code": "237110",
+      "description": "Water and Sewer Line and Related Structures Construction ",
+      "provided_description": "Water and Sewer Line and Related Structures Construction"
+    },
+    {
+      "naics_code": "237990",
+      "description": "Other Heavy and Civil Engineering Construction ",
+      "provided_description": "Other Heavy and Civil Engineering Construction"
+    }
+  ],
+  "Cable Installation Services": [
+    {
+      "naics_code": "238210",
+      "description": "Electrical Contractors and Other Wiring Installation Contractors",
+      "provided_description": "Electrical Contractors and Other Wiring Installation Contractors"
+    },
+    {
+      "naics_code": "237130",
+      "description": "Power and Communication Line and Related Structures Construction ",
+      "provided_description": "Power and Communication Line and Related Structures Construction"
+    }
+  ],
+  "Elevator Installation Services": [
+    {
+      "naics_code": "238290",
+      "description": "Other Building Equipment Contractors ",
+      "provided_description": "Other Building Equipment Contractors"
+    }
+  ],
+  "Low-Rise Foundation Construction": [
+    {
+      "naics_code": "238110",
+      "description": "Poured Concrete Foundation and Structure Contractors ",
+      "provided_description": "Poured Concrete Foundation and Structure Contractors"
+    },
+    {
+      "naics_code": "238190",
+      "description": "Other Foundation, Structure, and Building Exterior Contractors ",
+      "provided_description": "Other Foundation, Structure, and Building Exterior Contractors"
+    },
+    {
+      "naics_code": "238140",
+      "description": "Masonry Contractors ",
+      "provided_description": "Masonry Contractors"
+    },
+    {
+      "naics_code": "236115",
+      "description": "New Single-Family Housing Construction (except For-Sale Builders) ",
+      "provided_description": "New Single-Family Housing Construction (except For-Sale Builders)"
+    },
+    {
+      "naics_code": "236116",
+      "description": "New Multifamily Housing Construction (except For-Sale Builders) ",
+      "provided_description": "New Multifamily Housing Construction (except For-Sale Builders)"
+    }
+  ],
+  "High-Rise Foundation Construction": [
+    {
+      "naics_code": "238110",
+      "description": "Poured Concrete Foundation and Structure Contractors ",
+      "provided_description": "Poured Concrete Foundation and Structure Contractors"
+    },
+    {
+      "naics_code": "238190",
+      "description": "Other Foundation, Structure, and Building Exterior Contractors ",
+      "provided_description": "Other Foundation, Structure, and Building Exterior Contractors"
+    },
+    {
+      "naics_code": "238120",
+      "description": "Structural Steel and Precast Concrete Contractors ",
+      "provided_description": "Structural Steel and Precast Concrete Contractors"
+    },
+    {
+      "naics_code": "236220",
+      "description": "Commercial and Institutional Building Construction ",
+      "provided_description": "Commercial and Institutional Building Construction"
+    },
+    {
+      "naics_code": "237990",
+      "description": "Other Heavy and Civil Engineering Construction ",
+      "provided_description": "Other Heavy and Civil Engineering Construction"
+    }
+  ],
+  "Precast Concrete Installation": [
+    {
+      "naics_code": "238120",
+      "description": "Structural Steel and Precast Concrete Contractors ",
+      "provided_description": "Structural Steel and Precast Concrete Contractors"
+    },
+    {
+      "naics_code": "238190",
+      "description": "Other Foundation, Structure, and Building Exterior Contractors ",
+      "provided_description": "Other Foundation, Structure, and Building Exterior Contractors"
+    }
+  ],
+  "Tilt-Up Concrete Services": [
+    {
+      "naics_code": "238110",
+      "description": "Poured Concrete Foundation and Structure Contractors ",
+      "provided_description": "Poured Concrete Foundation and Structure Contractors"
+    },
+    {
+      "naics_code": "238120",
+      "description": "Structural Steel and Precast Concrete Contractors ",
+      "provided_description": "Structural Steel and Precast Concrete Contractors"
+    },
+    {
+      "naics_code": "236220",
+      "description": "Commercial and Institutional Building Construction ",
+      "provided_description": "Commercial and Institutional Building Construction"
+    }
+  ],
+  "Masonry Construction Services": [
+    {
+      "naics_code": "238140",
+      "description": "Masonry Contractors ",
+      "provided_description": "Masonry Contractors"
+    },
+    {
+      "naics_code": "237310",
+      "description": "Highway, Street, and Bridge Construction ",
+      "provided_description": "Highway, Street, and Bridge Construction"
+    },
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    },
+    {
+      "naics_code": "236220",
+      "description": "Commercial and Institutional Building Construction ",
+      "provided_description": "Commercial and Institutional Building Construction"
+    },
+    {
+      "naics_code": "237990",
+      "description": "Other Heavy and Civil Engineering Construction ",
+      "provided_description": "Other Heavy and Civil Engineering Construction"
+    }
+  ],
+  "Drywall Services": [
+    {
+      "naics_code": "238310",
+      "description": "Drywall and Insulation Contractors ",
+      "provided_description": "Drywall and Insulation Contractors"
+    },
+    {
+      "naics_code": "236220",
+      "description": "Commercial and Institutional Building Construction ",
+      "provided_description": "Commercial and Institutional Building Construction"
+    },
+    {
+      "naics_code": "236118",
+      "description": "Residential Remodelers ",
+      "provided_description": "Residential Remodelers"
+    },
+    {
+      "naics_code": "238390",
+      "description": "Other Building Finishing Contractors",
+      "provided_description": "Other Building Finishing Contractors"
+    },
+    {
+      "naics_code": "237310",
+      "description": "Highway, Street, and Bridge Construction ",
+      "provided_description": "Highway, Street, and Bridge Construction"
+    }
+  ],
+  "Tile Installation Services": [
+    {
+      "naics_code": "238340",
+      "description": "Tile and Terrazzo Contractors",
+      "provided_description": "Tile and Terrazzo Contractors"
+    }
+  ],
+  "Carpentry Services": [
+    {
+      "naics_code": "238130",
+      "description": "Framing Contractors ",
+      "provided_description": "Framing Contractors"
+    },
+    {
+      "naics_code": "238190",
+      "description": "Other Foundation, Structure, and Building Exterior Contractors ",
+      "provided_description": "Other Foundation, Structure, and Building Exterior Contractors"
+    },
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    }
+  ],
+  "General Handyman Services": [
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    },
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings ",
+      "provided_description": "Other Services to Buildings and Dwellings"
+    },
+    {
+      "naics_code": "811490",
+      "description": "Other Personal and Household Goods Repair and Maintenance ",
+      "provided_description": "Other Personal and Household Goods Repair and Maintenance"
+    }
+  ],
+  "Insulation Services": [
+    {
+      "naics_code": "238310",
+      "description": "Drywall and Insulation Contractors ",
+      "provided_description": "Drywall and Insulation Contractors"
+    },
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "238390",
+      "description": "Other Building Finishing Contractors",
+      "provided_description": "Other Building Finishing Contractors"
+    },
+    {
+      "naics_code": "237310",
+      "description": "Highway, Street, and Bridge Construction ",
+      "provided_description": "Highway, Street, and Bridge Construction"
+    },
+    {
+      "naics_code": "332313",
+      "description": "Plate Work Manufacturing ",
+      "provided_description": "Plate Work Manufacturing"
+    },
+    {
+      "naics_code": "562910",
+      "description": "Remediation Services ",
+      "provided_description": "Remediation Services"
+    }
+  ],
+  "Painting Services": [
+    {
+      "naics_code": "238320",
+      "description": "Painting and Wall Covering Contractors",
+      "provided_description": "Painting and Wall Covering Contractors"
+    },
+    {
+      "naics_code": "811121",
+      "description": "Automotive Body, Paint, and Interior Repair and Maintenance ",
+      "provided_description": "Automotive Body, Paint, and Interior Repair and Maintenance"
+    },
+    {
+      "naics_code": "332812",
+      "description": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers ",
+      "provided_description": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers"
+    },
+    {
+      "naics_code": "488190",
+      "description": "Other Support Activities for Air Transportation",
+      "provided_description": "Other Support Activities for Air Transportation"
+    },
+    {
+      "naics_code": "488390",
+      "description": "Other Support Activities for Water Transportation",
+      "provided_description": "Other Support Activities for Water Transportation"
+    },
+    {
+      "naics_code": "811310",
+      "description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ",
+      "provided_description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+    },
+    {
+      "naics_code": "811420",
+      "description": "Reupholstery and Furniture Repair",
+      "provided_description": "Reupholstery and Furniture Repair"
+    }
+  ],
+  "Spray Painting Services": [
+    {
+      "naics_code": "332813",
+      "description": "Electroplating, Plating, Polishing, Anodizing, and Coloring ",
+      "provided_description": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    {
+      "naics_code": "811121",
+      "description": "Automotive Body, Paint, and Interior Repair and Maintenance ",
+      "provided_description": "Automotive Body, Paint, and Interior Repair and Maintenance"
+    },
+    {
+      "naics_code": "238320",
+      "description": "Painting and Wall Covering Contractors",
+      "provided_description": "Painting and Wall Covering Contractors"
+    },
+    {
+      "naics_code": "811310",
+      "description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ",
+      "provided_description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+    },
+    {
+      "naics_code": "321918",
+      "description": "Other Millwork (including Flooring) ",
+      "provided_description": "Other Millwork (including Flooring)"
+    },
+    {
+      "naics_code": "332812",
+      "description": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers ",
+      "provided_description": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers"
+    }
+  ],
+  "Flooring Installation Services": [
+    {
+      "naics_code": "238390",
+      "description": "Other Building Finishing Contractors",
+      "provided_description": "Other Building Finishing Contractors"
+    }
+  ],
+  "Interior Design Services": [
+    {
+      "naics_code": "541410",
+      "description": "Interior Design Services",
+      "provided_description": "Interior Design Services"
+    }
+  ],
+  "Home Staging Services": [
+    {
+      "naics_code": "531390",
+      "description": "Other Activities Related to Real Estate ",
+      "provided_description": "Other Activities Related to Real Estate"
+    },
+    {
+      "naics_code": "541410",
+      "description": "Interior Design Services",
+      "provided_description": "Interior Design Services"
+    },
+    {
+      "naics_code": "561920",
+      "description": "Convention and Trade Show Organizers",
+      "provided_description": "Convention and Trade Show Organizers"
+    },
+    {
+      "naics_code": "561990",
+      "description": "All Other Support Services",
+      "provided_description": "All Other Support Services"
+    },
+    {
+      "naics_code": "531210",
+      "description": "Offices of Real Estate Agents and Brokers",
+      "provided_description": "Offices of Real Estate Agents and Brokers"
+    }
+  ],
+  "Sheet Metal Services": [
+    {
+      "naics_code": "332322",
+      "description": "Sheet Metal Work Manufacturing ",
+      "provided_description": "Sheet Metal Work Manufacturing"
+    },
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "332321",
+      "description": "Metal Window and Door Manufacturing ",
+      "provided_description": "Metal Window and Door Manufacturing"
+    },
+    {
+      "naics_code": "332323",
+      "description": "Ornamental and Architectural Metal Work Manufacturing ",
+      "provided_description": "Ornamental and Architectural Metal Work Manufacturing"
+    },
+    {
+      "naics_code": "238390",
+      "description": "Other Building Finishing Contractors",
+      "provided_description": "Other Building Finishing Contractors"
+    }
+  ],
+  "Welding Services": [
+    {
+      "naics_code": "332999",
+      "description": "All Other Miscellaneous Fabricated Metal Product Manufacturing ",
+      "provided_description": "All Other Miscellaneous Fabricated Metal Product Manufacturing"
+    },
+    {
+      "naics_code": "332710",
+      "description": "Machine Shops",
+      "provided_description": "Machine Shops"
+    },
+    {
+      "naics_code": "332312",
+      "description": "Fabricated Structural Metal Manufacturing ",
+      "provided_description": "Fabricated Structural Metal Manufacturing"
+    },
+    {
+      "naics_code": "332313",
+      "description": "Plate Work Manufacturing ",
+      "provided_description": "Plate Work Manufacturing"
+    },
+    {
+      "naics_code": "332322",
+      "description": "Sheet Metal Work Manufacturing ",
+      "provided_description": "Sheet Metal Work Manufacturing"
+    },
+    {
+      "naics_code": "811310",
+      "description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ",
+      "provided_description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+    }
+  ],
+  "Structural Steel Erection": [
+    {
+      "naics_code": "238120",
+      "description": "Structural Steel and Precast Concrete Contractors ",
+      "provided_description": "Structural Steel and Precast Concrete Contractors"
+    },
+    {
+      "naics_code": "238130",
+      "description": "Framing Contractors ",
+      "provided_description": "Framing Contractors"
+    }
+  ],
+  "Non-Structural Steel Fabrication": [
+    {
+      "naics_code": "332323",
+      "description": "Ornamental and Architectural Metal Work Manufacturing ",
+      "provided_description": "Ornamental and Architectural Metal Work Manufacturing"
+    },
+    {
+      "naics_code": "332313",
+      "description": "Plate Work Manufacturing ",
+      "provided_description": "Plate Work Manufacturing"
+    },
+    {
+      "naics_code": "332999",
+      "description": "All Other Miscellaneous Fabricated Metal Product Manufacturing ",
+      "provided_description": "All Other Miscellaneous Fabricated Metal Product Manufacturing"
+    },
+    {
+      "naics_code": "332322",
+      "description": "Sheet Metal Work Manufacturing ",
+      "provided_description": "Sheet Metal Work Manufacturing"
+    },
+    {
+      "naics_code": "332114",
+      "description": "Custom Roll Forming ",
+      "provided_description": "Custom Roll Forming"
+    }
+  ],
+  "Windows and Doors Installation": [
+    {
+      "naics_code": "238390",
+      "description": "Other Building Finishing Contractors",
+      "provided_description": "Other Building Finishing Contractors"
+    },
+    {
+      "naics_code": "238170",
+      "description": "Siding Contractors ",
+      "provided_description": "Siding Contractors"
+    },
+    {
+      "naics_code": "238350",
+      "description": "Finish Carpentry Contractors",
+      "provided_description": "Finish Carpentry Contractors"
+    }
+  ],
+  "Well Drilling Services": [
+    {
+      "naics_code": "213111",
+      "description": "Drilling Oil and Gas Wells",
+      "provided_description": "Drilling Oil and Gas Wells"
+    },
+    {
+      "naics_code": "238910",
+      "description": "Site Preparation Contractors",
+      "provided_description": "Site Preparation Contractors"
+    },
+    {
+      "naics_code": "237120",
+      "description": "Oil and Gas Pipeline and Related Structures Construction ",
+      "provided_description": "Oil and Gas Pipeline and Related Structures Construction"
+    },
+    {
+      "naics_code": "213115",
+      "description": "Support Activities for Nonmetallic Minerals (except Fuels) Mining ",
+      "provided_description": "Support Activities for Nonmetallic Minerals (except Fuels) Mining"
+    },
+    {
+      "naics_code": "213114",
+      "description": "Support Activities for Metal Mining ",
+      "provided_description": "Support Activities for Metal Mining"
+    }
+  ],
+  "Directional Drilling Services": [
+    {
+      "naics_code": "213111",
+      "description": "Drilling Oil and Gas Wells",
+      "provided_description": "Drilling Oil and Gas Wells"
+    }
+  ],
+  "Infrastructure Excavation": [
+    {
+      "naics_code": "237120",
+      "description": "Oil and Gas Pipeline and Related Structures Construction ",
+      "provided_description": "Oil and Gas Pipeline and Related Structures Construction"
+    },
+    {
+      "naics_code": "237110",
+      "description": "Water and Sewer Line and Related Structures Construction ",
+      "provided_description": "Water and Sewer Line and Related Structures Construction"
+    },
+    {
+      "naics_code": "237310",
+      "description": "Highway, Street, and Bridge Construction ",
+      "provided_description": "Highway, Street, and Bridge Construction"
+    },
+    {
+      "naics_code": "237130",
+      "description": "Power and Communication Line and Related Structures Construction ",
+      "provided_description": "Power and Communication Line and Related Structures Construction"
+    },
+    {
+      "naics_code": "238910",
+      "description": "Site Preparation Contractors",
+      "provided_description": "Site Preparation Contractors"
+    },
+    {
+      "naics_code": "238110",
+      "description": "Poured Concrete Foundation and Structure Contractors ",
+      "provided_description": "Poured Concrete Foundation and Structure Contractors"
+    }
+  ],
+  "New Ground Excavation": [
+    {
+      "naics_code": "238910",
+      "description": "Site Preparation Contractors",
+      "provided_description": "Site Preparation Contractors"
+    }
+  ],
+  "Residential Roofing Services": [
+    {
+      "naics_code": "238160",
+      "description": "Roofing Contractors ",
+      "provided_description": "Roofing Contractors"
+    },
+    {
+      "naics_code": "236118",
+      "description": "Residential Remodelers ",
+      "provided_description": "Residential Remodelers"
+    },
+    {
+      "naics_code": "238350",
+      "description": "Finish Carpentry Contractors",
+      "provided_description": "Finish Carpentry Contractors"
+    },
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    }
+  ],
+  "Roofing Services with Heat Application": [
+    {
+      "naics_code": "238160",
+      "description": "Roofing Contractors ",
+      "provided_description": "Roofing Contractors"
+    },
+    {
+      "naics_code": "238390",
+      "description": "Other Building Finishing Contractors",
+      "provided_description": "Other Building Finishing Contractors"
+    }
+  ],
+  "Waterproofing Services": [
+    {
+      "naics_code": "238390",
+      "description": "Other Building Finishing Contractors",
+      "provided_description": "Other Building Finishing Contractors"
+    },
+    {
+      "naics_code": "238140",
+      "description": "Masonry Contractors ",
+      "provided_description": "Masonry Contractors"
+    },
+    {
+      "naics_code": "238160",
+      "description": "Roofing Contractors ",
+      "provided_description": "Roofing Contractors"
+    },
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    }
+  ],
+  "Septic System Services": [
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "562991",
+      "description": "Septic Tank and Related Services ",
+      "provided_description": "Septic Tank and Related Services"
+    },
+    {
+      "naics_code": "541350",
+      "description": "Building Inspection Services",
+      "provided_description": "Building Inspection Services"
+    },
+    {
+      "naics_code": "541620",
+      "description": "Environmental Consulting Services",
+      "provided_description": "Environmental Consulting Services"
+    },
+    {
+      "naics_code": "238290",
+      "description": "Other Building Equipment Contractors ",
+      "provided_description": "Other Building Equipment Contractors"
+    }
+  ],
+  "Building Cleaning Services": [
+    {
+      "naics_code": "561720",
+      "description": "Janitorial Services ",
+      "provided_description": "Janitorial Services"
+    },
+    {
+      "naics_code": "561740",
+      "description": "Carpet and Upholstery Cleaning Services",
+      "provided_description": "Carpet and Upholstery Cleaning Services"
+    },
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings ",
+      "provided_description": "Other Services to Buildings and Dwellings"
+    }
+  ],
+  "Fire Safety Equipment Services": [
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "561621",
+      "description": "Security Systems Services (except Locksmiths) ",
+      "provided_description": "Security Systems Services (except Locksmiths)"
+    },
+    {
+      "naics_code": "811310",
+      "description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ",
+      "provided_description": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+    },
+    {
+      "naics_code": "541990",
+      "description": "All Other Professional, Scientific, and Technical Services",
+      "provided_description": "All Other Professional, Scientific, and Technical Services"
+    },
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings ",
+      "provided_description": "Other Services to Buildings and Dwellings"
+    }
+  ],
+  "Testing and Inspection Services": [
+    {
+      "naics_code": "541380",
+      "description": "Testing Laboratories and Services",
+      "provided_description": "Testing Laboratories and Services"
+    },
+    {
+      "naics_code": "541350",
+      "description": "Building Inspection Services",
+      "provided_description": "Building Inspection Services"
+    },
+    {
+      "naics_code": "541620",
+      "description": "Environmental Consulting Services",
+      "provided_description": "Environmental Consulting Services"
+    },
+    {
+      "naics_code": "541330",
+      "description": "Engineering Services",
+      "provided_description": "Engineering Services"
+    },
+    {
+      "naics_code": "541690",
+      "description": "Other Scientific and Technical Consulting Services",
+      "provided_description": "Other Scientific and Technical Consulting Services"
+    },
+    {
+      "naics_code": "561990",
+      "description": "All Other Support Services",
+      "provided_description": "All Other Support Services"
+    }
+  ],
+  "Single Family Residential Construction": [
+    {
+      "naics_code": "236115",
+      "description": "New Single-Family Housing Construction (except For-Sale Builders) ",
+      "provided_description": "New Single-Family Housing Construction (except For-Sale Builders)"
+    },
+    {
+      "naics_code": "236117",
+      "description": "New Housing For-Sale Builders ",
+      "provided_description": "New Housing For-Sale Builders"
+    },
+    {
+      "naics_code": "236118",
+      "description": "Residential Remodelers ",
+      "provided_description": "Residential Remodelers"
+    }
+  ],
+  "Single Family Renovation Services": [
+    {
+      "naics_code": "236118",
+      "description": "Residential Remodelers ",
+      "provided_description": "Residential Remodelers"
+    },
+    {
+      "naics_code": "238350",
+      "description": "Finish Carpentry Contractors",
+      "provided_description": "Finish Carpentry Contractors"
+    },
+    {
+      "naics_code": "238310",
+      "description": "Drywall and Insulation Contractors ",
+      "provided_description": "Drywall and Insulation Contractors"
+    },
+    {
+      "naics_code": "238320",
+      "description": "Painting and Wall Covering Contractors",
+      "provided_description": "Painting and Wall Covering Contractors"
+    },
+    {
+      "naics_code": "238210",
+      "description": "Electrical Contractors and Other Wiring Installation Contractors",
+      "provided_description": "Electrical Contractors and Other Wiring Installation Contractors"
+    }
+  ],
+  "Multi-Family Construction Services": [
+    {
+      "naics_code": "236118",
+      "description": "Residential Remodelers ",
+      "provided_description": "Residential Remodelers"
+    },
+    {
+      "naics_code": "236115",
+      "description": "New Single-Family Housing Construction (except For-Sale Builders) ",
+      "provided_description": "New Single-Family Housing Construction (except For-Sale Builders)"
+    }
+  ],
+  "Apartment Renovation Services": [
+    {
+      "naics_code": "236118",
+      "description": "Residential Remodelers ",
+      "provided_description": "Residential Remodelers"
+    },
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    },
+    {
+      "naics_code": "238350",
+      "description": "Finish Carpentry Contractors",
+      "provided_description": "Finish Carpentry Contractors"
+    },
+    {
+      "naics_code": "238390",
+      "description": "Other Building Finishing Contractors",
+      "provided_description": "Other Building Finishing Contractors"
+    }
+  ],
+  "Restoration Services": [
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings ",
+      "provided_description": "Other Services to Buildings and Dwellings"
+    },
+    {
+      "naics_code": "562910",
+      "description": "Remediation Services ",
+      "provided_description": "Remediation Services"
+    },
+    {
+      "naics_code": "811420",
+      "description": "Reupholstery and Furniture Repair",
+      "provided_description": "Reupholstery and Furniture Repair"
+    },
+    {
+      "naics_code": "561740",
+      "description": "Carpet and Upholstery Cleaning Services",
+      "provided_description": "Carpet and Upholstery Cleaning Services"
+    },
+    {
+      "naics_code": "711510",
+      "description": "Independent Artists, Writers, and Performers ",
+      "provided_description": "Independent Artists, Writers, and Performers"
+    },
+    {
+      "naics_code": "238390",
+      "description": "Other Building Finishing Contractors",
+      "provided_description": "Other Building Finishing Contractors"
+    }
+  ],
+  "Mobile Home Construction Services": [
+    {
+      "naics_code": "321991",
+      "description": "Manufactured Home (Mobile Home) Manufacturing ",
+      "provided_description": "Manufactured Home (Mobile Home) Manufacturing"
+    },
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    }
+  ],
+  "Commercial Construction Services": [
+    {
+      "naics_code": "236220",
+      "description": "Commercial and Institutional Building Construction ",
+      "provided_description": "Commercial and Institutional Building Construction"
+    },
+    {
+      "naics_code": "238110",
+      "description": "Poured Concrete Foundation and Structure Contractors ",
+      "provided_description": "Poured Concrete Foundation and Structure Contractors"
+    },
+    {
+      "naics_code": "238120",
+      "description": "Structural Steel and Precast Concrete Contractors ",
+      "provided_description": "Structural Steel and Precast Concrete Contractors"
+    },
+    {
+      "naics_code": "238130",
+      "description": "Framing Contractors ",
+      "provided_description": "Framing Contractors"
+    },
+    {
+      "naics_code": "238140",
+      "description": "Masonry Contractors ",
+      "provided_description": "Masonry Contractors"
+    },
+    {
+      "naics_code": "238150",
+      "description": "Glass and Glazing Contractors ",
+      "provided_description": "Glass and Glazing Contractors"
+    },
+    {
+      "naics_code": "238160",
+      "description": "Roofing Contractors ",
+      "provided_description": "Roofing Contractors"
+    }
+  ],
+  "Commercial Renovation Services": [
+    {
+      "naics_code": "236220",
+      "description": "Commercial and Institutional Building Construction ",
+      "provided_description": "Commercial and Institutional Building Construction"
+    },
+    {
+      "naics_code": "238210",
+      "description": "Electrical Contractors and Other Wiring Installation Contractors",
+      "provided_description": "Electrical Contractors and Other Wiring Installation Contractors"
+    },
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "238310",
+      "description": "Drywall and Insulation Contractors ",
+      "provided_description": "Drywall and Insulation Contractors"
+    },
+    {
+      "naics_code": "238320",
+      "description": "Painting and Wall Covering Contractors",
+      "provided_description": "Painting and Wall Covering Contractors"
+    },
+    {
+      "naics_code": "238350",
+      "description": "Finish Carpentry Contractors",
+      "provided_description": "Finish Carpentry Contractors"
+    }
+  ],
+  "Swimming Pool Installation Services": [
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    },
+    {
+      "naics_code": "237110",
+      "description": "Water and Sewer Line and Related Structures Construction ",
+      "provided_description": "Water and Sewer Line and Related Structures Construction"
+    },
+    {
+      "naics_code": "238220",
+      "description": "Plumbing, Heating, and Air-Conditioning Contractors ",
+      "provided_description": "Plumbing, Heating, and Air-Conditioning Contractors"
+    },
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings ",
+      "provided_description": "Other Services to Buildings and Dwellings"
+    }
+  ],
+  "Swimming Pool Maintenance Services": [
+    {
+      "naics_code": "811490",
+      "description": "Other Personal and Household Goods Repair and Maintenance ",
+      "provided_description": "Other Personal and Household Goods Repair and Maintenance"
+    },
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings ",
+      "provided_description": "Other Services to Buildings and Dwellings"
+    }
+  ],
+  "Vacant Building Management": [
+    {
+      "naics_code": "531120",
+      "description": "Lessors of Nonresidential Buildings (except Miniwarehouses) ",
+      "provided_description": "Lessors of Nonresidential Buildings (except Miniwarehouses)"
+    },
+    {
+      "naics_code": "531312",
+      "description": "Nonresidential Property Managers ",
+      "provided_description": "Nonresidential Property Managers"
+    },
+    {
+      "naics_code": "531210",
+      "description": "Offices of Real Estate Agents and Brokers",
+      "provided_description": "Offices of Real Estate Agents and Brokers"
+    }
+  ],
+  "Vacant Land Services": [
+    {
+      "naics_code": "531190",
+      "description": "Lessors of Other Real Estate Property ",
+      "provided_description": "Lessors of Other Real Estate Property"
+    },
+    {
+      "naics_code": "531210",
+      "description": "Offices of Real Estate Agents and Brokers",
+      "provided_description": "Offices of Real Estate Agents and Brokers"
+    },
+    {
+      "naics_code": "531390",
+      "description": "Other Activities Related to Real Estate ",
+      "provided_description": "Other Activities Related to Real Estate"
+    },
+    {
+      "naics_code": "531320",
+      "description": "Offices of Real Estate Appraisers ",
+      "provided_description": "Offices of Real Estate Appraisers"
+    },
+    {
+      "naics_code": "541370",
+      "description": "Surveying and Mapping (except Geophysical) Services",
+      "provided_description": "Surveying and Mapping (except Geophysical) Services"
+    },
+    {
+      "naics_code": "561730",
+      "description": "Landscaping Services",
+      "provided_description": "Landscaping Services"
+    },
+    {
+      "naics_code": "238910",
+      "description": "Site Preparation Contractors",
+      "provided_description": "Site Preparation Contractors"
+    }
+  ],
+  "Meat Processing Services": [
+    {
+      "naics_code": "311611",
+      "description": "Animal (except Poultry) Slaughtering ",
+      "provided_description": "Animal (except Poultry) Slaughtering"
+    },
+    {
+      "naics_code": "311612",
+      "description": "Meat Processed from Carcasses ",
+      "provided_description": "Meat Processed from Carcasses"
+    },
+    {
+      "naics_code": "311615",
+      "description": "Poultry Processing ",
+      "provided_description": "Poultry Processing"
+    },
+    {
+      "naics_code": "311613",
+      "description": "Rendering and Meat Byproduct Processing ",
+      "provided_description": "Rendering and Meat Byproduct Processing"
+    },
+    {
+      "naics_code": "311710",
+      "description": "Seafood Product Preparation and Packaging",
+      "provided_description": "Seafood Product Preparation and Packaging"
+    }
+  ],
+  "Seafood Processing Services": [
+    {
+      "naics_code": "311710",
+      "description": "Seafood Product Preparation and Packaging",
+      "provided_description": "Seafood Product Preparation and Packaging"
+    }
+  ],
+  "Dairy Production Services": [
+    {
+      "naics_code": "115210",
+      "description": "Support Activities for Animal Production",
+      "provided_description": "Support Activities for Animal Production"
+    },
+    {
+      "naics_code": "541690",
+      "description": "Other Scientific and Technical Consulting Services",
+      "provided_description": "Other Scientific and Technical Consulting Services"
+    },
+    {
+      "naics_code": "115116",
+      "description": "Farm Management Services ",
+      "provided_description": "Farm Management Services"
+    }
+  ],
+  "Frozen Food Processing": [
+    {
+      "naics_code": "311411",
+      "description": "Frozen Fruit, Juice, and Vegetable Manufacturing ",
+      "provided_description": "Frozen Fruit, Juice, and Vegetable Manufacturing"
+    },
+    {
+      "naics_code": "311412",
+      "description": "Frozen Specialty Food Manufacturing ",
+      "provided_description": "Frozen Specialty Food Manufacturing"
+    },
+    {
+      "naics_code": "311615",
+      "description": "Poultry Processing ",
+      "provided_description": "Poultry Processing"
+    },
+    {
+      "naics_code": "311813",
+      "description": "Frozen Cakes, Pies, and Other Pastries Manufacturing ",
+      "provided_description": "Frozen Cakes, Pies, and Other Pastries Manufacturing"
+    },
+    {
+      "naics_code": "311520",
+      "description": "Ice Cream and Frozen Dessert Manufacturing",
+      "provided_description": "Ice Cream and Frozen Dessert Manufacturing"
+    },
+    {
+      "naics_code": "311513",
+      "description": "Cheese Manufacturing ",
+      "provided_description": "Cheese Manufacturing"
+    }
+  ],
+  "Ice Production Services": [
+    {
+      "naics_code": "312113",
+      "description": "Ice Manufacturing ",
+      "provided_description": "Ice Manufacturing"
+    },
+    {
+      "naics_code": "325120",
+      "description": "Industrial Gas Manufacturing",
+      "provided_description": "Industrial Gas Manufacturing"
+    }
+  ],
+  "Canning Services": [
+    {
+      "naics_code": "311421",
+      "description": "Fruit and Vegetable Canning ",
+      "provided_description": "Fruit and Vegetable Canning"
+    },
+    {
+      "naics_code": "311422",
+      "description": "Specialty Canning ",
+      "provided_description": "Specialty Canning"
+    },
+    {
+      "naics_code": "311612",
+      "description": "Meat Processed from Carcasses ",
+      "provided_description": "Meat Processed from Carcasses"
+    }
+  ],
+  "Animal Feed Manufacturing": [
+    {
+      "naics_code": "311119",
+      "description": "Other Animal Food Manufacturing ",
+      "provided_description": "Other Animal Food Manufacturing"
+    },
+    {
+      "naics_code": "311111",
+      "description": "Dog and Cat Food Manufacturing ",
+      "provided_description": "Dog and Cat Food Manufacturing"
+    },
+    {
+      "naics_code": "311119",
+      "description": "Other Animal Food Manufacturing ",
+      "provided_description": "Other Animal Food Manufacturing"
+    }
+  ],
+  "Pet Food Manufacturing": [
+    {
+      "naics_code": "311111",
+      "description": "Dog and Cat Food Manufacturing ",
+      "provided_description": "Dog and Cat Food Manufacturing"
+    },
+    {
+      "naics_code": "311119",
+      "description": "Other Animal Food Manufacturing ",
+      "provided_description": "Other Animal Food Manufacturing"
+    }
+  ],
+  "Grain Processing Services": [
+    {
+      "naics_code": "311211",
+      "description": "Flour Milling ",
+      "provided_description": "Flour Milling"
+    },
+    {
+      "naics_code": "311212",
+      "description": "Rice Milling ",
+      "provided_description": "Rice Milling"
+    },
+    {
+      "naics_code": "311221",
+      "description": "Wet Corn Milling and Starch Manufacturing ",
+      "provided_description": "Wet Corn Milling"
+    },
+    {
+      "naics_code": "311224",
+      "description": "Soybean and Other Oilseed Processing ",
+      "provided_description": "Soybean and Other Oilseed Processing"
+    },
+    {
+      "naics_code": "311213",
+      "description": "Malt Manufacturing ",
+      "provided_description": "Malt Manufacturing"
+    },
+    {
+      "naics_code": "311119",
+      "description": "Other Animal Food Manufacturing ",
+      "provided_description": "Other Animal Food Manufacturing"
+    },
+    {
+      "naics_code": "115114",
+      "description": "Postharvest Crop Activities (except Cotton Ginning) ",
+      "provided_description": "Postharvest Crop Activities (except Cotton Ginning)"
+    }
+  ],
+  "Coffee Processing Services": [
+    {
+      "naics_code": "311920",
+      "description": "Coffee and Tea Manufacturing ",
+      "provided_description": "Coffee and Tea Manufacturing"
+    },
+    {
+      "naics_code": "311999",
+      "description": "All Other Miscellaneous Food Manufacturing ",
+      "provided_description": "All Other Miscellaneous Food Manufacturing"
+    },
+    {
+      "naics_code": "311423",
+      "description": "Dried and Dehydrated Food Manufacturing ",
+      "provided_description": "Dried and Dehydrated Food Manufacturing"
+    },
+    {
+      "naics_code": "311991",
+      "description": "Perishable Prepared Food Manufacturing ",
+      "provided_description": "Perishable Prepared Food Manufacturing"
+    },
+    {
+      "naics_code": "311340",
+      "description": "Nonchocolate Confectionery Manufacturing",
+      "provided_description": "Nonchocolate Confectionery Manufacturing"
+    },
+    {
+      "naics_code": "311224",
+      "description": "Soybean and Other Oilseed Processing ",
+      "provided_description": "Soybean and Other Oilseed Processing"
+    }
+  ],
+  "Seed Processing Services": [
+    {
+      "naics_code": "115114",
+      "description": "Postharvest Crop Activities (except Cotton Ginning) ",
+      "provided_description": "Postharvest Crop Activities"
+    },
+    {
+      "naics_code": "424910",
+      "description": "Farm Supplies Merchant Wholesalers ",
+      "provided_description": "Farm Supplies Merchant Wholesalers"
+    },
+    {
+      "naics_code": "111120",
+      "description": "Oilseed (except Soybean) Farming ",
+      "provided_description": "Oilseed (except Soybean) Farming"
+    },
+    {
+      "naics_code": "541380",
+      "description": "Testing Laboratories and Services",
+      "provided_description": "Testing Laboratories"
+    }
+  ],
+  "Bakery Production Services": [
+    {
+      "naics_code": "311812",
+      "description": "Commercial Bakeries ",
+      "provided_description": "Commercial Bakeries and Frozen Bakery Product Manufacturing"
+    },
+    {
+      "naics_code": "311813",
+      "description": "Frozen Cakes, Pies, and Other Pastries Manufacturing ",
+      "provided_description": "Frozen Cakes, Pies, and Other Pastries Manufacturing"
+    },
+    {
+      "naics_code": "311811",
+      "description": "Retail Bakeries ",
+      "provided_description": "Retail Bakeries"
+    },
+    {
+      "naics_code": "311821",
+      "description": "Cookie and Cracker Manufacturing ",
+      "provided_description": "Cookie and Cracker Manufacturing"
+    },
+    {
+      "naics_code": "311999",
+      "description": "All Other Miscellaneous Food Manufacturing ",
+      "provided_description": "All Other Miscellaneous Food Manufacturing"
+    }
+  ],
+  "Confectionery Manufacturing": [
+    {
+      "naics_code": "311351",
+      "description": "Chocolate and Confectionery Manufacturing from Cacao Beans ",
+      "provided_description": "Chocolate and Confectionery Manufacturing from Cacao Beans"
+    },
+    {
+      "naics_code": "311352",
+      "description": "Confectionery Manufacturing from Purchased Chocolate ",
+      "provided_description": "Confectionery Manufacturing from Purchased Chocolate"
+    },
+    {
+      "naics_code": "311340",
+      "description": "Nonchocolate Confectionery Manufacturing",
+      "provided_description": "Nonchocolate Confectionery Manufacturing"
+    }
+  ],
+  "Distilling Services": [
+    {
+      "naics_code": "312140",
+      "description": "Distilleries ",
+      "provided_description": "Distilleries"
+    },
+    {
+      "naics_code": "561910",
+      "description": "Packaging and Labeling Services",
+      "provided_description": "Packaging and Labeling Services"
+    },
+    {
+      "naics_code": "541330",
+      "description": "Engineering Services",
+      "provided_description": "Engineering Services"
+    },
+    {
+      "naics_code": "541614",
+      "description": "Process, Physical Distribution, and Logistics Consulting Services ",
+      "provided_description": "Process, Physical Distribution, and Logistics Consulting Services"
+    },
+    {
+      "naics_code": "493120",
+      "description": "Refrigerated Warehousing and Storage",
+      "provided_description": "Refrigerated Warehousing and Storage"
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services ",
+      "provided_description": "Other Management Consulting Services"
+    },
+    {
+      "naics_code": "115114",
+      "description": "Postharvest Crop Activities (except Cotton Ginning) ",
+      "provided_description": "Postharvest Crop Activities (except Cotton Ginning)"
+    }
+  ],
+  "Brewery Operations": [
+    {
+      "naics_code": "312120",
+      "description": "Breweries",
+      "provided_description": "Breweries"
+    },
+    {
+      "naics_code": "312130",
+      "description": "Wineries ",
+      "provided_description": "Wineries"
+    },
+    {
+      "naics_code": "312140",
+      "description": "Distilleries ",
+      "provided_description": "Distilleries"
+    },
+    {
+      "naics_code": "722410",
+      "description": "Drinking Places (Alcoholic Beverages) ",
+      "provided_description": "Drinking Places (Alcoholic Beverages)"
+    }
+  ],
+  "Non-Alcoholic Beverage Manufacturing": [
+    {
+      "naics_code": "312111",
+      "description": "Soft Drink Manufacturing ",
+      "provided_description": "Soft Drink Manufacturing"
+    },
+    {
+      "naics_code": "312112",
+      "description": "Bottled Water Manufacturing ",
+      "provided_description": "Bottled Water Manufacturing"
+    },
+    {
+      "naics_code": "311920",
+      "description": "Coffee and Tea Manufacturing ",
+      "provided_description": "Coffee and Tea Manufacturing"
+    },
+    {
+      "naics_code": "311411",
+      "description": "Frozen Fruit, Juice, and Vegetable Manufacturing ",
+      "provided_description": "Frozen Fruit, Juice, and Vegetable Manufacturing"
+    },
+    {
+      "naics_code": "311421",
+      "description": "Fruit and Vegetable Canning ",
+      "provided_description": "Fruit and Vegetable Canning"
+    },
+    {
+      "naics_code": "311511",
+      "description": "Fluid Milk Manufacturing ",
+      "provided_description": "Fluid Milk Manufacturing"
+    },
+    {
+      "naics_code": "311930",
+      "description": "Flavoring Syrup and Concentrate Manufacturing",
+      "provided_description": "Flavoring Syrup and Concentrate Manufacturing"
+    }
+  ],
+  "Oil and Fat Manufacturing": [
+    {
+      "naics_code": "311221",
+      "description": "Wet Corn Milling and Starch Manufacturing ",
+      "provided_description": "Wet Corn Milling"
+    },
+    {
+      "naics_code": "311225",
+      "description": "Fats and Oils Refining and Blending ",
+      "provided_description": "Fats and Oils Refining and Blending"
+    }
+  ],
+  "Textile Manufacturing Services": [
+    {
+      "naics_code": "313310",
+      "description": "Textile and Fabric Finishing Mills ",
+      "provided_description": "Textile and Fabric Finishing Mills"
+    },
+    {
+      "naics_code": "313320",
+      "description": "Fabric Coating Mills",
+      "provided_description": "Fabric Coating Mills"
+    },
+    {
+      "naics_code": "313240",
+      "description": "Knit Fabric Mills",
+      "provided_description": "Knit Fabric Mills"
+    },
+    {
+      "naics_code": "313110",
+      "description": "Fiber, Yarn, and Thread Mills ",
+      "provided_description": "Fiber, Yarn, and Thread Mills"
+    },
+    {
+      "naics_code": "313230",
+      "description": "Nonwoven Fabric Mills",
+      "provided_description": "Nonwoven Fabric Mills"
+    },
+    {
+      "naics_code": "313220",
+      "description": "Narrow Fabric Mills and Schiffli Machine Embroidery",
+      "provided_description": "Narrow Fabric Mills and Schiffli Machine Embroidery"
+    },
+    {
+      "naics_code": "313210",
+      "description": "Broadwoven Fabric Mills",
+      "provided_description": "Broadwoven Fabric Mills"
+    }
+  ],
+  "Carpet Manufacturing Services": [
+    {
+      "naics_code": "314110",
+      "description": "Carpet and Rug Mills",
+      "provided_description": "Carpet and Rug Mills"
+    }
+  ],
+  "Apparel Manufacturing": [
+    {
+      "naics_code": "315210",
+      "description": "Cut and Sew Apparel Contractors ",
+      "provided_description": "Cut and Sew Apparel Contractors"
+    },
+    {
+      "naics_code": "315990",
+      "description": "Apparel Accessories and Other Apparel Manufacturing ",
+      "provided_description": "Apparel Accessories and Other Apparel Manufacturing"
+    }
+  ],
+  "Accessory Manufacturing": [
+    {
+      "naics_code": "339910",
+      "description": "Jewelry and Silverware Manufacturing ",
+      "provided_description": "Jewelry and Silverware Manufacturing"
+    },
+    {
+      "naics_code": "336390",
+      "description": "Other Motor Vehicle Parts Manufacturing",
+      "provided_description": "Other Motor Vehicle Parts Manufacturing"
+    },
+    {
+      "naics_code": "334310",
+      "description": "Audio and Video Equipment Manufacturing",
+      "provided_description": "Audio and Video Equipment Manufacturing"
+    },
+    {
+      "naics_code": "339920",
+      "description": "Sporting and Athletic Goods Manufacturing",
+      "provided_description": "Sporting and Athletic Goods Manufacturing"
+    },
+    {
+      "naics_code": "334419",
+      "description": "Other Electronic Component Manufacturing ",
+      "provided_description": "Other Electronic Component Manufacturing"
+    }
+  ],
+  "Children's Clothing Manufacturing": [
+    {
+      "naics_code": "315990",
+      "description": "Apparel Accessories and Other Apparel Manufacturing ",
+      "provided_description": "Apparel Accessories and Other Apparel Manufacturing"
+    }
+  ],
+  "Window Treatment Manufacturing": [
+    {
+      "naics_code": "337920",
+      "description": "Blind and Shade Manufacturing",
+      "provided_description": "Blind and Shade Manufacturing"
+    },
+    {
+      "naics_code": "314120",
+      "description": "Curtain and Linen Mills",
+      "provided_description": "Curtain and Linen Mills"
+    },
+    {
+      "naics_code": "321999",
+      "description": "All Other Miscellaneous Wood Product Manufacturing ",
+      "provided_description": "All Other Miscellaneous Wood Product Manufacturing"
+    }
+  ],
+  "Canvas Manufacturing": [
+    {
+      "naics_code": "313210",
+      "description": "Broadwoven Fabric Mills",
+      "provided_description": "Broadwoven Fabric Mills"
+    },
+    {
+      "naics_code": "314910",
+      "description": "Textile Bag and Canvas Mills ",
+      "provided_description": "Textile Bag and Canvas Mills"
+    },
+    {
+      "naics_code": "314999",
+      "description": "All Other Miscellaneous Textile Product Mills ",
+      "provided_description": "All Other Miscellaneous Textile Product Mills"
+    },
+    {
+      "naics_code": "313240",
+      "description": "Knit Fabric Mills",
+      "provided_description": "Knit Fabric Mills"
+    },
+    {
+      "naics_code": "313310",
+      "description": "Textile and Fabric Finishing Mills ",
+      "provided_description": "Textile and Fabric Finishing Mills"
+    }
+  ],
+  "Rope Production Services": [
+    {
+      "naics_code": "314994",
+      "description": "Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills ",
+      "provided_description": "Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills"
+    },
+    {
+      "naics_code": "313310",
+      "description": "Textile and Fabric Finishing Mills ",
+      "provided_description": "Textile and Fabric Finishing Mills"
+    },
+    {
+      "naics_code": "314999",
+      "description": "All Other Miscellaneous Textile Product Mills ",
+      "provided_description": "All Other Miscellaneous Textile Product Mills"
+    },
+    {
+      "naics_code": "561990",
+      "description": "All Other Support Services",
+      "provided_description": "All Other Support Services"
+    },
+    {
+      "naics_code": "423840",
+      "description": "Industrial Supplies Merchant Wholesalers",
+      "provided_description": "Industrial Supplies Merchant Wholesalers"
+    },
+    {
+      "naics_code": "424590",
+      "description": "Other Farm Product Raw Material Merchant Wholesalers ",
+      "provided_description": "Other Farm Product Raw Material Merchant Wholesalers"
+    },
+    {
+      "naics_code": "332999",
+      "description": "All Other Miscellaneous Fabricated Metal Product Manufacturing ",
+      "provided_description": "All Other Miscellaneous Fabricated Metal Product Manufacturing"
+    }
+  ],
+  "Tent Manufacturing Services": [
+    {
+      "naics_code": "314999",
+      "description": "All Other Miscellaneous Textile Product Mills ",
+      "provided_description": "All Other Miscellaneous Textile Product Mills"
+    }
+  ],
+  "Wood Product Manufacturing": [
+    {
+      "naics_code": "321113",
+      "description": "Sawmills ",
+      "provided_description": "Sawmills"
+    },
+    {
+      "naics_code": "321114",
+      "description": "Wood Preservation ",
+      "provided_description": "Wood Preservation"
+    },
+    {
+      "naics_code": "321211",
+      "description": "Hardwood Veneer and Plywood Manufacturing ",
+      "provided_description": "Hardwood Veneer and Plywood Manufacturing"
+    },
+    {
+      "naics_code": "321212",
+      "description": "Softwood Veneer and Plywood Manufacturing ",
+      "provided_description": "Softwood Veneer and Plywood Manufacturing"
+    },
+    {
+      "naics_code": "321911",
+      "description": "Wood Window and Door Manufacturing ",
+      "provided_description": "Wood Window and Door Manufacturing"
+    },
+    {
+      "naics_code": "321920",
+      "description": "Wood Container and Pallet Manufacturing",
+      "provided_description": "Wood Container and Pallet Manufacturing"
+    }
+  ],
+  "Window and Door Manufacturing": [
+    {
+      "naics_code": "321911",
+      "description": "Wood Window and Door Manufacturing ",
+      "provided_description": "Wood Window and Door Manufacturing"
+    },
+    {
+      "naics_code": "332321",
+      "description": "Metal Window and Door Manufacturing ",
+      "provided_description": "Metal Window and Door Manufacturing"
+    },
+    {
+      "naics_code": "326199",
+      "description": "All Other Plastics Product Manufacturing ",
+      "provided_description": "All Other Plastics Product Manufacturing"
+    },
+    {
+      "naics_code": "331318",
+      "description": "Other Aluminum Rolling, Drawing, and Extruding ",
+      "provided_description": "Other Aluminum Rolling, Drawing, and Extruding"
+    }
+  ],
+  "Cabinetry Manufacturing": [
+    {
+      "naics_code": "337110",
+      "description": "Wood Kitchen Cabinet and Countertop Manufacturing",
+      "provided_description": "Wood Kitchen Cabinet and Countertop Manufacturing"
+    },
+    {
+      "naics_code": "337127",
+      "description": "Institutional Furniture Manufacturing ",
+      "provided_description": "Institutional Furniture Manufacturing"
+    },
+    {
+      "naics_code": "337211",
+      "description": "Wood Office Furniture Manufacturing ",
+      "provided_description": "Wood Office Furniture Manufacturing"
+    },
+    {
+      "naics_code": "337212",
+      "description": "Custom Architectural Woodwork and Millwork Manufacturing ",
+      "provided_description": "Custom Architectural Woodwork and Millwork Manufacturing"
+    },
+    {
+      "naics_code": "321918",
+      "description": "Other Millwork (including Flooring) ",
+      "provided_description": "Other Millwork (including Flooring)"
+    },
+    {
+      "naics_code": "321999",
+      "description": "All Other Miscellaneous Wood Product Manufacturing ",
+      "provided_description": "All Other Miscellaneous Wood Product Manufacturing"
+    }
+  ],
+  "Trim Manufacturing": [
+    {
+      "naics_code": "336360",
+      "description": "Motor Vehicle Seating and Interior Trim Manufacturing",
+      "provided_description": "Motor Vehicle Seating and Interior Trim Manufacturing"
+    },
+    {
+      "naics_code": "326199",
+      "description": "All Other Plastics Product Manufacturing ",
+      "provided_description": "All Other Plastics Product Manufacturing (includes plastic trim components)"
+    },
+    {
+      "naics_code": "337215",
+      "description": "Showcase, Partition, Shelving, and Locker Manufacturing ",
+      "provided_description": "Showcase, Partition, Shelving, and Locker Manufacturing (includes trim components)"
+    }
+  ],
+  "Pallet Manufacturing": [
+    {
+      "naics_code": "321920",
+      "description": "Wood Container and Pallet Manufacturing",
+      "provided_description": "Wood Container and Pallet Manufacturing"
+    },
+    {
+      "naics_code": "326199",
+      "description": "All Other Plastics Product Manufacturing ",
+      "provided_description": "All Other Plastics Product Manufacturing"
+    },
+    {
+      "naics_code": "332439",
+      "description": "Other Metal Container Manufacturing ",
+      "provided_description": "Other Metal Container Manufacturing"
+    }
+  ],
+  "Furniture Manufacturing": [
+    {
+      "naics_code": "337121",
+      "description": "Upholstered Household Furniture Manufacturing ",
+      "provided_description": "Upholstered Household Furniture Manufacturing"
+    },
+    {
+      "naics_code": "337122",
+      "description": "Nonupholstered Wood Household Furniture Manufacturing ",
+      "provided_description": "Nonupholstered Wood Household Furniture Manufacturing"
+    },
+    {
+      "naics_code": "337127",
+      "description": "Institutional Furniture Manufacturing ",
+      "provided_description": "Institutional Furniture Manufacturing"
+    },
+    {
+      "naics_code": "337211",
+      "description": "Wood Office Furniture Manufacturing ",
+      "provided_description": "Wood Office Furniture Manufacturing"
+    },
+    {
+      "naics_code": "337214",
+      "description": "Office Furniture (except Wood) Manufacturing ",
+      "provided_description": "Office Furniture (except Wood) Manufacturing"
+    }
+  ],
+  "Bedding Manufacturing": [
+    {
+      "naics_code": "337910",
+      "description": "Mattress Manufacturing",
+      "provided_description": "Mattress Manufacturing"
+    },
+    {
+      "naics_code": "337121",
+      "description": "Upholstered Household Furniture Manufacturing ",
+      "provided_description": "Upholstered Household Furniture Manufacturing"
+    },
+    {
+      "naics_code": "326150",
+      "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+      "provided_description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing"
+    }
+  ],
+  "Paper Production Services": [
+    {
+      "naics_code": "322130",
+      "description": "Paperboard Mills ",
+      "provided_description": "Paperboard Mills"
+    },
+    {
+      "naics_code": "322110",
+      "description": "Pulp Mills ",
+      "provided_description": "Pulp Mills"
+    }
+  ],
+  "Stationery Manufacturing": [
+    {
+      "naics_code": "339940",
+      "description": "Office Supplies (except Paper) Manufacturing",
+      "provided_description": "Office Supplies (except Paper) Manufacturing"
+    }
+  ],
+  "Printing Services": [
+    {
+      "naics_code": "323111",
+      "description": "Commercial Printing (except Screen and Books) ",
+      "provided_description": "Commercial Printing (except Screen and Books)"
+    },
+    {
+      "naics_code": "323113",
+      "description": "Commercial Screen Printing ",
+      "provided_description": "Commercial Screen Printing"
+    },
+    {
+      "naics_code": "323117",
+      "description": "Books Printing ",
+      "provided_description": "Books Printing"
+    },
+    {
+      "naics_code": "323120",
+      "description": "Support Activities for Printing",
+      "provided_description": "Support Activities for Printing"
+    }
+  ],
+  "Gas Manufacturing Services": [
+    {
+      "naics_code": "325120",
+      "description": "Industrial Gas Manufacturing",
+      "provided_description": "Industrial Gas Manufacturing"
+    },
+    {
+      "naics_code": "211130",
+      "description": "Natural Gas Extraction ",
+      "provided_description": "Natural Gas Extraction"
+    },
+    {
+      "naics_code": "325199",
+      "description": "All Other Basic Organic Chemical Manufacturing ",
+      "provided_description": "All Other Basic Organic Chemical Manufacturing"
+    }
+  ],
+  "Ink Production Services": [
+    {
+      "naics_code": "325910",
+      "description": "Printing Ink Manufacturing",
+      "provided_description": "Printing Ink Manufacturing"
+    },
+    {
+      "naics_code": "325510",
+      "description": "Paint and Coating Manufacturing",
+      "provided_description": "Paint and Coating Manufacturing"
+    },
+    {
+      "naics_code": "325130",
+      "description": "Synthetic Dye and Pigment Manufacturing",
+      "provided_description": "Synthetic Dye and Pigment Manufacturing"
+    },
+    {
+      "naics_code": "325199",
+      "description": "All Other Basic Organic Chemical Manufacturing ",
+      "provided_description": "All Other Basic Organic Chemical Manufacturing"
+    }
+  ],
+  "Plastic Manufacturing": [
+    {
+      "naics_code": "325211",
+      "description": "Plastics Material and Resin Manufacturing ",
+      "provided_description": "Plastics Material and Resin Manufacturing"
+    },
+    {
+      "naics_code": "326111",
+      "description": "Plastics Bag and Pouch Manufacturing ",
+      "provided_description": "Plastics Bag and Pouch Manufacturing"
+    },
+    {
+      "naics_code": "326113",
+      "description": "Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ",
+      "provided_description": "Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing"
+    },
+    {
+      "naics_code": "326121",
+      "description": "Unlaminated Plastics Profile Shape Manufacturing ",
+      "provided_description": "Unlaminated Plastics Profile Shape Manufacturing"
+    },
+    {
+      "naics_code": "326122",
+      "description": "Plastics Pipe and Pipe Fitting Manufacturing ",
+      "provided_description": "Plastics Pipe and Pipe Fitting Manufacturing"
+    },
+    {
+      "naics_code": "326199",
+      "description": "All Other Plastics Product Manufacturing ",
+      "provided_description": "All Other Plastics Product Manufacturing"
+    }
+  ],
+  "Cosmetic Manufacturing": [
+    {
+      "naics_code": "325620",
+      "description": "Toilet Preparation Manufacturing",
+      "provided_description": "Perfume, Cologne, and Other Toilet Preparation Manufacturing"
+    },
+    {
+      "naics_code": "325611",
+      "description": "Soap and Other Detergent Manufacturing ",
+      "provided_description": "Soap and Other Detergent Manufacturing"
+    },
+    {
+      "naics_code": "325612",
+      "description": "Polish and Other Sanitation Good Manufacturing ",
+      "provided_description": "Polish and Other Sanitation Good Manufacturing"
+    },
+    {
+      "naics_code": "325613",
+      "description": "Surface Active Agent Manufacturing ",
+      "provided_description": "Surface Active Agent Manufacturing"
+    },
+    {
+      "naics_code": "325998",
+      "description": "All Other Miscellaneous Chemical Product and Preparation Manufacturing ",
+      "provided_description": "All Other Miscellaneous Chemical Product and Preparation Manufacturing"
+    }
+  ],
+  "Soap Production Services": [
+    {
+      "naics_code": "325611",
+      "description": "Soap and Other Detergent Manufacturing ",
+      "provided_description": "Soap and Other Detergent Manufacturing"
+    },
+    {
+      "naics_code": "325612",
+      "description": "Polish and Other Sanitation Good Manufacturing ",
+      "provided_description": "Polish and Other Sanitation Good Manufacturing"
+    },
+    {
+      "naics_code": "325620",
+      "description": "Toilet Preparation Manufacturing",
+      "provided_description": "Toilet Preparation Manufacturing"
+    },
+    {
+      "naics_code": "325998",
+      "description": "All Other Miscellaneous Chemical Product and Preparation Manufacturing ",
+      "provided_description": "All Other Miscellaneous Chemical Product and Preparation Manufacturing"
+    }
+  ],
+  "Chemical Manufacturing": [
+    {
+      "naics_code": "325110",
+      "description": "Petrochemical Manufacturing",
+      "provided_description": "Petrochemical Manufacturing"
+    },
+    {
+      "naics_code": "325180",
+      "description": "Other Basic Inorganic Chemical Manufacturing ",
+      "provided_description": "Other Basic Inorganic Chemical Manufacturing"
+    },
+    {
+      "naics_code": "325211",
+      "description": "Plastics Material and Resin Manufacturing ",
+      "provided_description": "Plastics Material and Resin Manufacturing"
+    },
+    {
+      "naics_code": "325320",
+      "description": "Pesticide and Other Agricultural Chemical Manufacturing",
+      "provided_description": "Pesticide and Other Agricultural Chemical Manufacturing"
+    },
+    {
+      "naics_code": "325411",
+      "description": "Medicinal and Botanical Manufacturing ",
+      "provided_description": "Medicinal and Botanical Manufacturing"
+    },
+    {
+      "naics_code": "325510",
+      "description": "Paint and Coating Manufacturing",
+      "provided_description": "Paint and Coating Manufacturing"
+    },
+    {
+      "naics_code": "325620",
+      "description": "Toilet Preparation Manufacturing",
+      "provided_description": "Toilet Preparation Manufacturing"
+    }
+  ],
+  "Asphalt Production Services": [
+    {
+      "naics_code": "324121",
+      "description": "Asphalt Paving Mixture and Block Manufacturing ",
+      "provided_description": "Asphalt Paving Mixture and Block Manufacturing"
+    },
+    {
+      "naics_code": "324122",
+      "description": "Asphalt Shingle and Coating Materials Manufacturing ",
+      "provided_description": "Asphalt Shingle and Coating Materials Manufacturing"
+    },
+    {
+      "naics_code": "237310",
+      "description": "Highway, Street, and Bridge Construction ",
+      "provided_description": "Highway, Street, and Bridge Construction"
+    },
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "provided_description": "All Other Specialty Trade Contractors"
+    }
+  ],
+  "Rubber Manufacturing": [
+    {
+      "naics_code": "326211",
+      "description": "Tire Manufacturing (except Retreading) ",
+      "provided_description": "Tire Manufacturing (except Retreading)"
+    },
+    {
+      "naics_code": "326212",
+      "description": "Tire Retreading ",
+      "provided_description": "Tire Retreading"
+    },
+    {
+      "naics_code": "326220",
+      "description": "Rubber and Plastics Hoses and Belting Manufacturing",
+      "provided_description": "Rubber and Plastics Hoses and Belting Manufacturing"
+    },
+    {
+      "naics_code": "326291",
+      "description": "Rubber Product Manufacturing for Mechanical Use ",
+      "provided_description": "Rubber Product Manufacturing for Mechanical Use"
+    },
+    {
+      "naics_code": "326299",
+      "description": "All Other Rubber Product Manufacturing ",
+      "provided_description": "All Other Rubber Product Manufacturing"
+    }
+  ],
+  "Plastic Signage Production": [
+    {
+      "naics_code": "339950",
+      "description": "Sign Manufacturing",
+      "provided_description": "Sign Manufacturing"
+    },
+    {
+      "naics_code": "326199",
+      "description": "All Other Plastics Product Manufacturing ",
+      "provided_description": "All Other Plastics Product Manufacturing"
+    },
+    {
+      "naics_code": "337215",
+      "description": "Showcase, Partition, Shelving, and Locker Manufacturing ",
+      "provided_description": "Showcase, Partition, Shelving, and Locker Manufacturing"
+    },
+    {
+      "naics_code": "326140",
+      "description": "Polystyrene Foam Product Manufacturing",
+      "provided_description": "Polystyrene Foam Product Manufacturing"
+    },
+    {
+      "naics_code": "326150",
+      "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+      "provided_description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing"
+    }
+  ],
+  "Media Production Services": [
+    {
+      "naics_code": "512110",
+      "description": "Motion Picture and Video Production ",
+      "provided_description": "Motion Picture and Video Production"
+    },
+    {
+      "naics_code": "512191",
+      "description": "Teleproduction and Other Postproduction Services ",
+      "provided_description": "Teleproduction and Other Postproduction Services"
+    },
+    {
+      "naics_code": "512240",
+      "description": "Sound Recording Studios",
+      "provided_description": "Sound Recording Studios"
+    },
+    {
+      "naics_code": "541430",
+      "description": "Graphic Design Services",
+      "provided_description": "Graphic Design Services"
+    },
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services ",
+      "provided_description": "Marketing Consulting Services"
+    },
+    {
+      "naics_code": "541890",
+      "description": "Other Services Related to Advertising ",
+      "provided_description": "Other Services Related to Advertising"
+    },
+    {
+      "naics_code": "711510",
+      "description": "Independent Artists, Writers, and Performers ",
+      "provided_description": "Independent Artists, Writers, and Performers"
+    }
+  ],
+  "Software Manufacturing": [
+    {
+      "naics_code": "541511",
+      "description": "Custom Computer Programming Services ",
+      "provided_description": "Custom Computer Programming Services"
+    },
+    {
+      "naics_code": "541512",
+      "description": "Computer Systems Design Services ",
+      "provided_description": "Computer Systems Design Services"
+    },
+    {
+      "naics_code": "541519",
+      "description": "Other Computer Related Services",
+      "provided_description": "Other Computer Related Services"
+    }
+  ],
+  "Food Processing Services": [
+    {
+      "naics_code": "311611",
+      "description": "Animal (except Poultry) Slaughtering ",
+      "provided_description": "Animal (except Poultry) Slaughtering"
+    },
+    {
+      "naics_code": "311423",
+      "description": "Dried and Dehydrated Food Manufacturing ",
+      "provided_description": "Dried and Dehydrated Food Manufacturing"
+    },
+    {
+      "naics_code": "311514",
+      "description": "Dry, Condensed, and Evaporated Dairy Product Manufacturing ",
+      "provided_description": "Dry, Condensed, and Evaporated Dairy Product Manufacturing"
+    },
+    {
+      "naics_code": "311211",
+      "description": "Flour Milling ",
+      "provided_description": "Flour Milling"
+    },
+    {
+      "naics_code": "311313",
+      "description": "Beet Sugar Manufacturing ",
+      "provided_description": "Beet Sugar Manufacturing"
+    },
+    {
+      "naics_code": "311999",
+      "description": "All Other Miscellaneous Food Manufacturing ",
+      "provided_description": "All Other Miscellaneous Food Manufacturing"
+    }
+  ],
+  "Pharmaceutical Manufacturing": [
+    {
+      "naics_code": "325411",
+      "description": "Medicinal and Botanical Manufacturing ",
+      "provided_description": "Medicinal and Botanical Manufacturing"
+    },
+    {
+      "naics_code": "325412",
+      "description": "Pharmaceutical Preparation Manufacturing ",
+      "provided_description": "Pharmaceutical Preparation Manufacturing"
+    },
+    {
+      "naics_code": "325413",
+      "description": "In-Vitro Diagnostic Substance Manufacturing ",
+      "provided_description": "In-Vitro Diagnostic Substance Manufacturing"
+    },
+    {
+      "naics_code": "325414",
+      "description": "Biological Product (except Diagnostic) Manufacturing ",
+      "provided_description": "Biological Product (except Diagnostic) Manufacturing"
+    }
+  ],
+  "Laboratory Services": [
+    {
+      "naics_code": "621511",
+      "description": "Medical Laboratories ",
+      "provided_description": "Medical Laboratories"
+    },
+    {
+      "naics_code": "541380",
+      "description": "Testing Laboratories and Services",
+      "provided_description": "Testing Laboratories"
+    },
+    {
+      "naics_code": "541714",
+      "description": "Research and Development in Biotechnology (except Nanobiotechnology)",
+      "provided_description": "Research and Development in Biotechnology (except Nanobiotechnology)"
+    },
+    {
+      "naics_code": "541715",
+      "description": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) ",
+      "provided_description": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)"
+    },
+    {
+      "naics_code": "325412",
+      "description": "Pharmaceutical Preparation Manufacturing ",
+      "provided_description": "Pharmaceutical Preparation Manufacturing"
+    },
+    {
+      "naics_code": "541940",
+      "description": "Veterinary Services ",
+      "provided_description": "Veterinary Services"
+    },
+    {
+      "naics_code": "339116",
+      "description": "Dental Laboratories ",
+      "provided_description": "Dental Laboratories"
+    }
+  ],
+  "Waste Management Services": [
+    {
+      "naics_code": "562111",
+      "description": "Solid Waste Collection ",
+      "provided_description": "Solid Waste Collection"
+    },
+    {
+      "naics_code": "562112",
+      "description": "Hazardous Waste Collection ",
+      "provided_description": "Hazardous Waste Collection"
+    },
+    {
+      "naics_code": "562211",
+      "description": "Hazardous Waste Treatment and Disposal ",
+      "provided_description": "Hazardous Waste Treatment and Disposal"
+    },
+    {
+      "naics_code": "562212",
+      "description": "Solid Waste Landfill ",
+      "provided_description": "Solid Waste Landfill"
+    },
+    {
+      "naics_code": "562213",
+      "description": "Solid Waste Combustors and Incinerators ",
+      "provided_description": "Solid Waste Combustors and Incinerators"
+    },
+    {
+      "naics_code": "562219",
+      "description": "Other Nonhazardous Waste Treatment and Disposal ",
+      "provided_description": "Other Nonhazardous Waste Treatment and Disposal"
+    },
+    {
+      "naics_code": "562920",
+      "description": "Materials Recovery Facilities ",
+      "provided_description": "Materials Recovery Facilities"
+    }
+  ],
+  "Recycling Services": [
+    {
+      "naics_code": "562920",
+      "description": "Materials Recovery Facilities ",
+      "provided_description": "Materials Recovery Facilities"
+    },
+    {
+      "naics_code": "562119",
+      "description": "Other Waste Collection ",
+      "provided_description": "Other Waste Collection"
+    },
+    {
+      "naics_code": "562111",
+      "description": "Solid Waste Collection ",
+      "provided_description": "Solid Waste Collection"
+    },
+    {
+      "naics_code": "562219",
+      "description": "Other Nonhazardous Waste Treatment and Disposal ",
+      "provided_description": "Other Nonhazardous Waste Treatment and Disposal"
+    },
+    {
+      "naics_code": "562212",
+      "description": "Solid Waste Landfill ",
+      "provided_description": "Solid Waste Landfill"
+    },
+    {
+      "naics_code": "562213",
+      "description": "Solid Waste Combustors and Incinerators ",
+      "provided_description": "Solid Waste Combustors and Incinerators"
+    },
+    {
+      "naics_code": "562920",
+      "description": "Materials Recovery Facilities ",
+      "provided_description": "Materials Recovery Facilities"
+    }
+  ],
+  "Environmental Consulting": [
+    {
+      "naics_code": "541620",
+      "description": "Environmental Consulting Services",
+      "provided_description": "Environmental Consulting Services"
+    },
+    {
+      "naics_code": "541330",
+      "description": "Engineering Services",
+      "provided_description": "Engineering Services"
+    },
+    {
+      "naics_code": "541380",
+      "description": "Testing Laboratories and Services",
+      "provided_description": "Testing Laboratories and Services"
+    },
+    {
+      "naics_code": "562910",
+      "description": "Remediation Services ",
+      "provided_description": "Remediation Services"
+    },
+    {
+      "naics_code": "541715",
+      "description": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) ",
+      "provided_description": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)"
+    },
+    {
+      "naics_code": "541690",
+      "description": "Other Scientific and Technical Consulting Services",
+      "provided_description": "Other Scientific and Technical Consulting Services"
+    }
+  ],
+  "Property Management Services": [
+    {
+      "naics_code": "531311",
+      "description": "Residential Property Managers ",
+      "provided_description": "Residential Property Managers"
+    },
+    {
+      "naics_code": "531312",
+      "description": "Nonresidential Property Managers ",
+      "provided_description": "Nonresidential Property Managers"
+    },
+    {
+      "naics_code": "531390",
+      "description": "Other Activities Related to Real Estate ",
+      "provided_description": "Other Activities Related to Real Estate"
+    },
+    {
+      "naics_code": "531210",
+      "description": "Offices of Real Estate Agents and Brokers",
+      "provided_description": "Offices of Real Estate Agents and Brokers"
+    },
+    {
+      "naics_code": "531190",
+      "description": "Lessors of Other Real Estate Property ",
+      "provided_description": "Lessors of Other Real Estate Property"
+    },
+    {
+      "naics_code": "531120",
+      "description": "Lessors of Nonresidential Buildings (except Miniwarehouses) ",
+      "provided_description": "Lessors of Nonresidential Buildings (except Miniwarehouses)"
+    }
+  ],
+  "Real Estate Services": [
+    {
+      "naics_code": "531110",
+      "description": "Lessors of Residential Buildings and Dwellings ",
+      "provided_description": "Lessors of Residential Buildings and Dwellings"
+    },
+    {
+      "naics_code": "531120",
+      "description": "Lessors of Nonresidential Buildings (except Miniwarehouses) ",
+      "provided_description": "Lessors of Nonresidential Buildings (except Miniwarehouses)"
+    },
+    {
+      "naics_code": "531210",
+      "description": "Offices of Real Estate Agents and Brokers",
+      "provided_description": "Offices of Real Estate Agents and Brokers"
+    },
+    {
+      "naics_code": "531311",
+      "description": "Residential Property Managers ",
+      "provided_description": "Residential Property Managers"
+    },
+    {
+      "naics_code": "531312",
+      "description": "Nonresidential Property Managers ",
+      "provided_description": "Nonresidential Property Managers"
+    },
+    {
+      "naics_code": "531320",
+      "description": "Offices of Real Estate Appraisers ",
+      "provided_description": "Offices of Real Estate Appraisers"
+    },
+    {
+      "naics_code": "531390",
+      "description": "Other Activities Related to Real Estate ",
+      "provided_description": "Other Activities Related to Real Estate"
+    }
+  ],
+  "Insurance Services": [
+    {
+      "naics_code": "524113",
+      "description": "Direct Life Insurance Carriers ",
+      "provided_description": "Direct Life Insurance Carriers"
+    },
+    {
+      "naics_code": "524114",
+      "description": "Direct Health and Medical Insurance Carriers ",
+      "provided_description": "Direct Health and Medical Insurance Carriers"
+    },
+    {
+      "naics_code": "524126",
+      "description": "Direct Property and Casualty Insurance Carriers ",
+      "provided_description": "Direct Property and Casualty Insurance Carriers"
+    },
+    {
+      "naics_code": "524210",
+      "description": "Insurance Agencies and Brokerages ",
+      "provided_description": "Insurance Agencies and Brokerages"
+    },
+    {
+      "naics_code": "524130",
+      "description": "Reinsurance Carriers ",
+      "provided_description": "Reinsurance Carriers"
+    },
+    {
+      "naics_code": "524291",
+      "description": "Claims Adjusting ",
+      "provided_description": "Claims Adjusting"
+    },
+    {
+      "naics_code": "524298",
+      "description": "All Other Insurance Related Activities ",
+      "provided_description": "All Other Insurance Related Activities"
+    }
+  ],
+  "Financial Services": [
+    {
+      "naics_code": "522110",
+      "description": "Commercial Banking ",
+      "provided_description": "Commercial Banking"
+    },
+    {
+      "naics_code": "522130",
+      "description": "Credit Unions ",
+      "provided_description": "Credit Unions"
+    },
+    {
+      "naics_code": "524210",
+      "description": "Insurance Agencies and Brokerages ",
+      "provided_description": "Insurance Agencies and Brokerages"
+    },
+    {
+      "naics_code": "525920",
+      "description": "Trusts, Estates, and Agency Accounts ",
+      "provided_description": "Trusts, Estates, and Agency Accounts"
+    }
+  ],
+  "Legal Services": [
+    {
+      "naics_code": "541110",
+      "description": "Offices of Lawyers",
+      "provided_description": "Offices of Lawyers"
+    },
+    {
+      "naics_code": "541120",
+      "description": "Offices of Notaries",
+      "provided_description": "Offices of Notaries"
+    },
+    {
+      "naics_code": "541199",
+      "description": "All Other Legal Services ",
+      "provided_description": "All Other Legal Services"
+    }
+  ],
+  "Consulting Services": [
+    {
+      "naics_code": "541620",
+      "description": "Environmental Consulting Services",
+      "provided_description": "Environmental Consulting Services"
+    },
+    {
+      "naics_code": "541512",
+      "description": "Computer Systems Design Services ",
+      "provided_description": "Computer Systems Design Services"
+    },
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services ",
+      "provided_description": "Marketing Consulting Services"
+    },
+    {
+      "naics_code": "541612",
+      "description": "Human Resources Consulting Services ",
+      "provided_description": "Human Resources Consulting Services"
+    },
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services ",
+      "provided_description": "Administrative Management and General Management Consulting Services"
+    },
+    {
+      "naics_code": "541614",
+      "description": "Process, Physical Distribution, and Logistics Consulting Services ",
+      "provided_description": "Process, Physical Distribution, and Logistics Consulting Services"
+    }
+  ],
+  "Marketing Services": [
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services ",
+      "provided_description": "Marketing Consulting Services and Market Research and Public Opinion Polling"
+    },
+    {
+      "naics_code": "541810",
+      "description": "Advertising Agencies",
+      "provided_description": "Advertising Agencies"
+    },
+    {
+      "naics_code": "541830",
+      "description": "Media Buying Agencies",
+      "provided_description": "Media Buying Agencies"
+    },
+    {
+      "naics_code": "541840",
+      "description": "Media Representatives",
+      "provided_description": "Media Representatives"
+    },
+    {
+      "naics_code": "541860",
+      "description": "Direct Mail Advertising",
+      "provided_description": "Direct Mail Advertising"
+    },
+    {
+      "naics_code": "541870",
+      "description": "Advertising Material Distribution Services",
+      "provided_description": "Advertising Material Distribution Services"
+    }
+  ],
+  "Human Resources Services": [
+    {
+      "naics_code": "541612",
+      "description": "Human Resources Consulting Services ",
+      "provided_description": "Human Resources Consulting Services"
+    },
+    {
+      "naics_code": "561330",
+      "description": "Professional Employer Organizations",
+      "provided_description": "Professional Employer Organizations"
+    },
+    {
+      "naics_code": "561312",
+      "description": "Executive Search Services ",
+      "provided_description": "Executive Search Services"
+    },
+    {
+      "naics_code": "561311",
+      "description": "Employment Placement Agencies ",
+      "provided_description": "Employment Placement Agencies"
+    },
+    {
+      "naics_code": "561320",
+      "description": "Temporary Help Services",
+      "provided_description": "Temporary Help Services"
+    },
+    {
+      "naics_code": "611430",
+      "description": "Professional and Management Development Training ",
+      "provided_description": "Professional and Management Development Training"
+    },
+    {
+      "naics_code": "561422",
+      "description": "Telemarketing Bureaus and Other Contact Centers ",
+      "provided_description": "Telemarketing Bureaus and Other Contact Centers"
+    }
+  ],
+  "Management Consulting": [
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services ",
+      "provided_description": "Administrative Management and General Management Consulting Services"
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services ",
+      "provided_description": "Other Management Consulting Services"
+    },
+    {
+      "naics_code": "541612",
+      "description": "Human Resources Consulting Services ",
+      "provided_description": "Human Resources Consulting Services"
+    },
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services ",
+      "provided_description": "Marketing Consulting Services"
+    },
+    {
+      "naics_code": "541614",
+      "description": "Process, Physical Distribution, and Logistics Consulting Services ",
+      "provided_description": "Process, Physical Distribution, and Logistics Consulting Services"
+    }
+  ],
+  "Business Development Services": [
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services ",
+      "provided_description": "Administrative Management and General Management Consulting Services"
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services ",
+      "provided_description": "Other Management Consulting Services"
+    },
+    {
+      "naics_code": "541612",
+      "description": "Human Resources Consulting Services ",
+      "provided_description": "Human Resources Consulting Services"
+    },
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services ",
+      "provided_description": "Marketing Consulting Services"
+    },
+    {
+      "naics_code": "541614",
+      "description": "Process, Physical Distribution, and Logistics Consulting Services ",
+      "provided_description": "Process, Physical Distribution, and Logistics Consulting Services"
+    },
+    {
+      "naics_code": "541990",
+      "description": "All Other Professional, Scientific, and Technical Services",
+      "provided_description": "All Other Professional, Scientific, and Technical Services"
+    },
+    {
+      "naics_code": "561110",
+      "description": "Office Administrative Services",
+      "provided_description": "Office Administrative Services"
+    }
+  ],
+  "Project Management Services": [
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services ",
+      "provided_description": "Administrative Management and General Management Consulting Services"
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services ",
+      "provided_description": "Other Management Consulting Services"
+    },
+    {
+      "naics_code": "541330",
+      "description": "Engineering Services",
+      "provided_description": "Engineering Services"
+    },
+    {
+      "naics_code": "541511",
+      "description": "Custom Computer Programming Services ",
+      "provided_description": "Custom Computer Programming Services"
+    },
+    {
+      "naics_code": "236220",
+      "description": "Commercial and Institutional Building Construction ",
+      "provided_description": "Commercial and Institutional Building Construction"
+    },
+    {
+      "naics_code": "541612",
+      "description": "Human Resources Consulting Services ",
+      "provided_description": "Human Resources Consulting Services"
+    },
+    {
+      "naics_code": "541690",
+      "description": "Other Scientific and Technical Consulting Services",
+      "provided_description": "Other Scientific and Technical Consulting Services"
+    }
+  ],
+  "Technology Consulting": [
+    {
+      "naics_code": "541512",
+      "description": "Computer Systems Design Services ",
+      "provided_description": "Computer Systems Design Services"
+    },
+    {
+      "naics_code": "541511",
+      "description": "Custom Computer Programming Services ",
+      "provided_description": "Custom Computer Programming Services"
+    },
+    {
+      "naics_code": "541519",
+      "description": "Other Computer Related Services",
+      "provided_description": "Other Computer Related Services"
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services ",
+      "provided_description": "Other Management Consulting Services"
+    },
+    {
+      "naics_code": "541690",
+      "description": "Other Scientific and Technical Consulting Services",
+      "provided_description": "Other Scientific and Technical Consulting Services"
+    }
+  ],
+  "Software Development Services": [
+    {
+      "naics_code": "541511",
+      "description": "Custom Computer Programming Services ",
+      "provided_description": "Custom Computer Programming Services"
+    },
+    {
+      "naics_code": "541512",
+      "description": "Computer Systems Design Services ",
+      "provided_description": "Computer Systems Design Services"
+    },
+    {
+      "naics_code": "541513",
+      "description": "Computer Facilities Management Services ",
+      "provided_description": "Computer Facilities Management Services"
+    },
+    {
+      "naics_code": "541519",
+      "description": "Other Computer Related Services",
+      "provided_description": "Other Computer Related Services"
+    },
+    {
+      "naics_code": "541614",
+      "description": "Process, Physical Distribution, and Logistics Consulting Services ",
+      "provided_description": "Process, Physical Distribution, and Logistics Consulting Services"
+    },
+    {
+      "naics_code": "541715",
+      "description": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) ",
+      "provided_description": "Research and Development in the Physical, Engineering, and Life Sciences"
+    }
+  ],
+  "Data Analysis Services": [
+    {
+      "naics_code": "541512",
+      "description": "Computer Systems Design Services ",
+      "provided_description": "Computer Systems Design Services"
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services ",
+      "provided_description": "Other Management Consulting Services"
+    },
+    {
+      "naics_code": "541690",
+      "description": "Other Scientific and Technical Consulting Services",
+      "provided_description": "Other Scientific and Technical Consulting Services"
+    },
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services ",
+      "provided_description": "Administrative Management and General Management Consulting Services"
+    },
+    {
+      "naics_code": "541715",
+      "description": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) ",
+      "provided_description": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)"
+    },
+    {
+      "naics_code": "541720",
+      "description": "Research and Development in the Social Sciences and Humanities ",
+      "provided_description": "Research and Development in the Social Sciences and Humanities"
+    }
+  ],
+  "Market Research Services": [
+    {
+      "naics_code": "541910",
+      "description": "Marketing Research and Public Opinion Polling",
+      "provided_description": "Marketing Research and Public Opinion Polling"
+    },
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services ",
+      "provided_description": "Marketing Consulting Services"
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services ",
+      "provided_description": "Other Management Consulting Services"
+    },
+    {
+      "naics_code": "541720",
+      "description": "Research and Development in the Social Sciences and Humanities ",
+      "provided_description": "Research and Development in the Social Sciences and Humanities"
+    }
+  ],
+  "Strategic Planning Services": [
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services ",
+      "provided_description": "Administrative Management and General Management Consulting Services"
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services ",
+      "provided_description": "Other Management Consulting Services"
+    },
+    {
+      "naics_code": "541612",
+      "description": "Human Resources Consulting Services ",
+      "provided_description": "Human Resources Consulting Services"
+    },
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services ",
+      "provided_description": "Marketing Consulting Services"
+    },
+    {
+      "naics_code": "541614",
+      "description": "Process, Physical Distribution, and Logistics Consulting Services ",
+      "provided_description": "Process, Physical Distribution, and Logistics Consulting Services"
+    },
+    {
+      "naics_code": "541990",
+      "description": "All Other Professional, Scientific, and Technical Services",
+      "provided_description": "All Other Professional, Scientific, and Technical Services"
+    }
+  ],
+  "Training Services": [
+    {
+      "naics_code": "611430",
+      "description": "Professional and Management Development Training ",
+      "provided_description": "Professional and Management Development Training"
+    },
+    {
+      "naics_code": "611420",
+      "description": "Computer Training ",
+      "provided_description": "Computer Training"
+    },
+    {
+      "naics_code": "611519",
+      "description": "Other Technical and Trade Schools ",
+      "provided_description": "Other Technical and Trade Schools"
+    },
+    {
+      "naics_code": "611630",
+      "description": "Language Schools ",
+      "provided_description": "Language Schools"
+    },
+    {
+      "naics_code": "611410",
+      "description": "Business and Secretarial Schools ",
+      "provided_description": "Business and Secretarial Schools"
+    },
+    {
+      "naics_code": "624310",
+      "description": "Vocational Rehabilitation Services ",
+      "provided_description": "Vocational Rehabilitation Services"
+    },
+    {
+      "naics_code": "611699",
+      "description": "All Other Miscellaneous Schools and Instruction ",
+      "provided_description": "All Other Miscellaneous Schools and Instruction"
+    }
+  ],
+  "Public Relations Services": [
+    {
+      "naics_code": "541820",
+      "description": "Public Relations Agencies",
+      "provided_description": "Public Relations Agencies"
+    },
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services ",
+      "provided_description": "Marketing Consulting Services"
+    },
+    {
+      "naics_code": "541910",
+      "description": "Marketing Research and Public Opinion Polling",
+      "provided_description": "Marketing Research and Public Opinion Polling"
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services ",
+      "provided_description": "Other Management Consulting Services"
+    }
+  ],
+  "Event Planning Services": [
+    {
+      "naics_code": "561920",
+      "description": "Convention and Trade Show Organizers",
+      "provided_description": "Convention and Trade Show Organizers"
+    },
+    {
+      "naics_code": "561990",
+      "description": "All Other Support Services",
+      "provided_description": "All Other Support Services"
+    },
+    {
+      "naics_code": "711320",
+      "description": "Promoters of Performing Arts, Sports, and Similar Events without Facilities ",
+      "provided_description": "Promoters of Performing Arts, Sports, and Similar Events without Facilities"
+    }
+  ],
+  "Catering Services": [
+    {
+      "naics_code": "722320",
+      "description": "Caterers",
+      "provided_description": "Caterers"
+    }
+  ],
+  "Travel Services": [
+    {
+      "naics_code": "561510",
+      "description": "Travel Agencies",
+      "provided_description": "Travel Agencies"
+    },
+    {
+      "naics_code": "561520",
+      "description": "Tour Operators",
+      "provided_description": "Tour Operators"
+    },
+    {
+      "naics_code": "561599",
+      "description": "All Other Travel Arrangement and Reservation Services ",
+      "provided_description": "All Other Travel Arrangement and Reservation Services"
+    },
+    {
+      "naics_code": "561591",
+      "description": "Convention and Visitors Bureaus ",
+      "provided_description": "Convention and Visitors Bureaus"
+    }
+  ],
+  "Digital Marketing Services": [
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services ",
+      "provided_description": "Marketing Consulting Services"
+    },
+    {
+      "naics_code": "541810",
+      "description": "Advertising Agencies",
+      "provided_description": "Advertising Agencies"
+    },
+    {
+      "naics_code": "541890",
+      "description": "Other Services Related to Advertising ",
+      "provided_description": "Other Services Related to Advertising"
+    },
+    {
+      "naics_code": "541850",
+      "description": "Indoor and Outdoor Display Advertising",
+      "provided_description": "Display Advertising"
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services ",
+      "provided_description": "Other Management Consulting Services"
+    }
+  ],
+  "E-Commerce Services": [
+    {
+      "naics_code": "541511",
+      "description": "Custom Computer Programming Services ",
+      "provided_description": "Custom Computer Programming Services"
+    },
+    {
+      "naics_code": "541512",
+      "description": "Computer Systems Design Services ",
+      "provided_description": "Computer Systems Design Services"
+    },
+    {
+      "naics_code": "522320",
+      "description": "Financial Transactions Processing, Reserve, and Clearinghouse Activities ",
+      "provided_description": "Financial Transactions Processing, Reserve, and Clearinghouse Activities"
+    }
+  ],
+  "Online Marketing Services": [
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services ",
+      "provided_description": "Marketing Consulting Services"
+    },
+    {
+      "naics_code": "541810",
+      "description": "Advertising Agencies",
+      "provided_description": "Advertising Agencies"
+    },
+    {
+      "naics_code": "541850",
+      "description": "Indoor and Outdoor Display Advertising",
+      "provided_description": "Display Advertising"
+    },
+    {
+      "naics_code": "541890",
+      "description": "Other Services Related to Advertising ",
+      "provided_description": "Other Services Related to Advertising"
+    },
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services ",
+      "provided_description": "Administrative Management and General Management Consulting Services"
+    }
+  ],
+  "Content Creation Services": [
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services ",
+      "provided_description": "Marketing Consulting Services"
+    },
+    {
+      "naics_code": "541430",
+      "description": "Graphic Design Services",
+      "provided_description": "Graphic Design Services"
+    }
+  ],
+  "Website Development Services": [
+    {
+      "naics_code": "541511",
+      "description": "Custom Computer Programming Services ",
+      "provided_description": "Custom Computer Programming Services"
+    },
+    {
+      "naics_code": "541512",
+      "description": "Computer Systems Design Services ",
+      "provided_description": "Computer Systems Design Services"
+    }
+  ],
+  "SEO Services": [
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services ",
+      "provided_description": "Marketing Consulting Services"
+    },
+    {
+      "naics_code": "541810",
+      "description": "Advertising Agencies",
+      "provided_description": "Advertising Agencies"
+    },
+    {
+      "naics_code": "541612",
+      "description": "Human Resources Consulting Services ",
+      "provided_description": "Human Resources Consulting Services"
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services ",
+      "provided_description": "Other Management Consulting Services"
+    }
+  ],
+  "Social Media Services": [
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services ",
+      "provided_description": "Marketing Consulting Services"
+    },
+    {
+      "naics_code": "541810",
+      "description": "Advertising Agencies",
+      "provided_description": "Advertising Agencies"
+    },
+    {
+      "naics_code": "541870",
+      "description": "Advertising Material Distribution Services",
+      "provided_description": "Advertising Material Distribution Services"
+    },
+    {
+      "naics_code": "541820",
+      "description": "Public Relations Agencies",
+      "provided_description": "Public Relations Agencies"
+    },
+    {
+      "naics_code": "541511",
+      "description": "Custom Computer Programming Services ",
+      "provided_description": "Custom Computer Programming Services"
+    }
+  ],
+  "Advertising Services": [
+    {
+      "naics_code": "541810",
+      "description": "Advertising Agencies",
+      "provided_description": "Advertising Agencies"
+    },
+    {
+      "naics_code": "541870",
+      "description": "Advertising Material Distribution Services",
+      "provided_description": "Advertising Material Distribution Services"
+    },
+    {
+      "naics_code": "541890",
+      "description": "Other Services Related to Advertising ",
+      "provided_description": "Other Services Related to Advertising"
+    },
+    {
+      "naics_code": "541860",
+      "description": "Direct Mail Advertising",
+      "provided_description": "Direct Mail Advertising"
+    }
+  ],
+  "Corporate Training Services": [
+    {
+      "naics_code": "611430",
+      "description": "Professional and Management Development Training ",
+      "provided_description": "Professional and Management Development Training"
+    },
+    {
+      "naics_code": "611420",
+      "description": "Computer Training ",
+      "provided_description": "Computer Training"
+    },
+    {
+      "naics_code": "541612",
+      "description": "Human Resources Consulting Services ",
+      "provided_description": "Human Resources Consulting Services"
+    },
+    {
+      "naics_code": "611699",
+      "description": "All Other Miscellaneous Schools and Instruction ",
+      "provided_description": "All Other Miscellaneous Schools and Instruction"
+    }
+  ],
+  "Health and Safety Consulting": [
+    {
+      "naics_code": "541612",
+      "description": "Human Resources Consulting Services ",
+      "provided_description": "Human Resources Consulting Services"
+    },
+    {
+      "naics_code": "541620",
+      "description": "Environmental Consulting Services",
+      "provided_description": "Environmental Consulting Services"
+    },
+    {
+      "naics_code": "541690",
+      "description": "Other Scientific and Technical Consulting Services",
+      "provided_description": "Other Scientific and Technical Consulting Services"
+    },
+    {
+      "naics_code": "541715",
+      "description": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) ",
+      "provided_description": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)"
+    },
+    {
+      "naics_code": "541720",
+      "description": "Research and Development in the Social Sciences and Humanities ",
+      "provided_description": "Research and Development in the Social Sciences and Humanities"
+    },
+    {
+      "naics_code": "541350",
+      "description": "Building Inspection Services",
+      "provided_description": "Building Inspection Services"
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services ",
+      "provided_description": "Other Management Consulting Services"
+    }
+  ],
+  "Food Safety Services": [
+    {
+      "naics_code": "541380",
+      "description": "Testing Laboratories and Services",
+      "provided_description": "Testing Laboratories and Services"
+    },
+    {
+      "naics_code": "541990",
+      "description": "All Other Professional, Scientific, and Technical Services",
+      "provided_description": "All Other Professional, Scientific, and Technical Services"
+    },
+    {
+      "naics_code": "541690",
+      "description": "Other Scientific and Technical Consulting Services",
+      "provided_description": "Other Scientific and Technical Consulting Services"
+    },
+    {
+      "naics_code": "541940",
+      "description": "Veterinary Services ",
+      "provided_description": "Veterinary Services"
+    }
+  ],
+  "Quality Assurance Services": [
+    {
+      "naics_code": "541380",
+      "description": "Testing Laboratories and Services",
+      "provided_description": "Testing Laboratories and Services"
+    },
+    {
+      "naics_code": "541330",
+      "description": "Engineering Services",
+      "provided_description": "Engineering Services"
+    },
+    {
+      "naics_code": "541690",
+      "description": "Other Scientific and Technical Consulting Services",
+      "provided_description": "Other Scientific and Technical Consulting Services"
+    },
+    {
+      "naics_code": "541511",
+      "description": "Custom Computer Programming Services ",
+      "provided_description": "Custom Computer Programming Services"
+    },
+    {
+      "naics_code": "541512",
+      "description": "Computer Systems Design Services ",
+      "provided_description": "Computer Systems Design Services"
+    },
+    {
+      "naics_code": "541519",
+      "description": "Other Computer Related Services",
+      "provided_description": "Other Computer Related Services"
+    },
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services ",
+      "provided_description": "Administrative Management and General Management Consulting Services"
+    }
+  ],
+  "Compliance Services": [
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services ",
+      "provided_description": "Administrative Management and General Management Consulting Services"
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services ",
+      "provided_description": "Other Management Consulting Services"
+    },
+    {
+      "naics_code": "541690",
+      "description": "Other Scientific and Technical Consulting Services",
+      "provided_description": "Other Scientific and Technical Consulting Services"
+    },
+    {
+      "naics_code": "541990",
+      "description": "All Other Professional, Scientific, and Technical Services",
+      "provided_description": "All Other Professional, Scientific, and Technical Services"
+    }
+  ],
+  "Environmental Health Services": [
+    {
+      "naics_code": "621399",
+      "description": "Offices of All Other Miscellaneous Health Practitioners ",
+      "provided_description": "Offices of All Other Miscellaneous Health Practitioners"
+    },
+    {
+      "naics_code": "541620",
+      "description": "Environmental Consulting Services",
+      "provided_description": "Environmental Consulting Services"
+    },
+    {
+      "naics_code": "562910",
+      "description": "Remediation Services ",
+      "provided_description": "Remediation Services"
+    },
+    {
+      "naics_code": "541380",
+      "description": "Testing Laboratories and Services",
+      "provided_description": "Testing Laboratories"
+    },
+    {
+      "naics_code": "562211",
+      "description": "Hazardous Waste Treatment and Disposal ",
+      "provided_description": "Hazardous Waste Treatment and Disposal"
+    }
+  ],
+  "Risk Assessment Services": [
+    {
+      "naics_code": "541211",
+      "description": "Offices of Certified Public Accountants ",
+      "provided_description": "Offices of Certified Public Accountants"
+    },
+    {
+      "naics_code": "541620",
+      "description": "Environmental Consulting Services",
+      "provided_description": "Environmental Consulting Services"
+    },
+    {
+      "naics_code": "524291",
+      "description": "Claims Adjusting ",
+      "provided_description": "Claims Adjusting"
+    },
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services ",
+      "provided_description": "Administrative Management and General Management Consulting Services"
+    },
+    {
+      "naics_code": "541330",
+      "description": "Engineering Services",
+      "provided_description": "Engineering Services"
+    },
+    {
+      "naics_code": "541715",
+      "description": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) ",
+      "provided_description": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)"
+    }
+  ],
+  "Crisis Management Services": [
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services ",
+      "provided_description": "Administrative Management and General Management Consulting Services"
+    },
+    {
+      "naics_code": "541612",
+      "description": "Human Resources Consulting Services ",
+      "provided_description": "Human Resources Consulting Services"
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services ",
+      "provided_description": "Other Management Consulting Services"
+    },
+    {
+      "naics_code": "541990",
+      "description": "All Other Professional, Scientific, and Technical Services",
+      "provided_description": "All Other Professional, Scientific, and Technical Services"
+    },
+    {
+      "naics_code": "541820",
+      "description": "Public Relations Agencies",
+      "provided_description": "Public Relations Agencies"
+    },
+    {
+      "naics_code": "922190",
+      "description": "Other Justice, Public Order, and Safety Activities ",
+      "provided_description": "Other Justice, Public Order, and Safety Activities"
+    }
+  ],
+  "Community Engagement Services": [
+    {
+      "naics_code": "813410",
+      "description": "Civic and Social Organizations ",
+      "provided_description": "Civic and Social Organizations"
+    },
+    {
+      "naics_code": "624190",
+      "description": "Other Individual and Family Services ",
+      "provided_description": "Other Individual and Family Services"
+    },
+    {
+      "naics_code": "813910",
+      "description": "Business Associations ",
+      "provided_description": "Business Associations"
+    },
+    {
+      "naics_code": "541990",
+      "description": "All Other Professional, Scientific, and Technical Services",
+      "provided_description": "All Other Professional, Scientific, and Technical Services"
+    },
+    {
+      "naics_code": "711310",
+      "description": "Promoters of Performing Arts, Sports, and Similar Events with Facilities ",
+      "provided_description": "Promoters of Performing Arts, Sports, and Similar Events"
+    }
+  ],
+  "Stakeholder Services": [
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services ",
+      "provided_description": "Administrative Management and General Management Consulting Services"
+    },
+    {
+      "naics_code": "541820",
+      "description": "Public Relations Agencies",
+      "provided_description": "Public Relations Agencies"
+    },
+    {
+      "naics_code": "551114",
+      "description": "Corporate, Subsidiary, and Regional Managing Offices ",
+      "provided_description": "Corporate, Subsidiary, and Regional Managing Offices"
+    },
+    {
+      "naics_code": "541614",
+      "description": "Process, Physical Distribution, and Logistics Consulting Services ",
+      "provided_description": "Process, Physical Distribution, and Logistics Consulting Services"
+    },
+    {
+      "naics_code": "541720",
+      "description": "Research and Development in the Social Sciences and Humanities ",
+      "provided_description": "Research and Development in the Social Sciences and Humanities"
+    },
+    {
+      "naics_code": "813910",
+      "description": "Business Associations ",
+      "provided_description": "Business Associations"
+    }
+  ],
+  "Corporate Responsibility Services": [
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services ",
+      "provided_description": "Administrative Management and General Management Consulting Services"
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services ",
+      "provided_description": "Other Management Consulting Services"
+    },
+    {
+      "naics_code": "541612",
+      "description": "Human Resources Consulting Services ",
+      "provided_description": "Human Resources Consulting Services"
+    },
+    {
+      "naics_code": "541620",
+      "description": "Environmental Consulting Services",
+      "provided_description": "Environmental Consulting Services"
+    },
+    {
+      "naics_code": "541690",
+      "description": "Other Scientific and Technical Consulting Services",
+      "provided_description": "Other Scientific and Technical Consulting Services"
+    }
+  ],
+  "Fundraising Services": [
+    {
+      "naics_code": "813990",
+      "description": "Other Similar Organizations (except Business, Professional, Labor, and Political Organizations) ",
+      "provided_description": "Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)"
+    },
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services ",
+      "provided_description": "Administrative Management and General Management Consulting Services"
+    },
+    {
+      "naics_code": "561499",
+      "description": "All Other Business Support Services ",
+      "provided_description": "All Other Business Support Services"
+    },
+    {
+      "naics_code": "541990",
+      "description": "All Other Professional, Scientific, and Technical Services",
+      "provided_description": "All Other Professional, Scientific, and Technical Services"
+    },
+    {
+      "naics_code": "611710",
+      "description": "Educational Support Services",
+      "provided_description": "Educational Support Services"
+    },
+    {
+      "naics_code": "812990",
+      "description": "All Other Personal Services ",
+      "provided_description": "All Other Personal Services"
+    }
+  ],
+  "Volunteer Services": [
+    {
+      "naics_code": "813410",
+      "description": "Civic and Social Organizations ",
+      "provided_description": "Civic and Social Organizations"
+    },
+    {
+      "naics_code": "813319",
+      "description": "Other Social Advocacy Organizations ",
+      "provided_description": "Other Social Advocacy Organizations"
+    },
+    {
+      "naics_code": "813311",
+      "description": "Human Rights Organizations ",
+      "provided_description": "Human Rights Organizations"
+    },
+    {
+      "naics_code": "813312",
+      "description": "Environment, Conservation and Wildlife Organizations ",
+      "provided_description": "Environment, Conservation and Wildlife Organizations"
+    },
+    {
+      "naics_code": "624110",
+      "description": "Child and Youth Services ",
+      "provided_description": "Child and Youth Services"
+    },
+    {
+      "naics_code": "624120",
+      "description": "Services for the Elderly and Persons with Disabilities ",
+      "provided_description": "Services for the Elderly and Persons with Disabilities"
+    },
+    {
+      "naics_code": "813990",
+      "description": "Other Similar Organizations (except Business, Professional, Labor, and Political Organizations) ",
+      "provided_description": "Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)"
+    }
+  ],
+  "Non-Profit Management": [
+    {
+      "naics_code": "813311",
+      "description": "Human Rights Organizations ",
+      "provided_description": "Human Rights Organizations"
+    },
+    {
+      "naics_code": "813312",
+      "description": "Environment, Conservation and Wildlife Organizations ",
+      "provided_description": "Environment, Conservation and Wildlife Organizations"
+    },
+    {
+      "naics_code": "813319",
+      "description": "Other Social Advocacy Organizations ",
+      "provided_description": "Other Social Advocacy Organizations"
+    },
+    {
+      "naics_code": "813410",
+      "description": "Civic and Social Organizations ",
+      "provided_description": "Civic and Social Organizations"
+    },
+    {
+      "naics_code": "813910",
+      "description": "Business Associations ",
+      "provided_description": "Business Associations"
+    },
+    {
+      "naics_code": "813920",
+      "description": "Professional Organizations ",
+      "provided_description": "Professional Organizations"
+    },
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services ",
+      "provided_description": "Administrative Management and General Management Consulting Services"
+    }
+  ],
+  "Arts Services": [
+    {
+      "naics_code": "711110",
+      "description": "Theater Companies and Dinner Theaters ",
+      "provided_description": "Theater Companies and Dinner Theaters"
+    },
+    {
+      "naics_code": "711120",
+      "description": "Dance Companies ",
+      "provided_description": "Dance Companies"
+    },
+    {
+      "naics_code": "711130",
+      "description": "Musical Groups and Artists ",
+      "provided_description": "Musical Groups and Artists"
+    },
+    {
+      "naics_code": "711190",
+      "description": "Other Performing Arts Companies ",
+      "provided_description": "Other Performing Arts Companies"
+    },
+    {
+      "naics_code": "712110",
+      "description": "Museums ",
+      "provided_description": "Museums"
+    },
+    {
+      "naics_code": "711510",
+      "description": "Independent Artists, Writers, and Performers ",
+      "provided_description": "Independent Artists, Writers, and Performers"
+    },
+    {
+      "naics_code": "611610",
+      "description": "Fine Arts Schools ",
+      "provided_description": "Fine Arts Schools"
+    }
+  ],
+  "Sports Management Services": [
+    {
+      "naics_code": "711410",
+      "description": "Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",
+      "provided_description": "Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures"
+    }
+  ],
+  "Fitness Coaching": [
+    {
+      "naics_code": "611620",
+      "description": "Sports and Recreation Instruction ",
+      "provided_description": "Sports and Recreation Instruction"
+    },
+    {
+      "naics_code": "812990",
+      "description": "All Other Personal Services ",
+      "provided_description": "All Other Personal Services"
+    },
+    {
+      "naics_code": "713940",
+      "description": "Fitness and Recreational Sports Centers ",
+      "provided_description": "Fitness and Recreational Sports Centers"
+    }
+  ],
+  "Health Promotion Services": [
+    {
+      "naics_code": "621399",
+      "description": "Offices of All Other Miscellaneous Health Practitioners ",
+      "provided_description": "Offices of All Other Miscellaneous Health Practitioners"
+    },
+    {
+      "naics_code": "624190",
+      "description": "Other Individual and Family Services ",
+      "provided_description": "Other Individual and Family Services"
+    },
+    {
+      "naics_code": "713940",
+      "description": "Fitness and Recreational Sports Centers ",
+      "provided_description": "Fitness and Recreational Sports Centers"
+    },
+    {
+      "naics_code": "621999",
+      "description": "All Other Miscellaneous Ambulatory Health Care Services ",
+      "provided_description": "All Other Miscellaneous Ambulatory Health Care Services"
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services ",
+      "provided_description": "Other Management Consulting Services"
+    }
+  ],
+  "Physical Therapy Services": [
+    {
+      "naics_code": "621610",
+      "description": "Home Health Care Services",
+      "provided_description": "Home Health Care Services"
+    },
+    {
+      "naics_code": "621999",
+      "description": "All Other Miscellaneous Ambulatory Health Care Services ",
+      "provided_description": "All Other Miscellaneous Ambulatory Health Care Services"
+    },
+    {
+      "naics_code": "623220",
+      "description": "Residential Mental Health and Substance Abuse Facilities ",
+      "provided_description": "Residential Mental Health and Substance Abuse Facilities"
+    },
+    {
+      "naics_code": "623311",
+      "description": "Continuing Care Retirement Communities ",
+      "provided_description": "Continuing Care Retirement Communities"
+    },
+    {
+      "naics_code": "624120",
+      "description": "Services for the Elderly and Persons with Disabilities ",
+      "provided_description": "Services for the Elderly and Persons with Disabilities"
+    }
+  ],
+  "Occupational Health Services": [
+    {
+      "naics_code": "621399",
+      "description": "Offices of All Other Miscellaneous Health Practitioners ",
+      "provided_description": "Offices of All Other Miscellaneous Health Practitioners"
+    },
+    {
+      "naics_code": "621999",
+      "description": "All Other Miscellaneous Ambulatory Health Care Services ",
+      "provided_description": "All Other Miscellaneous Ambulatory Health Care Services"
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services ",
+      "provided_description": "Other Management Consulting Services"
+    }
+  ]
+}

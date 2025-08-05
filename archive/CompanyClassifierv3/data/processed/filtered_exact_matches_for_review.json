@@ -1,0 +1,2198 @@
+{
+  "Landscaping Services": [
+    {
+      "naics_code": "561730",
+      "description": "Interior landscaping services",
+      "search_term": "landscaping services",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "561730",
+      "description": "Landscaping services (except planning)",
+      "search_term": "landscaping services",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "561730",
+      "description": "Seasonal property maintenance services (i.e., snow plowing in winter, landscaping during other seasons)",
+      "search_term": "landscaping",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "561730",
+      "description": "Snow plowing services combined with landscaping services (i.e., seasonal property maintenance services)",
+      "search_term": "landscaping services",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Veterinary Services": [
+    {
+      "naics_code": "325412",
+      "description": "Veterinary medicinal preparations manufacturing",
+      "search_term": "veterinary",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541714",
+      "description": "Biotechnology research and development laboratories or services in the veterinary sciences (except nanobiotechnology research and development)",
+      "search_term": "veterinary",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541715",
+      "description": "Veterinary research and development laboratories or services (except biotechnology and nanotechnology research and development)",
+      "search_term": "veterinary",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541940",
+      "description": "Disease testing services, veterinary",
+      "search_term": "veterinary",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541940",
+      "description": "Internists' offices, veterinary",
+      "search_term": "veterinary",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Veterinary Clinics": [
+    {
+      "naics_code": "541940",
+      "description": "Veterinary clinics",
+      "search_term": "veterinary clinics",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Pet Boarding Services": [
+    {
+      "naics_code": "812910",
+      "description": "Kennels, pet boarding",
+      "search_term": "pet boarding",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "812910",
+      "description": "Pet boarding services",
+      "search_term": "pet boarding services",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Pet Grooming Services": [
+    {
+      "naics_code": "812910",
+      "description": "Pet grooming services",
+      "search_term": "pet grooming services",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Sidewalk Construction Services": [
+    {
+      "naics_code": "238990",
+      "description": "Sidewalk construction, residential and commercial",
+      "search_term": "sidewalk construction",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Land Leveling Services": [
+    {
+      "naics_code": "238910",
+      "description": "Land leveling contractors",
+      "search_term": "land leveling",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Conveyor System Installation": [
+    {
+      "naics_code": "238290",
+      "description": "Conveyor system installation",
+      "search_term": "conveyor system installation",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238290",
+      "description": "Pneumatic tube conveyor system installation",
+      "search_term": "conveyor system installation",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Tank Installation Services": [
+    {
+      "naics_code": "238220",
+      "description": "Hot water tank installation",
+      "search_term": "tank installation",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238220",
+      "description": "Household oil storage tank installation",
+      "search_term": "tank installation",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Road Maintenance Services": [
+    {
+      "naics_code": "333120",
+      "description": "Drags, road construction and road maintenance equipment, manufacturing",
+      "search_term": "road maintenance",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Pipeline Construction Services": [
+    {
+      "naics_code": "237120",
+      "description": "Natural gas pipeline construction",
+      "search_term": "pipeline construction",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "237120",
+      "description": "Oil pipeline construction",
+      "search_term": "pipeline construction",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "237120",
+      "description": "Pipeline construction on oil and gas field gathering lines to point of distribution on a contract basis",
+      "search_term": "pipeline construction",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Excavation Services": [
+    {
+      "naics_code": "213112",
+      "description": "Slush pits and cellars, excavation of, on a contract basis",
+      "search_term": "excavation",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238910",
+      "description": "Excavation contractors",
+      "search_term": "excavation",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238910",
+      "description": "Foundation digging (i.e., excavation)",
+      "search_term": "excavation",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238910",
+      "description": "Grave excavation contractors",
+      "search_term": "excavation",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Boiler Installation Services": [
+    {
+      "naics_code": "238220",
+      "description": "Heating boiler installation",
+      "search_term": "boiler installation",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Steam Services": [
+    {
+      "naics_code": "213112",
+      "description": "Cleaning out (e.g., bailing out, steam cleaning, swabbing) wells on a contract basis",
+      "search_term": "steam",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "213112",
+      "description": "Steam cleaning oil and gas wells on a contract basis",
+      "search_term": "steam",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "221330",
+      "description": "Distribution of steam heat",
+      "search_term": "steam",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "221330",
+      "description": "Geothermal steam production",
+      "search_term": "steam",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "221330",
+      "description": "Heat, steam, distribution",
+      "search_term": "steam",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Water Treatment Services": [
+    {
+      "naics_code": "221310",
+      "description": "Water treatment and distribution",
+      "search_term": "water treatment",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "221310",
+      "description": "Water treatment plants",
+      "search_term": "water treatment",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "237110",
+      "description": "Water treatment plant construction",
+      "search_term": "water treatment",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Cable Installation Services": [
+    {
+      "naics_code": "238210",
+      "description": "Computer and network cable installation",
+      "search_term": "cable installation",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Elevator Installation Services": [
+    {
+      "naics_code": "238290",
+      "description": "Elevator installation",
+      "search_term": "elevator installation",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Drywall Services": [
+    {
+      "naics_code": "238310",
+      "description": "Drywall contractors",
+      "search_term": "drywall",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238310",
+      "description": "Drywall finishing (e.g., sanding, spackling, stippling, taping, texturing)",
+      "search_term": "drywall",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238310",
+      "description": "Drywall hanging",
+      "search_term": "drywall",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238310",
+      "description": "Drywall installation",
+      "search_term": "drywall",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238310",
+      "description": "Finishing drywall contractors",
+      "search_term": "drywall",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Tile Installation Services": [
+    {
+      "naics_code": "237990",
+      "description": "Farm drainage tile installation",
+      "search_term": "tile installation",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238310",
+      "description": "Ceiling tile installation",
+      "search_term": "tile installation",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238340",
+      "description": "Ceramic tile installation",
+      "search_term": "tile installation",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238910",
+      "description": "Septic tank and weeping tile installation",
+      "search_term": "tile installation",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238910",
+      "description": "Weeping tile installation",
+      "search_term": "tile installation",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Carpentry Services": [
+    {
+      "naics_code": "238130",
+      "description": "Carpentry, framing",
+      "search_term": "carpentry",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238350",
+      "description": "Carpentry work (except framing)",
+      "search_term": "carpentry",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238350",
+      "description": "Finish carpentry",
+      "search_term": "carpentry",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238350",
+      "description": "Trim and finish carpentry contractors",
+      "search_term": "carpentry",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "532490",
+      "description": "Carpentry equipment rental or leasing",
+      "search_term": "carpentry",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Millwork Services": [
+    {
+      "naics_code": "238350",
+      "description": "Millwork installation",
+      "search_term": "millwork",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "321114",
+      "description": "Millwork, treating",
+      "search_term": "millwork",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "321912",
+      "description": "Planing mills (except millwork)",
+      "search_term": "millwork",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "321918",
+      "description": "Panel work, wood millwork, manufacturing",
+      "search_term": "millwork",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "321918",
+      "description": "Planing mills, millwork",
+      "search_term": "millwork",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Insulation Services": [
+    {
+      "naics_code": "238290",
+      "description": "Boiler and pipe insulation installation",
+      "search_term": "insulation",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238290",
+      "description": "Duct insulation installation",
+      "search_term": "insulation",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238290",
+      "description": "Insulation, boiler, duct and pipe, installation",
+      "search_term": "insulation",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238290",
+      "description": "Mechanical equipment insulation",
+      "search_term": "insulation",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238290",
+      "description": "Pipe, duct and boiler insulation",
+      "search_term": "insulation",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Painting Services": [
+    {
+      "naics_code": "237310",
+      "description": "Airport runway line painting (e.g., striping)",
+      "search_term": "painting",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "237310",
+      "description": "Highway line painting",
+      "search_term": "painting",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "237310",
+      "description": "Painting lines on highways, streets and bridges",
+      "search_term": "painting",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "237310",
+      "description": "Painting traffic lanes or parking lots",
+      "search_term": "painting",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "237310",
+      "description": "Parking lot marking and line painting",
+      "search_term": "painting",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Spray Painting Services": [
+    {
+      "naics_code": "423830",
+      "description": "Spray painting equipment, industrial-type, merchant wholesalers",
+      "search_term": "spray painting",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "424950",
+      "description": "Spray painting equipment (except industrial-type) merchant wholesalers",
+      "search_term": "spray painting",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Flooring Installation Services": [
+    {
+      "naics_code": "238310",
+      "description": "Fireproof flooring installation",
+      "search_term": "flooring installation",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238330",
+      "description": "Access flooring installation",
+      "search_term": "flooring installation",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238330",
+      "description": "Computer flooring installation",
+      "search_term": "flooring installation",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238330",
+      "description": "Parquet flooring installation",
+      "search_term": "flooring installation",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238340",
+      "description": "Stone flooring installation",
+      "search_term": "flooring installation",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Interior Design Services": [
+    {
+      "naics_code": "541410",
+      "description": "Interior design consulting services",
+      "search_term": "interior design",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541410",
+      "description": "Interior design services",
+      "search_term": "interior design services",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541410",
+      "description": "Interior designer services",
+      "search_term": "interior design",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Sheet Metal Services": [
+    {
+      "naics_code": "238160",
+      "description": "Sheet metal roofing installation",
+      "search_term": "sheet metal",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238220",
+      "description": "Sheet metal duct work installation",
+      "search_term": "sheet metal",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "332114",
+      "description": "Gutters and down spouts sheet metal, custom roll formed, manufacturing",
+      "search_term": "sheet metal",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "332322",
+      "description": "Air cowls, sheet metal (except stampings), manufacturing",
+      "search_term": "sheet metal",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "332322",
+      "description": "Awnings, sheet metal (except stampings), manufacturing",
+      "search_term": "sheet metal",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Welding Services": [
+    {
+      "naics_code": "238190",
+      "description": "Welding, on-site, contractors",
+      "search_term": "welding",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "325998",
+      "description": "Fluxes (e.g., brazing, galvanizing, soldering, welding) manufacturing",
+      "search_term": "welding",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "331491",
+      "description": "Welding rod, uncoated, nonferrous metals (except aluminum, copper), made from purchased metals or scrap",
+      "search_term": "welding",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "332313",
+      "description": "Plate work (e.g., bending, cutting, punching, shaping, welding), fabricated metal, manufacturing",
+      "search_term": "welding",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "333514",
+      "description": "Welding positioners (i.e., jigs) manufacturing",
+      "search_term": "welding",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Well Drilling Services": [
+    {
+      "naics_code": "213111",
+      "description": "Gas well drilling on a contract basis",
+      "search_term": "well drilling",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "213111",
+      "description": "Oil and gas well drilling services (redrilling, spudding, tailing) on a contract basis",
+      "search_term": "well drilling services",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "213111",
+      "description": "Oil well drilling on a contract basis",
+      "search_term": "well drilling",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "213111",
+      "description": "Service well drilling on a contract basis",
+      "search_term": "well drilling",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "213111",
+      "description": "Water intake well drilling, oil and gas field on a contract basis",
+      "search_term": "well drilling",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Directional Drilling Services": [
+    {
+      "naics_code": "213111",
+      "description": "Directional drilling of oil and gas wells on a contract basis",
+      "search_term": "directional drilling",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Waterproofing Services": [
+    {
+      "naics_code": "238390",
+      "description": "Caulking (i.e., waterproofing) contractors",
+      "search_term": "waterproofing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238390",
+      "description": "Waterproofing contractors",
+      "search_term": "waterproofing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "313320",
+      "description": "Garments, oiling (i.e., waterproofing)",
+      "search_term": "waterproofing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "313320",
+      "description": "Raincoats waterproofing (i.e., oiling)",
+      "search_term": "waterproofing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "313320",
+      "description": "Textile waterproofing",
+      "search_term": "waterproofing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "313320",
+      "description": "Waterproofing apparel, fabrics and textile products (e.g., oiling, rubberizing, waxing, varnishing)",
+      "search_term": "waterproofing",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Septic System Services": [
+    {
+      "naics_code": "238910",
+      "description": "Septic system contractors",
+      "search_term": "septic system",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Building Cleaning Services": [
+    {
+      "naics_code": "561720",
+      "description": "Building cleaning services, interior",
+      "search_term": "building cleaning services",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "561720",
+      "description": "Building cleaning services, janitorial",
+      "search_term": "building cleaning services",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Testing and Inspection Services": [
+    {
+      "naics_code": "334519",
+      "description": "Physical properties testing and inspection equipment manufacturing",
+      "search_term": "testing and inspection",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Restoration Services": [
+    {
+      "naics_code": "236118",
+      "description": "Fire and flood restoration, multifamily building, general contractors",
+      "search_term": "restoration",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "236118",
+      "description": "Fire and flood restoration, single-family housing, general contractors",
+      "search_term": "restoration",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "236220",
+      "description": "Fire and flood restoration of commercial and institutional buildings",
+      "search_term": "restoration",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "336411",
+      "description": "Aircraft rebuilding (i.e., restoration to original design specifications)",
+      "search_term": "restoration",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "512199",
+      "description": "Film restoration services",
+      "search_term": "restoration services",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Seafood Processing Services": [
+    {
+      "naics_code": "311710",
+      "description": "Floating factory ships, seafood processing",
+      "search_term": "seafood processing",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Canning Services": [
+    {
+      "naics_code": "311111",
+      "description": "Meat canning, dog and cat, pet food, made from purchased carcasses",
+      "search_term": "canning",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311111",
+      "description": "Meat products, dog and cat, pet food, canning, made from purchased carcasses",
+      "search_term": "canning",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311421",
+      "description": "Canning fruits and vegetables",
+      "search_term": "canning",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311421",
+      "description": "Canning jams and jellies",
+      "search_term": "canning",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311421",
+      "description": "Fruit juice canning",
+      "search_term": "canning",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Animal Feed Manufacturing": [
+    {
+      "naics_code": "115114",
+      "description": "Grain grinding (except custom grinding for animal feed)",
+      "search_term": "animal feed",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311111",
+      "description": "Animal feed mills, dog and cat, manufacturing",
+      "search_term": "animal feed",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311111",
+      "description": "Animal feeds, prepared, dog and cat, manufacturing",
+      "search_term": "animal feed",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311119",
+      "description": "Animal feed mills (except dog and cat) manufacturing",
+      "search_term": "animal feed",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311119",
+      "description": "Animal feeds, prepared (except dog and cat), manufacturing",
+      "search_term": "animal feed",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Pet Food Manufacturing": [
+    {
+      "naics_code": "311111",
+      "description": "Meat canning, dog and cat, pet food, made from purchased carcasses",
+      "search_term": "pet food",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311111",
+      "description": "Meat products, dog and cat, pet food, canning, made from purchased carcasses",
+      "search_term": "pet food",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311111",
+      "description": "Pet food, dog and cat, manufacturing",
+      "search_term": "pet food",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311119",
+      "description": "Pet food (except cat, dog) manufacturing",
+      "search_term": "pet food",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311612",
+      "description": "Meat canning (except baby, pet food, poultry), made from purchased carcasses",
+      "search_term": "pet food",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Seed Processing Services": [
+    {
+      "naics_code": "115114",
+      "description": "Seed processing, postharvest for propagation",
+      "search_term": "seed processing",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Confectionery Manufacturing": [
+    {
+      "naics_code": "311313",
+      "description": "Sugar, confectionery, made from sugar beets",
+      "search_term": "confectionery",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311314",
+      "description": "Sugar, confectionery, manufacturing",
+      "search_term": "confectionery",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311340",
+      "description": "Cake ornaments, confectionery, manufacturing",
+      "search_term": "confectionery",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311340",
+      "description": "Confectionery, nonchocolate, manufacturing",
+      "search_term": "confectionery",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311351",
+      "description": "Chocolate, confectionery, made from cacao beans",
+      "search_term": "confectionery",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Distilling Services": [
+    {
+      "naics_code": "312130",
+      "description": "Alcoholic beverages, brandy, distilling",
+      "search_term": "distilling",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "312130",
+      "description": "Applejack distilling",
+      "search_term": "distilling",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "312130",
+      "description": "Brandy distilling",
+      "search_term": "distilling",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "312130",
+      "description": "Distilling brandy",
+      "search_term": "distilling",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "312130",
+      "description": "Liquors, brandy, distilling and blending",
+      "search_term": "distilling",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Rendering Services": [
+    {
+      "naics_code": "311613",
+      "description": "Animal fats rendering",
+      "search_term": "rendering",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311613",
+      "description": "Animal oil rendering",
+      "search_term": "rendering",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311613",
+      "description": "Bones, fat, rendering",
+      "search_term": "rendering",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311613",
+      "description": "Fats, animal, rendering",
+      "search_term": "rendering",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311613",
+      "description": "Grease rendering",
+      "search_term": "rendering",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Textile Manufacturing Services": [
+    {
+      "naics_code": "333249",
+      "description": "Finishing machinery for textile manufacturing",
+      "search_term": "textile manufacturing",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Apparel Manufacturing": [
+    {
+      "naics_code": "313210",
+      "description": "Textile products (except apparel) made in broadwoven fabric mills",
+      "search_term": "apparel",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "313220",
+      "description": "Apparel webbings manufacturing",
+      "search_term": "apparel",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "313220",
+      "description": "Textile products (except apparel) made in narrow woven fabric mills",
+      "search_term": "apparel",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "313240",
+      "description": "Lace products (except apparel) made in lace mills",
+      "search_term": "apparel",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "313240",
+      "description": "Textile products (except apparel) made in lace mills",
+      "search_term": "apparel",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Accessory Manufacturing": [
+    {
+      "naics_code": "315210",
+      "description": "Caps (i.e., apparel accessory) cut and sew apparel contractors",
+      "search_term": "accessory",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "315990",
+      "description": "Caps (i.e., apparel accessory) cut and sewn from purchased fabric (except fur, leather, apparel contractors)",
+      "search_term": "accessory",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "332410",
+      "description": "Economizers (i.e., power boiler accessory) manufacturing",
+      "search_term": "accessory",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "333515",
+      "description": "Angle rings (i.e., a machine tool accessory) manufacturing",
+      "search_term": "accessory",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "333515",
+      "description": "Arbors (i.e., a machine tool accessory) manufacturing",
+      "search_term": "accessory",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Children's Clothing Manufacturing": [
+    {
+      "naics_code": "424330",
+      "description": "Children's clothing merchant wholesalers",
+      "search_term": "children's clothing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "424330",
+      "description": "Women's and children's clothing accessories merchant wholesalers",
+      "search_term": "children's clothing",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Window Treatment Manufacturing": [
+    {
+      "naics_code": "442291",
+      "description": "Window treatment stores",
+      "search_term": "window treatment",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Canvas Manufacturing": [
+    {
+      "naics_code": "313210",
+      "description": "Canvases weaving",
+      "search_term": "canvas",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "314910",
+      "description": "Canvas bags manufacturing",
+      "search_term": "canvas",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "314910",
+      "description": "Canvas products made from purchased canvas or canvas substitutes",
+      "search_term": "canvas",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "316210",
+      "description": "Canvas shoes, plastics soled fabric upper, manufacturing",
+      "search_term": "canvas",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "316210",
+      "description": "Canvas shoes, rubber soled fabric upper, manufacturing",
+      "search_term": "canvas",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Wood Product Manufacturing": [
+    {
+      "naics_code": "321114",
+      "description": "Preserving purchased wood and wood products",
+      "search_term": "wood product",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "321114",
+      "description": "Treating purchased wood and wood products",
+      "search_term": "wood product",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "321114",
+      "description": "Treating wood products with creosote or other preservatives",
+      "search_term": "wood product",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "321114",
+      "description": "Wood products, creosoting purchased wood products",
+      "search_term": "wood product",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "423990",
+      "description": "Wood products (e.g., chips, posts, shavings, ties) merchant wholesalers",
+      "search_term": "wood product",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Window and Door Manufacturing": [
+    {
+      "naics_code": "238350",
+      "description": "Window and door (residential-type) of any material, prefabricated, installation",
+      "search_term": "window and door",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "336320",
+      "description": "Power window and door lock systems, automotive, truck, and bus, manufacturing",
+      "search_term": "window and door",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "423310",
+      "description": "Screens, window and door, merchant wholesalers",
+      "search_term": "window and door",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Cabinetry Manufacturing": [
+    {
+      "naics_code": "238350",
+      "description": "Cabinetry work performed at the construction site",
+      "search_term": "cabinetry",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Trim Manufacturing": [
+    {
+      "naics_code": "115210",
+      "description": "Hoof trimming",
+      "search_term": "trim",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238350",
+      "description": "Molding or trim, wood or plastic, installation",
+      "search_term": "trim",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238350",
+      "description": "Trim and finish carpentry contractors",
+      "search_term": "trim",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "314999",
+      "description": "Furniture trimmings made from purchased fabrics",
+      "search_term": "trim",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "315210",
+      "description": "Apparel trimmings and findings cut and sew apparel contractors",
+      "search_term": "trim",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Pallet Manufacturing": [
+    {
+      "naics_code": "321920",
+      "description": "Pallet containers, wood or wood and metal combination, manufacturing",
+      "search_term": "pallet",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "321920",
+      "description": "Pallet parts, wood, manufacturing",
+      "search_term": "pallet",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "321920",
+      "description": "Pallets, wood or wood and metal combination, manufacturing",
+      "search_term": "pallet",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "321920",
+      "description": "Skids and pallets, wood or wood and metal combination, manufacturing",
+      "search_term": "pallet",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "322211",
+      "description": "Pallets, corrugated and solid fiber, made from purchased paper or paperboard",
+      "search_term": "pallet",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Furniture Manufacturing": [
+    {
+      "naics_code": "238390",
+      "description": "Laboratory furniture and equipment installation",
+      "search_term": "furniture",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238390",
+      "description": "Modular furniture system attachment and installation",
+      "search_term": "furniture",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238390",
+      "description": "Office furniture, modular system, installation",
+      "search_term": "furniture",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "314999",
+      "description": "Furniture trimmings made from purchased fabrics",
+      "search_term": "furniture",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "321912",
+      "description": "Furniture dimension stock, hardwood, unfinished, manufacturing",
+      "search_term": "furniture",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Bedding Manufacturing": [
+    {
+      "naics_code": "111219",
+      "description": "Acorn squash farming, field, bedding plant and seed production",
+      "search_term": "bedding",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "111219",
+      "description": "Artichoke farming, field, bedding plant and seed production",
+      "search_term": "bedding",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "111219",
+      "description": "Asparagus farming, field, bedding plant and seed production",
+      "search_term": "bedding",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "111219",
+      "description": "Beet farming (except sugar beets), field, bedding plant and seed production",
+      "search_term": "bedding",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "111219",
+      "description": "Broccoli farming, field, bedding plant and seed production",
+      "search_term": "bedding",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Stationery Manufacturing": [
+    {
+      "naics_code": "322230",
+      "description": "Envelopes (i.e., mailing, stationery) made from any material",
+      "search_term": "stationery",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "322230",
+      "description": "Stationery made from purchased paper",
+      "search_term": "stationery",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "323111",
+      "description": "Stationery, commercial printing (except screen), on a job-order basis",
+      "search_term": "stationery",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "323113",
+      "description": "Stationery, screen printing, on a job-order basis",
+      "search_term": "stationery",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "327110",
+      "description": "Stationery articles, pottery, manufacturing",
+      "search_term": "stationery",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Publishing Services": [
+    {
+      "naics_code": "323111",
+      "description": "Address lists commercial printing (except screen) without publishing",
+      "search_term": "publishing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "323111",
+      "description": "Advertising materials (e.g., coupons, flyers) commercial printing (except screen) without publishing",
+      "search_term": "publishing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "323111",
+      "description": "Agricultural magazines and periodicals commercial printing (except screen) without publishing",
+      "search_term": "publishing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "323111",
+      "description": "Art prints commercial printing (except screen) without publishing",
+      "search_term": "publishing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "323111",
+      "description": "Atlases commercial printing (except screen) without publishing",
+      "search_term": "publishing",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Printing Services": [
+    {
+      "naics_code": "236210",
+      "description": "Printing plant construction",
+      "search_term": "printing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "313310",
+      "description": "Printing fabric grey goods ",
+      "search_term": "printing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "313310",
+      "description": "Printing textile banners (except screen printing)",
+      "search_term": "printing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "313310",
+      "description": "Printing textile products (except screen and apparel printing)",
+      "search_term": "printing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "313310",
+      "description": "Screen printing fabric grey goods",
+      "search_term": "printing",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Gas Manufacturing Services": [
+    {
+      "naics_code": "325120",
+      "description": "Compressed and liquefied industrial gas manufacturing",
+      "search_term": "gas manufacturing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "325180",
+      "description": "Sulfur hexafluoride gas manufacturing",
+      "search_term": "gas manufacturing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "325199",
+      "description": "Tear gas manufacturing",
+      "search_term": "gas manufacturing",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Ink Production Services": [
+    {
+      "naics_code": "112930",
+      "description": "Mink production",
+      "search_term": "ink production",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Plastic Manufacturing": [
+    {
+      "naics_code": "212325",
+      "description": "Plastic fire clay mining and/or beneficiating",
+      "search_term": "plastic",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238350",
+      "description": "Molding or trim, wood or plastic, installation",
+      "search_term": "plastic",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238390",
+      "description": "Coating concrete structures with plastics",
+      "search_term": "plastic",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "313320",
+      "description": "Plastics coating of textiles and apparel",
+      "search_term": "plastic",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "314110",
+      "description": "Doormats, all materials (except entirely of rubber or plastics), manufacturing",
+      "search_term": "plastic",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Cosmetic Manufacturing": [
+    {
+      "naics_code": "316998",
+      "description": "Cosmetic bags (except metal) manufacturing",
+      "search_term": "cosmetic",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "325620",
+      "description": "Cosmetic creams, lotions, and oils manufacturing",
+      "search_term": "cosmetic",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "325620",
+      "description": "Makeup (i.e., cosmetics) manufacturing",
+      "search_term": "cosmetic",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "325620",
+      "description": "Rouge, cosmetic, manufacturing",
+      "search_term": "cosmetic",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "325620",
+      "description": "Toilet preparations (e.g., cosmetics, deodorants, perfumes) manufacturing",
+      "search_term": "cosmetic",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Chemical Manufacturing": [
+    {
+      "naics_code": "115112",
+      "description": "Chemical treatment of soil for crops",
+      "search_term": "chemical",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "115112",
+      "description": "Thinning of crops, mechanical and chemical",
+      "search_term": "chemical",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "213112",
+      "description": "Chemically treating oil and gas wells (e.g., acidizing, bailing, swabbing) on a contract basis",
+      "search_term": "chemical",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "236210",
+      "description": "Chemical (except petrochemical process-type) plant construction",
+      "search_term": "chemical",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "237120",
+      "description": "Construction management, oil refinery and petrochemical complex",
+      "search_term": "chemical",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Rubber Manufacturing": [
+    {
+      "naics_code": "111421",
+      "description": "Field nurseries (i.e., growing of flowers and shrubbery)",
+      "search_term": "rubber",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "111421",
+      "description": "Shrubbery farming",
+      "search_term": "rubber",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "212324",
+      "description": "Rubber clay mining and/or beneficiating",
+      "search_term": "rubber",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238220",
+      "description": "Scrubber, air purification, installation",
+      "search_term": "rubber",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238290",
+      "description": "Rubber door installation",
+      "search_term": "rubber",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Software Manufacturing": [
+    {
+      "naics_code": "334613",
+      "description": "Computer software tapes and disks, blank, rigid and floppy, manufacturing",
+      "search_term": "software",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "334614",
+      "description": "CD-ROM, software, mass reproducing",
+      "search_term": "software",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "334614",
+      "description": "Compact discs (i.e., CD-ROM), software, mass reproducing",
+      "search_term": "software",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "334614",
+      "description": "Game cartridge software, mass reproducing",
+      "search_term": "software",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "334614",
+      "description": "Games, computer software, mass reproducing",
+      "search_term": "software",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Food Processing Services": [
+    {
+      "naics_code": "236210",
+      "description": "Food processing plant construction",
+      "search_term": "food processing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311423",
+      "description": "Freeze-dried, food processing, fruits and vegetables",
+      "search_term": "food processing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311710",
+      "description": "Floating factory ships, seafood processing",
+      "search_term": "food processing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "423830",
+      "description": "Food processing machinery and equipment merchant wholesalers",
+      "search_term": "food processing",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Pharmaceutical Manufacturing": [
+    {
+      "naics_code": "236210",
+      "description": "Pharmaceutical manufacturing plant construction",
+      "search_term": "pharmaceutical manufacturing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "325199",
+      "description": "Enzyme proteins (i.e., basic synthetic chemicals) (except pharmaceutical use) manufacturing",
+      "search_term": "pharmaceutical",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "325411",
+      "description": "Enzyme proteins (i.e., basic synthetic chemicals), pharmaceutical use, manufacturing",
+      "search_term": "pharmaceutical",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "325412",
+      "description": "Pharmaceutical preparations (e.g., capsules, liniments, ointments, tablets) manufacturing",
+      "search_term": "pharmaceutical",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "325412",
+      "description": "Sodium chloride pharmaceutical preparations manufacturing",
+      "search_term": "pharmaceutical",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Laboratory Services": [
+    {
+      "naics_code": "112990",
+      "description": "Laboratory animal production (e.g., guinea pigs, mice, rats)",
+      "search_term": "laboratory",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "236220",
+      "description": "Laboratory construction",
+      "search_term": "laboratory",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "238390",
+      "description": "Laboratory furniture and equipment installation",
+      "search_term": "laboratory",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "311119",
+      "description": "Laboratory animal feed manufacturing",
+      "search_term": "laboratory",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "315210",
+      "description": "Coats, nontailored service apparel (e.g., laboratory, medical, mechanics'), cut and sew apparel contractors",
+      "search_term": "laboratory",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Waste Management Services": [
+    {
+      "naics_code": "924110",
+      "description": "Waste management program administration",
+      "search_term": "waste management",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Recycling Services": [
+    {
+      "naics_code": "325612",
+      "description": "Recycling drycleaning fluids",
+      "search_term": "recycling",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "325998",
+      "description": "Recycling services for degreasing solvents (e.g., engine, machinery) manufacturing",
+      "search_term": "recycling services",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "333318",
+      "description": "Wash water recycling machinery manufacturing",
+      "search_term": "recycling",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "811212",
+      "description": "Recycling inkjet cartridges",
+      "search_term": "recycling",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Environmental Consulting": [
+    {
+      "naics_code": "541620",
+      "description": "Environmental consulting services",
+      "search_term": "environmental consulting",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Property Management Services": [
+    {
+      "naics_code": "531390",
+      "description": "Real estate asset management services (except property management)",
+      "search_term": "property management",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "921190",
+      "description": "Public property management services, government",
+      "search_term": "property management services",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Real Estate Services": [
+    {
+      "naics_code": "237210",
+      "description": "Real estate (except cemeteries) subdividers",
+      "search_term": "real estate",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "237210",
+      "description": "Subdividers, real estate",
+      "search_term": "real estate",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "237210",
+      "description": "Subdividing real estate",
+      "search_term": "real estate",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "519190",
+      "description": "Title search services (except real estate)",
+      "search_term": "real estate",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "522292",
+      "description": "Loan correspondents (i.e., lending funds with real estate as collateral)",
+      "search_term": "real estate",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Insurance Services": [
+    {
+      "naics_code": "522220",
+      "description": "Insurance premium financing",
+      "search_term": "insurance",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "524113",
+      "description": "Accidental death and dismemberment insurance carriers, direct",
+      "search_term": "insurance",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "524113",
+      "description": "Accidental death and dismemberment insurance underwriting, direct",
+      "search_term": "insurance",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "524113",
+      "description": "Cooperative life insurance organizations",
+      "search_term": "insurance",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "524113",
+      "description": "Credit life insurance carriers, direct",
+      "search_term": "insurance",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Financial Services": [
+    {
+      "naics_code": "323111",
+      "description": "Financial magazines and periodicals commercial printing (except screen) without publishing",
+      "search_term": "financial",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "323113",
+      "description": "Financial magazines and periodicals screen printing without publishing",
+      "search_term": "financial",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "511120",
+      "description": "Financial magazine and periodical publishers (except exclusive Internet publishing)",
+      "search_term": "financial",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "511120",
+      "description": "Financial magazine and periodical publishers and printing combined",
+      "search_term": "financial",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "518210",
+      "description": "Data processing services (except payroll services, financial transaction processing services)",
+      "search_term": "financial",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Legal Services": [
+    {
+      "naics_code": "541110",
+      "description": "Legal aid services",
+      "search_term": "legal",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541199",
+      "description": "Paralegal services",
+      "search_term": "legal services",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541922",
+      "description": "Video taping services for legal depositions",
+      "search_term": "legal",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541990",
+      "description": "Arbitration and conciliation services (except by attorney, paralegal)",
+      "search_term": "legal",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541990",
+      "description": "Mediation product services (except by lawyer, attorney, paralegal offices, family and social services)",
+      "search_term": "legal",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "922130",
+      "description": "Legal counsel offices, government",
+      "search_term": "legal",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Consulting Services": [
+    {
+      "naics_code": "115210",
+      "description": "Livestock breeding services (except consulting)",
+      "search_term": "consulting",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "523930",
+      "description": "Investment advice consulting services, customized, fees paid by client",
+      "search_term": "consulting services",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "524298",
+      "description": "Insurance coverage consulting services",
+      "search_term": "consulting services",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541199",
+      "description": "Jury consulting services",
+      "search_term": "consulting services",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541199",
+      "description": "Trial consulting services",
+      "search_term": "consulting services",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Marketing Services": [
+    {
+      "naics_code": "423120",
+      "description": "Gasoline marketing equipment merchant wholesalers",
+      "search_term": "marketing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "522294",
+      "description": "SLMA (Student Loan Marketing Association)",
+      "search_term": "marketing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "522294",
+      "description": "Student Loan Marketing Association (SLMA)",
+      "search_term": "marketing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541613",
+      "description": "Marketing consulting services",
+      "search_term": "marketing",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541613",
+      "description": "Marketing management consulting services",
+      "search_term": "marketing",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Management Consulting": [
+    {
+      "naics_code": "541611",
+      "description": "Administrative management consulting services",
+      "search_term": "management consulting",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541611",
+      "description": "Business management consulting services",
+      "search_term": "management consulting",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541611",
+      "description": "Financial management consulting (except investment advice) services",
+      "search_term": "management consulting",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541611",
+      "description": "General management consulting services",
+      "search_term": "management consulting",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541611",
+      "description": "Medical office management consulting services or consultants",
+      "search_term": "management consulting",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Business Development Services": [
+    {
+      "naics_code": "926110",
+      "description": "Small business development agencies",
+      "search_term": "business development",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Software Development Services": [
+    {
+      "naics_code": "541511",
+      "description": "Computer program or software development, custom",
+      "search_term": "software development",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Strategic Planning Services": [
+    {
+      "naics_code": "541611",
+      "description": "Strategic planning consulting services",
+      "search_term": "strategic planning",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Training Services": [
+    {
+      "naics_code": "115210",
+      "description": "Horses, training (except racehorses)",
+      "search_term": "training",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "115210",
+      "description": "Training horses (except racehorses)",
+      "search_term": "training",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "213113",
+      "description": "Coal mining support services (tunneling, blasting, training, overburden removal)(except site preparation and related construction contractor activities)",
+      "search_term": "training",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "315210",
+      "description": "Training pants (i.e., underwear) cut and sew apparel contractors",
+      "search_term": "training",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "315240",
+      "description": "Training pants (i.e., underwear), infants', cut and sewn from purchased fabric (except apparel contractors)",
+      "search_term": "training",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Public Relations Services": [
+    {
+      "naics_code": "541820",
+      "description": "Public relations agencies",
+      "search_term": "public relations",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541820",
+      "description": "Public relations consulting services",
+      "search_term": "public relations",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "541820",
+      "description": "Public relations services",
+      "search_term": "public relations services",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Catering Services": [
+    {
+      "naics_code": "722320",
+      "description": "Banquet halls with catering staff",
+      "search_term": "catering",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "722320",
+      "description": "Catering services, social",
+      "search_term": "catering services",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Travel Services": [
+    {
+      "naics_code": "316998",
+      "description": "Traveling bags, all materials, manufacturing",
+      "search_term": "travel",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "323117",
+      "description": "Travel guide books printing and binding without publishing",
+      "search_term": "travel",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "323117",
+      "description": "Travel guide books printing without publishing",
+      "search_term": "travel",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "333415",
+      "description": "Air-conditioners, unit (e.g., motor home, travel trailer, window), manufacturing",
+      "search_term": "travel",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "333923",
+      "description": "Cranes, overhead traveling, manufacturing",
+      "search_term": "travel",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Branding Services": [
+    {
+      "naics_code": "115210",
+      "description": "Branding",
+      "search_term": "branding",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "339940",
+      "description": "Branding irons (i.e., marking irons) manufacturing",
+      "search_term": "branding",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Graphic Design Services": [
+    {
+      "naics_code": "541430",
+      "description": "Graphic design services",
+      "search_term": "graphic design services",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Advertising Services": [
+    {
+      "naics_code": "323111",
+      "description": "Advertising materials (e.g., coupons, flyers) commercial printing (except screen) without publishing",
+      "search_term": "advertising",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "511120",
+      "description": "Advertising periodical publishers (except exclusive Internet publishing)",
+      "search_term": "advertising",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "511120",
+      "description": "Advertising periodical publishers and printing combined",
+      "search_term": "advertising",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "515112",
+      "description": "Advertising sales offices of independent and public radio broadcast stations",
+      "search_term": "advertising",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "519130",
+      "description": "Advertising periodical publishers, exclusively on Internet",
+      "search_term": "advertising",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Quality Assurance Services": [
+    {
+      "naics_code": "611430",
+      "description": "Quality assurance training",
+      "search_term": "quality assurance",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Environmental Health Services": [
+    {
+      "naics_code": "923120",
+      "description": "Environmental health program administration",
+      "search_term": "environmental health",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Fundraising Services": [
+    {
+      "naics_code": "561499",
+      "description": "Fundraising campaign organization services on a contract or fee basis",
+      "search_term": "fundraising",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "813212",
+      "description": "Disease awareness fundraising organizations",
+      "search_term": "fundraising",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "813212",
+      "description": "Disease research (e.g., cancer, heart) fundraising organizations",
+      "search_term": "fundraising",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "813212",
+      "description": "Health research fundraising organizations",
+      "search_term": "fundraising",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Volunteer Services": [
+    {
+      "naics_code": "561990",
+      "description": "Private volunteer firefighting",
+      "search_term": "volunteer",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "624229",
+      "description": "Housing repair organizations, volunteer",
+      "search_term": "volunteer",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "624229",
+      "description": "Volunteer housing repair organizations",
+      "search_term": "volunteer",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "922160",
+      "description": "Fire departments (e.g., government, volunteer (except private))",
+      "search_term": "volunteer",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "922160",
+      "description": "Firefighting (except forest), government and volunteer (except private)",
+      "search_term": "volunteer",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Arts Services": [
+    {
+      "naics_code": "316998",
+      "description": "Harnesses and harness parts, leather, manufacturing",
+      "search_term": "arts",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "316998",
+      "description": "Saddles and parts, leather, manufacturing",
+      "search_term": "arts",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "321114",
+      "description": "Bridge and trestle parts, wood, treating",
+      "search_term": "arts",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "321114",
+      "description": "Trestle parts, wood, treating",
+      "search_term": "arts",
+      "hierarchy_level": "6-digit"
+    },
+    {
+      "naics_code": "321920",
+      "description": "Pallet parts, wood, manufacturing",
+      "search_term": "arts",
+      "hierarchy_level": "6-digit"
+    }
+  ],
+  "Physical Therapy Services": [
+    {
+      "naics_code": "621340",
+      "description": "Physical therapy offices (e.g., centers, clinics)",
+      "search_term": "physical therapy",
+      "hierarchy_level": "6-digit"
+    }
+  ]
+}

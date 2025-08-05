@@ -1,0 +1,282 @@
+true_label,true_domain,pred_label,pred_confidence,pred_domain,domain_conf,correct,top3_correct,top5_correct,domain_correct,fuzzy_matches,method,sector,category
+Environmental Consulting,N/A,Restoration Services,0.6048180460929871,N/A,0.0,False,True,True,False,5,improved_similarity,Manufacturing,Farms & Agriculture Production
+Environmental Consulting,N/A,Compliance Services,0.5706313252449036,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Environmental Engineering Services
+Environmental Consulting,N/A,Waste Management Services,0.403611421585083,N/A,0.0,False,False,False,False,4,improved_similarity,Manufacturing,Water Supply & Water Treatment
+Laboratory Services,N/A,Laboratory Services,0.6802327632904053,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Medical Laboratories
+Laboratory Services,N/A,Laboratory Services,0.6904737949371338,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Dental Laboratory
+Laboratory Services,N/A,Chemical Manufacturing,0.40213075280189514,N/A,0.0,False,False,True,False,4,improved_similarity,Manufacturing,Laboratory Equipment & Supplies
+Laboratory Services,N/A,Laboratory Services,0.35163477063179016,N/A,0.0,True,True,True,False,5,improved_similarity,Wholesale,Laboratory Equipment & Supplies
+Commercial Communication Equipment Installation,N/A,Marketing Services,0.5920880436897278,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Tech Companies
+Commercial Communication Equipment Installation,N/A,Well Maintenance Services,0.5710160136222839,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Telecommunications
+Commercial Communication Equipment Installation,N/A,Marketing Services,0.3267960250377655,N/A,0.0,False,False,False,False,5,improved_similarity,Services,"Alarms, Surveillance & Security Systems"
+Media Production Services,N/A,Media Production Services,0.4004444181919098,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Video and Audio Production
+Furniture Manufacturing,N/A,Wood Product Manufacturing,0.4644331634044647,N/A,0.0,False,True,True,False,5,improved_similarity,Manufacturing,Furniture Stores
+Furniture Manufacturing,N/A,Textile Manufacturing Services,0.5424726009368896,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Furniture Stores
+Furniture Manufacturing,N/A,Wood Product Manufacturing,0.4644331634044647,N/A,0.0,False,True,True,False,5,improved_similarity,Manufacturing,Furniture Stores
+Furniture Manufacturing,N/A,Furniture Manufacturing,0.6728405356407166,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Furniture Stores
+Furniture Manufacturing,N/A,Furniture Manufacturing,0.4167005717754364,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Furniture Stores
+Furniture Manufacturing,N/A,Marketing Services,0.31583526730537415,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Furniture Stores
+Furniture Manufacturing,N/A,Wood Product Manufacturing,0.4644331634044647,N/A,0.0,False,True,True,False,5,improved_similarity,Manufacturing,Furniture Stores
+Furniture Manufacturing,N/A,Furniture Manufacturing,0.6715174317359924,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Office Furniture
+Livestock Dealer Services,N/A,Livestock Dealer Services,0.548566997051239,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Livestock & Animal Raising
+Livestock Dealer Services,N/A,Livestock Dealer Services,0.5457896590232849,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Livestock & Animal Raising
+Livestock Dealer Services,N/A,Laboratory Services,0.225,N/A,0.0,False,False,False,False,5,improved_similarity,Wholesale,Livestock & Animal Raising
+Livestock Dealer Services,N/A,Livestock Dealer Services,0.23337221145629883,N/A,0.0,True,True,True,False,0,improved_similarity,Wholesale,Livestock & Animal Raising
+Livestock Dealer Services,N/A,Livestock Dealer Services,0.2200503796339035,N/A,0.0,True,True,True,False,0,improved_similarity,Wholesale,Livestock & Animal Raising
+Livestock Dealer Services,N/A,Livestock Dealer Services,0.2407798171043396,N/A,0.0,True,True,True,False,0,improved_similarity,Manufacturing,Livestock & Animal Raising
+Livestock Dealer Services,N/A,Livestock Dealer Services,0.548566997051239,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Livestock & Animal Raising
+Carpentry Services,N/A,Commercial Construction Services,0.6903740763664246,N/A,0.0,False,True,True,False,5,improved_similarity,Services,Roofing Contractors
+Marketing Services,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Services,Real Estate Rental
+Frozen Food Processing,N/A,Frozen Food Processing,0.26660946011543274,N/A,0.0,True,True,True,False,0,improved_similarity,Manufacturing,Fruit & Vegetable - Markets & Stores
+Frozen Food Processing,N/A,Frozen Food Processing,0.5951175689697266,N/A,0.0,True,True,True,False,5,improved_similarity,Wholesale,Fruit & Vegetable - Markets & Stores
+Frozen Food Processing,N/A,Furniture Manufacturing,0.3045429289340973,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Ice Cream
+Frozen Food Processing,N/A,Frozen Food Processing,0.7235992550849915,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Fruit & Vegetable - Markets & Stores
+Alarm Installation Services,N/A,HVAC Installation and Service,0.4101254940032959,N/A,0.0,False,True,True,False,1,improved_similarity,Services,"Alarms, Surveillance & Security Systems"
+Commercial Construction Services,N/A,Commercial Construction Services,0.5927409529685974,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Paper & Cardboard Products
+Property Management Services,N/A,Community Engagement Services,0.5486573576927185,N/A,0.0,False,True,True,False,5,improved_similarity,Non Profit,Real Estate Associations
+Property Management Services,N/A,Non-Profit Management,0.4848693311214447,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Homelessness Shelter
+Property Management Services,N/A,Community Engagement Services,0.5486573576927185,N/A,0.0,False,True,True,False,5,improved_similarity,Non Profit,Real Estate Associations
+Financial Services,N/A,Financial Services,0.7575785517692566,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Loans & Financing
+Financial Services,N/A,Financial Services,0.7015199661254883,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Cryptocurrency
+Financial Services,N/A,Financial Services,0.1672128438949585,N/A,0.0,True,True,True,False,0,improved_similarity,Services,Money Transfer
+Financial Services,N/A,Financial Services,0.6858804821968079,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Credit Reporting Services
+Financial Services,N/A,Financial Services,0.6905513405799866,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Retirement Planning
+Financial Services,N/A,Financial Services,0.7367803454399109,N/A,0.0,True,True,True,False,5,improved_similarity,Services,"Insurance - Agents, Carriers & Brokers"
+Financial Services,N/A,Financial Services,0.701326847076416,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Mortgage Brokers
+Financial Services,N/A,Travel Services,0.6050657629966736,N/A,0.0,False,True,True,False,5,improved_similarity,Services,Accounting & Bookkeeping Services
+Financial Services,N/A,Financial Services,0.6858804821968079,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Credit Reporting Services
+Financial Services,N/A,Financial Services,0.6983661651611328,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Credit Reporting Services
+Financial Services,N/A,Financial Services,0.4856237471103668,N/A,0.0,True,True,True,False,3,improved_similarity,Services,Investment Consultants & Financial Advisors
+Financial Services,N/A,Financial Services,0.7367803454399109,N/A,0.0,True,True,True,False,5,improved_similarity,Services,"Insurance - Agents, Carriers & Brokers"
+Financial Services,N/A,Financial Services,0.660456120967865,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Credit Unions & Savings Institutions
+Financial Services,N/A,Financial Services,0.6454973816871643,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Credit Unions & Savings Institutions
+Financial Services,N/A,Financial Services,0.701326847076416,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Mortgage Brokers
+Financial Services,N/A,Financial Services,0.701326847076416,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Mortgage Brokers
+Financial Services,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Services,Cryptocurrency
+Financial Services,N/A,Financial Services,0.7766721248626709,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Investment Firms & Venture Capital
+Single Family Residential Construction,N/A,Commercial Construction Services,0.5065430402755737,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Wood Building Material Stores
+Recycling Services,N/A,Recycling Services,0.5886371731758118,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,"Minerals, Earths & Ores"
+Pharmaceutical Manufacturing,N/A,Pharmaceutical Manufacturing,0.6916958689689636,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Pharmaceutical Products
+Confectionery Manufacturing,N/A,Confectionery Manufacturing,0.7547453045845032,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Bakeries & Desserts
+Industrial Machinery Installation,N/A,Sand and Gravel Mining,0.49947845935821533,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Heavy Construction Equipment
+Industrial Machinery Installation,N/A,Technology Consulting,0.4096047580242157,N/A,0.0,False,False,False,False,1,improved_similarity,Manufacturing,Industrial Machinery & Supplies
+Industrial Machinery Installation,N/A,Technology Consulting,0.3768884837627411,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Industrial Machinery & Supplies
+Industrial Machinery Installation,N/A,Laboratory Services,0.3305777907371521,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Industrial Machinery & Supplies
+Industrial Machinery Installation,N/A,Media Production Services,0.3,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Industrial Machinery & Supplies
+Community Engagement Services,N/A,Community Engagement Services,0.2234467715024948,N/A,0.0,True,True,True,False,0,improved_similarity,Government,"Executive, Legislative & Government Institutions"
+Community Engagement Services,N/A,Human Resources Services,0.13829047977924347,N/A,0.0,False,True,True,False,0,improved_similarity,Non Profit,Domestic Violence NGOs
+Community Engagement Services,N/A,Community Engagement Services,0.2029569149017334,N/A,0.0,True,True,True,False,0,improved_similarity,Government,"Executive, Legislative & Government Institutions"
+Chemical Manufacturing,N/A,Commercial Construction Services,0.3921662946542104,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Chemicals
+Chemical Manufacturing,N/A,Food Processing Services,0.45,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Chemicals
+Chemical Manufacturing,N/A,Food Processing Services,0.6452058553695679,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Chemicals
+Chemical Manufacturing,N/A,Chemical Manufacturing,0.7403438091278076,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Chemicals
+Chemical Manufacturing,N/A,Recycling Services,0.6851966977119446,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Chemicals
+Chemical Manufacturing,N/A,Chemical Manufacturing,0.4405507743358612,N/A,0.0,True,True,True,False,4,improved_similarity,Manufacturing,Chemicals
+Chemical Manufacturing,N/A,Chemical Manufacturing,0.18880565464496613,N/A,0.0,True,True,True,False,0,improved_similarity,Manufacturing,Chemicals
+Chemical Manufacturing,N/A,Marketing Services,0.6099931597709656,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Chemicals
+Chemical Manufacturing,N/A,Chemical Manufacturing,0.7948381900787354,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Chemicals
+Chemical Manufacturing,N/A,Chemical Manufacturing,0.7948381900787354,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Chemicals
+Chemical Manufacturing,N/A,Chemical Manufacturing,0.7196683883666992,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Chemicals
+Chemical Manufacturing,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Manufacturing,Plastics Products
+Chemical Manufacturing,N/A,Commercial Construction Services,0.3921662946542104,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Chemicals
+Chemical Manufacturing,N/A,Chemical Manufacturing,0.7948381900787354,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Chemicals
+Publishing Services,N/A,Travel Services,0.225,N/A,0.0,False,False,True,False,1,improved_similarity,Services,Newspapers & Magazines
+Publishing Services,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Manufacturing,Livestock & Animal Raising
+Publishing Services,N/A,Animal Feed Manufacturing,0.14430253207683563,N/A,0.0,False,False,False,False,0,improved_similarity,Manufacturing,Livestock & Animal Raising
+Fire Protection System Services,N/A,Fire Protection System Services,0.6899965405464172,N/A,0.0,True,True,True,False,5,improved_similarity,Services,"Alarms, Surveillance & Security Systems"
+Wood Product Manufacturing,N/A,Plastic Manufacturing,0.27737084130446116,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Musical Instruments & Music Stores
+Wood Product Manufacturing,N/A,Agricultural Equipment Services,0.3,N/A,0.0,False,False,False,False,5,improved_similarity,Wholesale,Renewable energy companies
+Wood Product Manufacturing,N/A,Furniture Manufacturing,0.7543748021125793,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Wood Building Material Stores
+Wood Product Manufacturing,N/A,Furniture Manufacturing,0.6511550545692444,N/A,0.0,False,True,True,False,5,improved_similarity,Manufacturing,Building Material Manufacturers
+Wood Product Manufacturing,N/A,Furniture Manufacturing,0.4145958721637726,N/A,0.0,False,True,True,False,1,improved_similarity,Manufacturing,Wood Building Material Stores
+Event Planning Services,N/A,Grain Processing Services,0.4537716805934906,N/A,0.0,False,True,True,False,5,improved_similarity,Manufacturing,Oil & Gas - Extraction & Distribution
+Event Planning Services,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Services,Party Rentals
+E-Commerce Services,N/A,Building Cleaning Services,0.1776968240737915,N/A,0.0,False,False,False,False,0,improved_similarity,Manufacturing,Industrial Air Solutions
+E-Commerce Services,N/A,E-Commerce Services,0.19089160859584808,N/A,0.0,True,True,True,False,0,improved_similarity,Retail,Book Stores
+E-Commerce Services,N/A,Health Promotion Services,0.42543330788612366,N/A,0.0,False,False,True,False,5,improved_similarity,Wholesale,Paper & Cardboard Products
+E-Commerce Services,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Manufacturing,Farms & Agriculture Production
+E-Commerce Services,N/A,E-Commerce Services,0.5133565664291382,N/A,0.0,True,True,True,False,1,improved_similarity,Retail,Electronics Stores
+E-Commerce Services,N/A,Food Processing Services,0.4709157943725586,N/A,0.0,False,False,False,False,5,improved_similarity,Retail,Groceries
+Non-Profit Management,N/A,Textile Manufacturing Services,0.1317988783121109,N/A,0.0,False,False,False,False,0,improved_similarity,Non Profit,Social Services & NGOs
+Non-Profit Management,N/A,Non-Profit Management,0.46300250093142187,N/A,0.0,True,True,True,False,5,improved_similarity,Non Profit,Social Services & NGOs
+Human Resources Services,N/A,Human Resources Services,0.6705789566040039,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Employment Agencies & HR Consulting
+Water Treatment Services,N/A,Waste Management Services,0.7680298686027527,N/A,0.0,False,True,True,False,5,improved_similarity,Government,"Executive, Legislative & Government Institutions"
+Technology Consulting,N/A,Project Management Services,0.5843912959098816,N/A,0.0,False,False,False,False,5,improved_similarity,Government,"Executive, Legislative & Government Institutions"
+Technology Consulting,N/A,Software Development Services,0.4910520017147064,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Electronical Components Manufacturing
+Training Services,N/A,Training Services,0.6112571954727173,N/A,0.0,True,True,True,False,5,improved_similarity,Government,Police & Sheriffs
+Training Services,N/A,Arts Services,0.13126806914806366,N/A,0.0,False,False,False,False,0,improved_similarity,Education,Dance Schools
+Training Services,N/A,Training Services,0.629385232925415,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Auto Parts Manufacturers
+Training Services,N/A,Training Services,0.3888751268386841,N/A,0.0,True,True,True,False,2,improved_similarity,Education,Computer Training Schools
+Training Services,N/A,Training Services,0.385978376865387,N/A,0.0,True,True,True,False,1,improved_similarity,Education,Beauty Schools
+Training Services,N/A,Training Services,0.7053597569465637,N/A,0.0,True,True,True,False,5,improved_similarity,Non Profit,Social Services & NGOs
+Training Services,N/A,Financial Services,0.34639763832092285,N/A,0.0,False,False,False,False,5,improved_similarity,Education,Colleges & Universities
+Training Services,N/A,Training Services,0.43809863924980164,N/A,0.0,True,True,True,False,1,improved_similarity,Services,Occupational Therapy
+Training Services,N/A,Training Services,0.4610201418399811,N/A,0.0,True,True,True,False,5,improved_similarity,Education,Computer Training Schools
+Training Services,N/A,Training Services,0.6112571954727173,N/A,0.0,True,True,True,False,5,improved_similarity,Government,Police & Sheriffs
+Training Services,N/A,Training Services,0.603092610836029,N/A,0.0,True,True,True,False,5,improved_similarity,Education,Religious Schools
+Training Services,N/A,Training Services,0.7016236782073975,N/A,0.0,True,True,True,False,5,improved_similarity,Education,Flight Training
+Training Services,N/A,Training Services,0.6071992516517639,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Other Engineering Services
+Training Services,N/A,Financial Services,0.225,N/A,0.0,False,True,True,False,2,improved_similarity,Education,"Learning, Tutoring & Courses"
+Training Services,N/A,Financial Services,0.6905513405799866,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Retirement Planning
+Legal Services,N/A,Food Processing Services,0.3930121958255768,N/A,0.0,False,False,False,False,5,improved_similarity,Government,Courthouses
+Legal Services,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Services,Notaries
+Legal Services,N/A,Legal Services,0.6275255680084229,N/A,0.0,True,True,True,False,5,improved_similarity,Non Profit,Social Services & NGOs
+Legal Services,N/A,Legal Services,0.6915823817253113,N/A,0.0,True,True,True,False,5,improved_similarity,Government,Courthouses
+Consulting Services,N/A,Consulting Services,0.7762532234191895,N/A,0.0,True,True,True,False,5,improved_similarity,Education,Educational Consultants
+Consulting Services,N/A,Consulting Services,0.7762532234191895,N/A,0.0,True,True,True,False,5,improved_similarity,Education,Educational Consultants
+Consulting Services,N/A,Consulting Services,0.6533283293247223,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Trucking and Logistics
+Consulting Services,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Education,Colleges & Universities
+Consulting Services,N/A,Financial Services,0.6149522662162781,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Paper & Cardboard Products
+Software Development Services,N/A,Financial Services,0.2751092871030172,N/A,0.0,False,False,False,False,5,improved_similarity,Government,Courthouses
+Software Development Services,N/A,Data Analysis Services,0.6237760782241821,N/A,0.0,False,True,True,False,5,improved_similarity,Services,Medical Research
+Software Development Services,N/A,Property Management Services,0.3,N/A,0.0,False,True,True,False,5,improved_similarity,Government,"Executive, Legislative & Government Institutions"
+Software Development Services,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Services,Art & Music Publishers
+Software Development Services,N/A,Software Development Services,0.5556567579507828,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Electronical Components Manufacturing
+Software Development Services,N/A,Software Development Services,0.5556567579507828,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Electronical Components Manufacturing
+Volunteer Services,N/A,Volunteer Services,0.498141884803772,N/A,0.0,True,True,True,False,3,improved_similarity,Government,Fire Departments & Fire Protection
+Agricultural Equipment Services,N/A,Livestock Dealer Services,0.5521233677864075,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Farms & Agriculture Production
+Agricultural Equipment Services,N/A,Livestock Dealer Services,0.5521233677864075,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Farms & Agriculture Production
+Agricultural Equipment Services,N/A,Restoration Services,0.6048180460929871,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Farms & Agriculture Production
+Dock and Pier Construction,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Services,Civil Engineering Services
+Soap Production Services,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Manufacturing,Religious Goods
+Food Processing Services,N/A,Pet Food Manufacturing,0.4897312819957733,N/A,0.0,False,False,True,False,5,improved_similarity,Manufacturing,Fruit & Vegetable - Markets & Stores
+Food Processing Services,N/A,HVAC Installation and Service,0.225,N/A,0.0,False,True,True,False,1,improved_similarity,Wholesale,Fruit & Vegetable - Markets & Stores
+Food Processing Services,N/A,HVAC Installation and Service,0.225,N/A,0.0,False,True,True,False,1,improved_similarity,Wholesale,Fruit & Vegetable - Markets & Stores
+Food Processing Services,N/A,Pet Food Manufacturing,0.4105067253112793,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Farms & Agriculture Production
+Food Processing Services,N/A,Pet Food Manufacturing,0.44358113408088684,N/A,0.0,False,False,True,False,5,improved_similarity,Manufacturing,Fruit & Vegetable - Markets & Stores
+Food Processing Services,N/A,Food Processing Services,0.5397537350654602,N/A,0.0,True,True,True,False,2,improved_similarity,Manufacturing,Fruit & Vegetable - Markets & Stores
+Food Processing Services,N/A,Marketing Services,0.6274843215942383,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Fruit & Vegetable - Markets & Stores
+Food Processing Services,N/A,Pharmaceutical Manufacturing,0.4185311496257782,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Farms & Agriculture Production
+Food Processing Services,N/A,Food Processing Services,0.5272257328033447,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Fruit & Vegetable - Markets & Stores
+Plastic Manufacturing,N/A,Plastic Manufacturing,0.74705570936203,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Plastics Products
+Plastic Manufacturing,N/A,Plastic Manufacturing,0.7122452855110168,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Plastics Products
+Plastic Manufacturing,N/A,Plastic Manufacturing,0.7919156551361084,N/A,0.0,True,True,True,False,5,improved_similarity,Wholesale,Plastics Products
+Plastic Manufacturing,N/A,Plastic Manufacturing,0.6702721118927002,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Fabric-Based Home Goods
+Plastic Manufacturing,N/A,Plastic Manufacturing,0.7122452855110168,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Plastics Products
+Plastic Manufacturing,N/A,Sand and Gravel Mining,0.401188462972641,N/A,0.0,False,False,False,False,1,improved_similarity,Manufacturing,"Minerals, Earths & Ores"
+Plastic Manufacturing,N/A,Plastic Manufacturing,0.620792806148529,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,"Pipes, Tubes, Fittings & Valves"
+Plastic Manufacturing,N/A,Commercial Construction Services,0.3,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Plastics Products
+Plastic Manufacturing,N/A,Furniture Manufacturing,0.4103464186191559,N/A,0.0,False,False,False,False,5,improved_similarity,Wholesale,Adhesives & Sealants
+Plastic Manufacturing,N/A,Plastic Manufacturing,0.5591696955263615,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Plastics Products
+Plastic Manufacturing,N/A,Plastic Manufacturing,0.6698076128959656,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Injection Molding Services
+Plastic Manufacturing,N/A,Paper Production Services,0.6295447945594788,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Plastics Products
+Real Estate Services,N/A,Financial Services,0.6678727269172668,N/A,0.0,False,False,True,False,5,improved_similarity,Services,Mortgage Brokers
+Real Estate Services,N/A,Real Estate Services,0.7802131175994873,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Real Estate - Agents & Managers
+Real Estate Services,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Retail,"Motor Homes, Trailers & RVs - Dealers & Rentals"
+Seafood Processing Services,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Retail,"Meat, Fish & Seafood Stores"
+Health Promotion Services,N/A,Laboratory Services,0.225,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Podiatrists
+Health Promotion Services,N/A,Non-Profit Management,0.4783805310726166,N/A,0.0,False,False,False,False,5,improved_similarity,Non Profit,Social Services & NGOs
+Health Promotion Services,N/A,Fundraising Services,0.6625140905380249,N/A,0.0,False,False,False,False,5,improved_similarity,Non Profit,Social Services & NGOs
+Textile Manufacturing Services,N/A,Textile Manufacturing Services,0.722589910030365,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Fabric-Based Home Goods
+Textile Manufacturing Services,N/A,Textile Manufacturing Services,0.5544677376747131,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Fabric-Based Home Goods
+Textile Manufacturing Services,N/A,Textile Manufacturing Services,0.5722855925559998,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Fabric-Based Home Goods
+Textile Manufacturing Services,N/A,Textile Manufacturing Services,0.5544677376747131,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Fabric-Based Home Goods
+Textile Manufacturing Services,N/A,Rope Production Services,0.4214407503604889,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Fabric-Based Home Goods
+Textile Manufacturing Services,N/A,Textile Manufacturing Services,0.5544677376747131,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Fabric-Based Home Goods
+Textile Manufacturing Services,N/A,Textile Manufacturing Services,0.5202364325523376,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Fabric-Based Home Goods
+Textile Manufacturing Services,N/A,E-Commerce Services,0.6865928769111633,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Fabric-Based Home Goods
+Textile Manufacturing Services,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,True,False,0,improved_similarity,Manufacturing,Fabric-Based Home Goods
+Textile Manufacturing Services,N/A,Textile Manufacturing Services,0.5722855925559998,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Fabric-Based Home Goods
+Rubber Manufacturing,N/A,Technology Consulting,0.3057798579335213,N/A,0.0,False,False,False,False,3,improved_similarity,Manufacturing,Fabricated Rubber Products
+Insurance Services,N/A,Media Production Services,0.3,N/A,0.0,False,False,False,False,5,improved_similarity,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,N/A,Insurance Services,0.7101518511772156,N/A,0.0,True,True,True,False,5,improved_similarity,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,N/A,Media Production Services,0.3,N/A,0.0,False,False,False,False,5,improved_similarity,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,N/A,Website Development Services,0.6033286452293396,N/A,0.0,False,True,True,False,5,improved_similarity,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,N/A,Insurance Services,0.6628910899162292,N/A,0.0,True,True,True,False,5,improved_similarity,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,N/A,Insurance Services,0.526155412197113,N/A,0.0,True,True,True,False,1,improved_similarity,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,N/A,Insurance Services,0.6636507511138916,N/A,0.0,True,True,True,False,5,improved_similarity,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,N/A,Insurance Services,0.526155412197113,N/A,0.0,True,True,True,False,1,improved_similarity,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,N/A,Consulting Services,0.7789799571037292,N/A,0.0,False,True,True,False,5,improved_similarity,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,N/A,Insurance Services,0.7279777526855469,N/A,0.0,True,True,True,False,5,improved_similarity,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,N/A,Insurance Services,0.44063881039619446,N/A,0.0,True,True,True,False,1,improved_similarity,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,N/A,Consulting Services,0.7789799571037292,N/A,0.0,False,True,True,False,5,improved_similarity,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,N/A,Insurance Services,0.6636507511138916,N/A,0.0,True,True,True,False,5,improved_similarity,Services,"Insurance - Agents, Carriers & Brokers"
+Content Creation Services,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Manufacturing,Paper & Cardboard Products
+Content Creation Services,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Manufacturing,Fabric-Based Home Goods
+Content Creation Services,N/A,Financial Services,0.7751081585884094,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Loans & Financing
+Content Creation Services,N/A,Financial Services,0.7751081585884094,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Loans & Financing
+HVAC Installation and Service,N/A,Commercial Electrical Services,0.46372926235198975,N/A,0.0,False,False,False,False,5,improved_similarity,Wholesale,Industrial Air Solutions
+HVAC Installation and Service,N/A,Environmental Consulting,0.225,N/A,0.0,False,False,False,False,5,improved_similarity,Wholesale,Industrial Air Solutions
+Well Drilling Services,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Manufacturing,Oil & Gas - Extraction & Distribution
+Bakery Production Services,N/A,Food Processing Services,0.48856446146965027,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Fruit & Vegetable - Markets & Stores
+Non-Structural Steel Fabrication,N/A,Media Production Services,0.3,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Electric Supplies & Power Generation
+Meat Processing Services,N/A,Catering Services,0.35099926590919495,N/A,0.0,False,True,True,False,1,improved_similarity,Wholesale,Meat Production & Processing
+Catering Services,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Services,Coffee & Tea Shops
+Website Development Services,N/A,Website Development Services,0.2600683569908142,N/A,0.0,True,True,True,False,0,improved_similarity,Education,Educational Consultants
+Website Development Services,N/A,Website Development Services,0.7462425827980042,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Garbage Collection & Waste Disposal
+Rope Production Services,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Manufacturing,Fabric-Based Home Goods
+Non-Alcoholic Beverage Manufacturing,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,Manufacturing,Beverages & Refreshments
+Advertising Services,N/A,Advertising Services,0.6386640071868896,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Farms & Agriculture Production
+Travel Services,N/A,Financial Services,0.34897446632385254,N/A,0.0,False,False,False,False,5,improved_similarity,Services,"Buses, Shuttles & Local Transit"
+Pipeline Construction Services,N/A,Plastic Manufacturing,0.16679120063781738,N/A,0.0,False,False,False,False,0,improved_similarity,,
+Multi-Family Construction Services,N/A,Carpentry Services,0.6636238694190979,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Roofing Contractors
+Cosmetic Manufacturing,N/A,Oil and Fat Manufacturing,0.225,N/A,0.0,False,True,True,False,1,improved_similarity,Wholesale,CBD and Medical Marijuana
+Compliance Services,N/A,Veterinary Services,0.5663365721702576,N/A,0.0,False,False,False,False,5,improved_similarity,Government,"Executive, Legislative & Government Institutions"
+Compliance Services,N/A,Property Management Services,0.5185241719086965,N/A,0.0,False,False,False,False,5,improved_similarity,Government,"Executive, Legislative & Government Institutions"
+Commercial Electrical Services,N/A,Residential Electrical Services,0.7079925537109375,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Electrical & Wiring Contractors
+Cable Installation Services,N/A,Directional Drilling Services,0.579348087310791,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Construction Services
+Sand and Gravel Mining,N/A,Grain Processing Services,0.41299936175346375,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,N/A,Sand and Gravel Mining,0.4496459662914276,N/A,0.0,True,True,True,False,1,improved_similarity,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,N/A,Financial Services,0.15895183384418488,N/A,0.0,False,False,True,False,0,improved_similarity,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,N/A,Grain Processing Services,0.3,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,N/A,Sand and Gravel Mining,0.577110767364502,N/A,0.0,True,True,True,False,4,improved_similarity,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,N/A,Grain Processing Services,0.3,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,N/A,Sand and Gravel Mining,0.6156027913093567,N/A,0.0,True,True,True,False,2,improved_similarity,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,N/A,Legal Services,0.45,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,N/A,Sand and Gravel Mining,0.4496459662914276,N/A,0.0,True,True,True,False,1,improved_similarity,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,N/A,Marketing Services,0.5,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,N/A,Sand and Gravel Mining,0.577110767364502,N/A,0.0,True,True,True,False,4,improved_similarity,Manufacturing,"Minerals, Earths & Ores"
+Testing and Inspection Services,N/A,Insurance Services,0.5703040361404419,N/A,0.0,False,True,True,False,5,improved_similarity,Wholesale,Watches & Jewelry Stores
+Testing and Inspection Services,N/A,Testing and Inspection Services,0.5412111282348633,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Dental Laboratory
+Testing and Inspection Services,N/A,Laboratory Services,0.6761431694030762,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Other Engineering Services
+Boiler Installation Services,N/A,Industrial Machinery Installation,0.5447706302007039,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Industrial Air Solutions
+Fitness Coaching,N/A,Training Services,0.6326268315315247,N/A,0.0,False,False,False,False,5,improved_similarity,Education,Music Schools & Instructors
+Management Consulting,N/A,Business Development Services,0.6059914231300354,N/A,0.0,False,False,False,False,5,improved_similarity,Wholesale,Furniture Stores
+Swimming Pool Maintenance Services,N/A,Real Estate Services,0.6763272881507874,N/A,0.0,False,False,False,False,5,improved_similarity,Government,"Executive, Legislative & Government Institutions"
+Data Analysis Services,N/A,Data Analysis Services,0.7992932796478271,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Livestock & Animal Raising
+Data Analysis Services,N/A,Data Analysis Services,0.6741123795509338,N/A,0.0,True,True,True,False,5,improved_similarity,Government,"Executive, Legislative & Government Institutions"
+Data Analysis Services,N/A,Software Development Services,0.5333352088928223,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Biotechnology
+Public Relations Services,N/A,Public Relations Services,0.6028836369514465,N/A,0.0,True,True,True,False,5,improved_similarity,Government,"Executive, Legislative & Government Institutions"
+Accessory Manufacturing,N/A,Furniture Manufacturing,0.38074466586112976,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Fabric-Based Home Goods
+Accessory Manufacturing,N/A,Media Production Services,0.3,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Livestock & Animal Raising
+Accessory Manufacturing,N/A,Wood Product Manufacturing,0.34764384031295775,N/A,0.0,False,False,False,False,5,improved_similarity,Manufacturing,Fabric-Based Home Goods
+Apparel Manufacturing,N/A,Environmental Consulting,0.316534161567688,N/A,0.0,False,False,True,False,2,improved_similarity,Non Profit,Animal Shelters
+Fundraising Services,N/A,Fundraising Services,0.6625140905380249,N/A,0.0,True,True,True,False,5,improved_similarity,Non Profit,Social Services & NGOs
+Fundraising Services,N/A,Community Engagement Services,0.4639337956905365,N/A,0.0,False,False,True,False,5,improved_similarity,Non Profit,Social Services & NGOs
+Fundraising Services,N/A,Fundraising Services,0.6625140905380249,N/A,0.0,True,True,True,False,5,improved_similarity,Non Profit,Social Services & NGOs
+Fundraising Services,N/A,Fundraising Services,0.43867382407188416,N/A,0.0,True,True,True,False,2,improved_similarity,Non Profit,Social Services & NGOs
+Veterinary Services,N/A,Non-Profit Management,0.4526306390762329,N/A,0.0,False,True,True,False,1,improved_similarity,Non Profit,Animal Shelters
+Building Cleaning Services,N/A,Agricultural Equipment Services,0.348998882373174,N/A,0.0,False,False,False,False,5,improved_similarity,Retail,Hardware Stores
+Building Cleaning Services,N/A,Building Cleaning Services,0.7067791819572449,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Office & Industrial Cleaning
+Software Manufacturing,N/A,Software Manufacturing,0.1652560035387675,N/A,0.0,True,True,True,False,0,improved_similarity,Retail,Device Manufacturing
+Arts Services,N/A,Arts Services,0.742760181427002,N/A,0.0,True,True,True,False,5,improved_similarity,Non Profit,Social Services & NGOs
+Painting Services,N/A,Painting Services,0.32583460211753845,N/A,0.0,True,True,True,False,1,improved_similarity,Retail,Art Galleries
+Cabinetry Manufacturing,N/A,Cabinetry Manufacturing,0.28212207555770874,N/A,0.0,True,True,True,False,0,improved_similarity,Retail,Cabinet Makers
+Waste Management Services,N/A,Agricultural Equipment Services,0.3,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Garbage Collection & Waste Disposal
+Low-Rise Foundation Construction,N/A,Commercial Construction Services,0.6491822600364685,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Concrete Work
+Gas Installation Services,N/A,Gas Installation Services,0.6025121808052063,N/A,0.0,True,True,True,False,5,improved_similarity,Wholesale,Oil & Gas - Extraction & Distribution
+Gas Installation Services,N/A,Gas Installation Services,0.7411407828330994,N/A,0.0,True,True,True,False,5,improved_similarity,Wholesale,Oil & Gas - Extraction & Distribution
+Gas Manufacturing Services,N/A,Media Production Services,0.3,N/A,0.0,False,False,False,False,5,improved_similarity,Wholesale,Renewable energy companies
+Animal Feed Manufacturing,N/A,Animal Feed Manufacturing,0.27533504366874695,N/A,0.0,True,True,True,False,0,improved_similarity,Manufacturing,Farms & Agriculture Production
+Business Development Services,N/A,Business Development Services,0.5776636600494385,N/A,0.0,True,True,True,False,5,improved_similarity,Government,"Executive, Legislative & Government Institutions"
+Strategic Planning Services,N/A,Event Planning Services,0.45312801003456116,N/A,0.0,False,False,True,False,5,improved_similarity,Government,"Executive, Legislative & Government Institutions"
+Market Research Services,N/A,Business Development Services,0.5965624451637268,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Market Research & Opinion Polling
+Market Research Services,N/A,Market Research Services,0.7205067276954651,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Fruit & Vegetable - Markets & Stores
+Pet Food Manufacturing,N/A,Pet Food Manufacturing,0.6241013407707214,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Livestock & Animal Raising
+Fishing and Hunting Services,N/A,Fishing and Hunting Services,0.6395742893218994,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,"Minerals, Earths & Ores"
+Paper Production Services,N/A,Furniture Manufacturing,0.34734907746315,N/A,0.0,False,False,True,False,5,improved_similarity,Wholesale,Paper & Cardboard Products
+Paper Production Services,N/A,Paper Production Services,0.260307639837265,N/A,0.0,True,True,True,False,0,improved_similarity,Manufacturing,Paper & Cardboard Products
+Printing Services,N/A,Printing Services,0.7762109637260437,N/A,0.0,True,True,True,False,5,improved_similarity,Wholesale,Paper & Cardboard Products
+Tent Manufacturing Services,N/A,Tent Manufacturing Services,0.8491568565368652,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Furniture Stores
+Landscaping Services,N/A,Alarm Installation Services,0.3,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Landscaping & Lawn Services
+Excavation Services,N/A,Excavation Services,0.6279327869415283,N/A,0.0,True,True,True,False,5,improved_similarity,Services,"Excavation, Bulldozing & Demolition"
+Tank Installation Services,N/A,Tank Installation Services,0.7523439526557922,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Metal Storage Tanks
+Canning Services,N/A,Food Processing Services,0.5397537350654602,N/A,0.0,False,True,True,False,2,improved_similarity,Manufacturing,Fruit & Vegetable - Markets & Stores
+Mobile Home Construction Services,N/A,Travel Services,0.5606909990310669,N/A,0.0,False,True,True,False,5,improved_similarity,Manufacturing,"Motor Homes, Trailers & RVs - Dealers & Rentals"
+Window and Door Manufacturing,N/A,Window and Door Manufacturing,0.5126047730445862,N/A,0.0,True,True,True,False,5,improved_similarity,Manufacturing,Plastics Products
+Directional Drilling Services,N/A,Directional Drilling Services,0.8333075046539307,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Construction Services
+Residential Communication Equipment Installation,N/A,Publishing Services,0.6490123271942139,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Telecommunications
+Residential Electrical Services,N/A,Gas Installation Services,0.45,N/A,0.0,False,False,False,False,5,improved_similarity,Wholesale,Solar Energy Company
+Restoration Services,N/A,Restoration Services,0.6405540704727173,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Damage Restoration & Mold Remediation
+Fencing Construction Services,N/A,Alarm Installation Services,0.46310117840766907,N/A,0.0,False,False,False,False,5,improved_similarity,Services,Elevators & Ramps - Installation & Service
+Drywall Services,N/A,Drywall Services,0.6793519854545593,N/A,0.0,True,True,True,False,5,improved_similarity,Services,Drywall & Insulation Contractors

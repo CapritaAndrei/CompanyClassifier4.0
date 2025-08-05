@@ -1,0 +1,419 @@
+[
+  {
+    "label": "Road Maintenance Services",
+    "retry_type": "standard",
+    "status": "success",
+    "validation": {
+      "valid_mappings": [
+        {
+          "naics_code": "237310",
+          "description": "Highway, Street, and Bridge Construction",
+          "search_term": "Road Maintenance Services",
+          "relevance": "high",
+          "actual_description": "Highway, Street, and Bridge Construction ",
+          "description_match": true
+        },
+        {
+          "naics_code": "488490",
+          "description": "Other Support Activities for Road Transportation",
+          "search_term": "Road Maintenance Services",
+          "relevance": "medium",
+          "actual_description": "Other Support Activities for Road Transportation ",
+          "description_match": true
+        },
+        {
+          "naics_code": "238990",
+          "description": "All Other Specialty Trade Contractors",
+          "search_term": "Road Maintenance Services",
+          "relevance": "medium",
+          "actual_description": "All Other Specialty Trade Contractors",
+          "description_match": true
+        },
+        {
+          "naics_code": "562998",
+          "description": "All Other Miscellaneous Waste Management Services",
+          "search_term": "Road Maintenance Services",
+          "relevance": "medium",
+          "actual_description": "All Other Miscellaneous Waste Management Services ",
+          "description_match": true
+        }
+      ],
+      "invalid_mappings": [],
+      "validation_summary": {
+        "total_provided": 4,
+        "valid_codes": 4,
+        "invalid_codes": 0,
+        "hallucinated_descriptions": 0
+      }
+    }
+  },
+  {
+    "label": "Millwork Services",
+    "retry_type": "standard",
+    "status": "success",
+    "validation": {
+      "valid_mappings": [
+        {
+          "naics_code": "321911",
+          "description": "Wood Window and Door Manufacturing",
+          "search_term": "Millwork Services",
+          "relevance": "high",
+          "actual_description": "Wood Window and Door Manufacturing ",
+          "description_match": true
+        },
+        {
+          "naics_code": "337212",
+          "description": "Custom Architectural Woodwork and Millwork Manufacturing",
+          "search_term": "Millwork Services",
+          "relevance": "high",
+          "actual_description": "Custom Architectural Woodwork and Millwork Manufacturing ",
+          "description_match": true
+        },
+        {
+          "naics_code": "321912",
+          "description": "Cut Stock, Resawing Lumber, and Planing",
+          "search_term": "Millwork Services",
+          "relevance": "medium",
+          "actual_description": "Cut Stock, Resawing Lumber, and Planing ",
+          "description_match": true
+        },
+        {
+          "naics_code": "321999",
+          "description": "All Other Miscellaneous Wood Product Manufacturing",
+          "search_term": "Millwork Services",
+          "relevance": "medium",
+          "actual_description": "All Other Miscellaneous Wood Product Manufacturing ",
+          "description_match": true
+        },
+        {
+          "naics_code": "321920",
+          "description": "Wood Container and Pallet Manufacturing",
+          "search_term": "Millwork Services",
+          "relevance": "medium",
+          "actual_description": "Wood Container and Pallet Manufacturing",
+          "description_match": true
+        },
+        {
+          "naics_code": "238350",
+          "description": "Finish Carpentry",
+          "search_term": "Millwork Services",
+          "relevance": "medium",
+          "actual_description": "Finish Carpentry Contractors",
+          "description_match": true
+        }
+      ],
+      "invalid_mappings": [
+        {
+          "naics_code": "321918",
+          "description": "Other Millwork (including Flooring, Trim, and Stairwork) Manufacturing",
+          "search_term": "Millwork Services",
+          "relevance": "high",
+          "actual_description": "Other Millwork (including Flooring) ",
+          "description_match": false,
+          "error": "Description mismatch. Provided: \"Other Millwork (including Flooring, Trim, and Stairwork) Manufacturing\" | Actual: \"Other Millwork (including Flooring) \""
+        }
+      ],
+      "validation_summary": {
+        "total_provided": 7,
+        "valid_codes": 6,
+        "invalid_codes": 0,
+        "hallucinated_descriptions": 1
+      }
+    }
+  },
+  {
+    "label": "Rendering Services",
+    "retry_type": "standard",
+    "status": "success",
+    "validation": {
+      "valid_mappings": [
+        {
+          "naics_code": "311613",
+          "description": "Rendering and Meat Byproduct Processing",
+          "search_term": "Rendering Services",
+          "relevance": "high",
+          "actual_description": "Rendering and Meat Byproduct Processing ",
+          "description_match": true
+        },
+        {
+          "naics_code": "541430",
+          "description": "Graphic Design Services",
+          "search_term": "Rendering Services",
+          "relevance": "medium",
+          "actual_description": "Graphic Design Services",
+          "description_match": true
+        }
+      ],
+      "invalid_mappings": [],
+      "validation_summary": {
+        "total_provided": 2,
+        "valid_codes": 2,
+        "invalid_codes": 0,
+        "hallucinated_descriptions": 0
+      }
+    }
+  },
+  {
+    "label": "Publishing Services",
+    "retry_type": "standard",
+    "status": "success",
+    "validation": {
+      "valid_mappings": [],
+      "invalid_mappings": [
+        {
+          "naics_code": "511110",
+          "description": "Newspaper Publishers",
+          "search_term": "Publishing Services",
+          "relevance": "high",
+          "error": "NAICS code 511110 not found in 2022 database"
+        },
+        {
+          "naics_code": "511120",
+          "description": "Periodical Publishers",
+          "search_term": "Publishing Services",
+          "relevance": "high",
+          "error": "NAICS code 511120 not found in 2022 database"
+        },
+        {
+          "naics_code": "511130",
+          "description": "Book Publishers",
+          "search_term": "Publishing Services",
+          "relevance": "high",
+          "error": "NAICS code 511130 not found in 2022 database"
+        },
+        {
+          "naics_code": "511140",
+          "description": "Directory and Mailing List Publishers",
+          "search_term": "Publishing Services",
+          "relevance": "high",
+          "error": "NAICS code 511140 not found in 2022 database"
+        },
+        {
+          "naics_code": "511199",
+          "description": "All Other Publishers",
+          "search_term": "Publishing Services",
+          "relevance": "high",
+          "error": "NAICS code 511199 not found in 2022 database"
+        },
+        {
+          "naics_code": "511210",
+          "description": "Software Publishers",
+          "search_term": "Publishing Services",
+          "relevance": "high",
+          "error": "NAICS code 511210 not found in 2022 database"
+        },
+        {
+          "naics_code": "516110",
+          "description": "Internet Publishing and Broadcasting and Web Search Portals",
+          "search_term": "Publishing Services",
+          "relevance": "medium",
+          "actual_description": "Radio Broadcasting Stations ",
+          "description_match": false,
+          "error": "Description mismatch. Provided: \"Internet Publishing and Broadcasting and Web Search Portals\" | Actual: \"Radio Broadcasting Stations \""
+        }
+      ],
+      "validation_summary": {
+        "total_provided": 7,
+        "valid_codes": 0,
+        "invalid_codes": 6,
+        "hallucinated_descriptions": 1
+      }
+    }
+  },
+  {
+    "label": "Branding Services",
+    "retry_type": "standard",
+    "status": "success",
+    "validation": {
+      "valid_mappings": [
+        {
+          "naics_code": "541890",
+          "description": "Other Services Related to Advertising",
+          "search_term": "Branding Services",
+          "relevance": "high",
+          "actual_description": "Other Services Related to Advertising ",
+          "description_match": true
+        },
+        {
+          "naics_code": "541430",
+          "description": "Graphic Design Services",
+          "search_term": "Branding Services",
+          "relevance": "high",
+          "actual_description": "Graphic Design Services",
+          "description_match": true
+        },
+        {
+          "naics_code": "541820",
+          "description": "Public Relations Agencies",
+          "search_term": "Branding Services",
+          "relevance": "medium",
+          "actual_description": "Public Relations Agencies",
+          "description_match": true
+        },
+        {
+          "naics_code": "541910",
+          "description": "Marketing Research and Public Opinion Polling",
+          "search_term": "Branding Services",
+          "relevance": "medium",
+          "actual_description": "Marketing Research and Public Opinion Polling",
+          "description_match": true
+        }
+      ],
+      "invalid_mappings": [
+        {
+          "naics_code": "541610",
+          "description": "Management Consulting Services",
+          "search_term": "Branding Services",
+          "relevance": "medium",
+          "error": "NAICS code 541610 not found in 2022 database"
+        }
+      ],
+      "validation_summary": {
+        "total_provided": 5,
+        "valid_codes": 4,
+        "invalid_codes": 1,
+        "hallucinated_descriptions": 0
+      }
+    }
+  },
+  {
+    "label": "Graphic Design Services",
+    "retry_type": "standard",
+    "status": "success",
+    "validation": {
+      "valid_mappings": [
+        {
+          "naics_code": "541430",
+          "description": "Graphic Design Services",
+          "search_term": "Graphic Design Services",
+          "relevance": "high",
+          "actual_description": "Graphic Design Services",
+          "description_match": true
+        },
+        {
+          "naics_code": "541890",
+          "description": "Other Services Related to Advertising",
+          "search_term": "Graphic Design Services",
+          "relevance": "medium",
+          "actual_description": "Other Services Related to Advertising ",
+          "description_match": true
+        },
+        {
+          "naics_code": "541810",
+          "description": "Advertising Agencies",
+          "search_term": "Graphic Design Services",
+          "relevance": "medium",
+          "actual_description": "Advertising Agencies",
+          "description_match": true
+        },
+        {
+          "naics_code": "541613",
+          "description": "Marketing Consulting Services",
+          "search_term": "Graphic Design Services",
+          "relevance": "medium",
+          "actual_description": "Marketing Consulting Services ",
+          "description_match": true
+        },
+        {
+          "naics_code": "541420",
+          "description": "Industrial Design Services",
+          "search_term": "Graphic Design Services",
+          "relevance": "medium",
+          "actual_description": "Industrial Design Services",
+          "description_match": true
+        },
+        {
+          "naics_code": "541490",
+          "description": "Other Specialized Design Services",
+          "search_term": "Graphic Design Services",
+          "relevance": "medium",
+          "actual_description": "Other Specialized Design Services",
+          "description_match": true
+        },
+        {
+          "naics_code": "541512",
+          "description": "Computer Systems Design Services",
+          "search_term": "Graphic Design Services",
+          "relevance": "medium",
+          "actual_description": "Computer Systems Design Services ",
+          "description_match": true
+        }
+      ],
+      "invalid_mappings": [],
+      "validation_summary": {
+        "total_provided": 7,
+        "valid_codes": 7,
+        "invalid_codes": 0,
+        "hallucinated_descriptions": 0
+      }
+    }
+  },
+  {
+    "label": "Publishing Services",
+    "retry_type": "flexible",
+    "status": "success",
+    "validation": {
+      "valid_mappings": [
+        {
+          "naics_code": "541840",
+          "description": "Media Representatives",
+          "search_term": "Publishing Services",
+          "relevance": "moderate",
+          "actual_description": "Media Representatives",
+          "description_match": true
+        },
+        {
+          "naics_code": "541720",
+          "description": "Research and Development in the Social Sciences and Humanities",
+          "search_term": "Publishing Services",
+          "relevance": "moderate",
+          "actual_description": "Research and Development in the Social Sciences and Humanities ",
+          "description_match": true
+        }
+      ],
+      "invalid_mappings": [
+        {
+          "naics_code": "511110",
+          "description": "Newspaper Publishers",
+          "search_term": "Publishing Services",
+          "relevance": "high",
+          "error": "NAICS code 511110 not found in 2022 database"
+        },
+        {
+          "naics_code": "511120",
+          "description": "Periodical Publishers",
+          "search_term": "Publishing Services",
+          "relevance": "high",
+          "error": "NAICS code 511120 not found in 2022 database"
+        },
+        {
+          "naics_code": "511130",
+          "description": "Book Publishers",
+          "search_term": "Publishing Services",
+          "relevance": "high",
+          "error": "NAICS code 511130 not found in 2022 database"
+        },
+        {
+          "naics_code": "511140",
+          "description": "Directory and Mailing List Publishers",
+          "search_term": "Publishing Services",
+          "relevance": "high",
+          "error": "NAICS code 511140 not found in 2022 database"
+        },
+        {
+          "naics_code": "519130",
+          "description": "Internet Publishing and Broadcasting and Web Search Portals",
+          "search_term": "Publishing Services",
+          "relevance": "high",
+          "error": "NAICS code 519130 not found in 2022 database"
+        }
+      ],
+      "validation_summary": {
+        "total_provided": 7,
+        "valid_codes": 2,
+        "invalid_codes": 5,
+        "hallucinated_descriptions": 0
+      }
+    }
+  }
+]

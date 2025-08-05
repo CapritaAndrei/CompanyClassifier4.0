@@ -1,0 +1,127 @@
+Labels Without Exact NAICS Matches
+========================================
+
+  1. Agricultural Equipment Services
+  2. Agricultural Machinery Installation
+  3. Air Duct Cleaning Services
+  4. Alarm Installation Services
+  5. Animal Day Care Services
+  6. Animal Trainers
+  7. Animal Training Services
+  8. Apartment Renovation Services
+  9. Asphalt Production Services
+ 10. Bakery Production Services
+ 11. Boiler Repair Services
+ 12. Brewery Operations
+ 13. Carpet Manufacturing Services
+ 14. Coffee Processing Services
+ 15. Commercial Communication Equipment Installation
+ 16. Commercial Construction Services
+ 17. Commercial Drain Cleaning
+ 18. Commercial Driveway Construction
+ 19. Commercial Electrical Services
+ 20. Commercial Irrigation Systems
+ 21. Commercial Plumbing Services
+ 22. Commercial Renovation Services
+ 23. Commercial Snow Removal
+ 24. Community Engagement Services
+ 25. Compliance Services
+ 26. Content Creation Services
+ 27. Corporate Responsibility Services
+ 28. Corporate Training Services
+ 29. Crisis Management Services
+ 30. Dairy Production Services
+ 31. Data Analysis Services
+ 32. Digital Marketing Services
+ 33. Dock and Pier Construction
+ 34. E-Commerce Services
+ 35. Electric Line Construction
+ 36. Event Planning Services
+ 37. Fencing Construction Services
+ 38. Field Welding Services
+ 39. Fire Protection System Services
+ 40. Fire Safety Equipment Services
+ 41. Fishing and Hunting Services
+ 42. Fitness Coaching
+ 43. Food Safety Services
+ 44. Frozen Food Processing
+ 45. Gardening Services
+ 46. Gas Installation Services
+ 47. General Handyman Services
+ 48. General Snow Removal Services
+ 49. Grain Handling Machinery Installation
+ 50. Grain Processing Services
+ 51. HVAC Inspections
+ 52. HVAC Installation and Service
+ 53. Health Promotion Services
+ 54. Health and Safety Consulting
+ 55. High-Rise Foundation Construction
+ 56. High-Rise Glass Installation
+ 57. High-Rise Signage Installation
+ 58. Home Staging Services
+ 59. Human Resources Services
+ 60. Ice Production Services
+ 61. Industrial Machinery Installation
+ 62. Industrial Plumbing Services
+ 63. Infrastructure Excavation
+ 64. Livestock Dealer Services
+ 65. Low-Rise Foundation Construction
+ 66. Low-Rise Glass Installation
+ 67. Low-Rise Signage Installation
+ 68. Market Research Services
+ 69. Masonry Construction Services
+ 70. Meat Processing Services
+ 71. Media Production Services
+ 72. Medical Gas Installation Services
+ 73. Mobile Home Construction Services
+ 74. Multi-Family Construction Services
+ 75. New Ground Excavation
+ 76. New Ground Pipeline Installation
+ 77. Non-Alcoholic Beverage Manufacturing
+ 78. Non-Profit Management
+ 79. Non-Structural Steel Fabrication
+ 80. Occupational Health Services
+ 81. Oil and Fat Manufacturing
+ 82. Online Marketing Services
+ 83. Ornamental Plant Nurseries
+ 84. Paper Production Services
+ 85. Pesticide Application Services
+ 86. Plastic Signage Production
+ 87. Precast Concrete Installation
+ 88. Project Management Services
+ 89. Residential Communication Equipment Installation
+ 90. Residential Drain Cleaning
+ 91. Residential Drainage Systems
+ 92. Residential Driveway Construction
+ 93. Residential Electrical Services
+ 94. Residential Plumbing Services
+ 95. Residential Roofing Services
+ 96. Residential Snow Removal
+ 97. Risk Assessment Services
+ 98. Road and Highway Construction
+ 99. Roofing Services with Heat Application
+100. Rope Production Services
+101. SEO Services
+102. Sand and Gravel Mining
+103. Single Family Renovation Services
+104. Single Family Residential Construction
+105. Soap Production Services
+106. Social Media Services
+107. Soil Nutrient Application Services
+108. Sports Management Services
+109. Stakeholder Services
+110. Street Cleaning Operations
+111. Structural Steel Erection
+112. Swimming Pool Installation Services
+113. Swimming Pool Maintenance Services
+114. Technology Consulting
+115. Tent Manufacturing Services
+116. Tilt-Up Concrete Services
+117. Timber Harvesting Operations
+118. Tree Services - Pruning / Removal
+119. Vacant Building Management
+120. Vacant Land Services
+121. Veterinary Health Centers
+122. Website Development Services
+123. Well Maintenance Services
+124. Windows and Doors Installation

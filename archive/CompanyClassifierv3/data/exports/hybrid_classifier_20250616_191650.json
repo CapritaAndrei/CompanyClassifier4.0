@@ -1,0 +1,390 @@
+{
+  "ensemble_weights": {
+    "weighted_classifier": 0.4,
+    "few_shot_classifier": 0.6
+  },
+  "prediction_history": [
+    {
+      "timestamp": "2025-06-16T19:16:22.845826",
+      "company_data": {
+        "description": "Welchcivils is a civil engineering and construction company that specializes in designing and building utility network connections across the UK. They offer multi-utility solutions that combine electricity, gas, water, and fibre optic installation into a single contract. Their design engineer teams are capable of designing electricity, water and gas networks from existing network connection points to meter locations at the development, as well as project management of reinforcements and diversions. They provide custom connection solutions that take into account any existing assets, maximize the usage of every trench, and meet project deadlines. Welchcivils has considerable expertise installing gas and electricity connections in a variety of market categories, including residential, commercial, and industrial projects, as as well.",
+        "business_tags": "['Construction Services', 'Multi-utilities', 'Utility Network Connections Design and Construction', 'Water Connection Installation', 'Multi-utility Connections', 'Fiber Optic Installation']",
+        "sector": "Services",
+        "category": "Civil Engineering Services",
+        "niche": "Other Heavy and Civil Engineering Construction"
+      },
+      "weighted_predictions": [
+        [
+          "Multi-Family Construction Services",
+          0.4316454788466457
+        ],
+        [
+          "Commercial Construction Services",
+          0.37220464925777735
+        ],
+        [
+          "Residential Communication Equipment Installation",
+          0.3178078065739688
+        ],
+        [
+          "Cable Installation Services",
+          0.3114171852091853
+        ]
+      ],
+      "few_shot_predictions": [
+        [
+          "Utility Network Connections Design and Construction",
+          1.0
+        ],
+        [
+          "Multi-utility Connections",
+          1.0
+        ],
+        [
+          "Water Connection Installation",
+          1.0
+        ],
+        [
+          "Fiber Optic Installation",
+          1.0
+        ],
+        [
+          "Manufacturing",
+          0.4026052363390057
+        ]
+      ],
+      "ensemble_predictions": [
+        [
+          "Fiber Optic Installation",
+          0.4
+        ],
+        [
+          "Water Connection Installation",
+          0.4
+        ],
+        [
+          "Utility Network Connections Design and Construction",
+          0.4
+        ],
+        [
+          "Multi-utility Connections",
+          0.4
+        ],
+        [
+          "Commercial Construction Services",
+          0.37862678962462754
+        ]
+      ]
+    },
+    {
+      "timestamp": "2025-06-16T19:16:23.266574",
+      "company_data": {
+        "description": "New Vichar Sandesh is a company that provides hand sanitizer at affordable rates at the Mrignani Emporium, operated by SLIC. The company aims to prevent the spread of Covid-19 among small businesses. The Chief Minister, Shri Shivaraj Singh Chauhan, recently reviewed the preparations for wheat supply during the Rabi season and discussed proposed wheat supply programs due to the Coronavirus infection. Vardhan Textiles Company donated Rs. 1 crore to the CM Relief Fund for COVID relief work, and HEG Limited donated an amount of one crore Rupees to the PMRRF and provided assistance with food supplies.",
+        "business_tags": "['Wheat Supplies Preparation', 'Hand Sanitizer Availability', 'Relief Fund Donations', 'Governmental Organization', 'Textile Donations', 'COVID-19 Prevention Measures']",
+        "sector": "Manufacturing",
+        "category": "Minerals, Earths & Ores",
+        "niche": "Kaolin, Clay, and Ceramic and Refractory Minerals Mining"
+      },
+      "weighted_predictions": [
+        [
+          "Textile Manufacturing Services",
+          0.3951011058703451
+        ],
+        [
+          "Food Safety Services",
+          0.255484367660081
+        ],
+        [
+          "Food Processing Services",
+          0.22868329042951205
+        ],
+        [
+          "Agricultural Equipment Services",
+          0.207871213555336
+        ],
+        [
+          "Grain Processing Services",
+          0.20474376529455185
+        ]
+      ],
+      "few_shot_predictions": [
+        [
+          "Hand Sanitizer Availability",
+          1.0
+        ],
+        [
+          "COVID-19 Prevention Measures",
+          1.0
+        ],
+        [
+          "Soap Production Services",
+          0.8063171577100391
+        ],
+        [
+          "Chemical Manufacturing",
+          0.6824051785947297
+        ],
+        [
+          "Manufacturing",
+          0.3728832266641695
+        ]
+      ],
+      "ensemble_predictions": [
+        [
+          "Chemical Manufacturing",
+          0.47768362501631084
+        ],
+        [
+          "Soap Production Services",
+          0.40315857885501954
+        ],
+        [
+          "COVID-19 Prevention Measures",
+          0.4
+        ],
+        [
+          "Hand Sanitizer Availability",
+          0.4
+        ],
+        [
+          "Food Processing Services",
+          0.3392094188099237
+        ]
+      ]
+    },
+    {
+      "timestamp": "2025-06-16T19:16:23.699465",
+      "company_data": {
+        "description": "Reactolab is a Swiss company founded in 1988 by chemistry enthusiasts. Based in Servion, canton of Vaud, it specializes in the distribution of chemicals and laboratory supplies throughout Switzerland. Over time, Reactolab has established close partnerships with various suppliers, allowing them to offer a wide range of products at competitive prices and provide customers with alternatives from multiple brands. This network ensures an immediate response to the needs and preferences of each customer.",
+        "business_tags": "['Chemical Distribution', 'Laboratory Supplies Distribution', 'Chemistry', 'Economical Order Service', 'Service-based', 'One Invoice, One Delivery Initiative', 'Immediate Response', 'Distribution Services', 'One-stop-shop for All Products', 'Phone, Email, and Online Shop']",
+        "sector": "Wholesale",
+        "category": "Laboratory Equipment & Supplies",
+        "niche": "Other Professional Equipment and Supplies Merchant Wholesalers"
+      },
+      "weighted_predictions": [
+        [
+          "Laboratory Services",
+          0.40484138901734024
+        ],
+        [
+          "Chemical Manufacturing",
+          0.3267402113301297
+        ],
+        [
+          "Gas Manufacturing Services",
+          0.25430216198053146
+        ],
+        [
+          "Online Marketing Services",
+          0.25005479875624537
+        ],
+        [
+          "HVAC Installation and Service",
+          0.24725908574813005
+        ]
+      ],
+      "few_shot_predictions": [
+        [
+          "Laboratory Services",
+          0.8559686426971226
+        ],
+        [
+          "Retail",
+          0.4173788689395279
+        ],
+        [
+          "Manufacturing",
+          0.3553700585114854
+        ],
+        [
+          "Chemical Manufacturing",
+          0.35425781325588124
+        ],
+        [
+          "Event Planning Services",
+          0.32931747870440936
+        ]
+      ],
+      "ensemble_predictions": [
+        [
+          "Laboratory Services",
+          0.6934455174429546
+        ],
+        [
+          "Chemical Manufacturing",
+          0.38005243390745636
+        ],
+        [
+          "Bakery Production Services",
+          0.30980543158019636
+        ],
+        [
+          "Retail",
+          0.29216520825766956
+        ],
+        [
+          "E-Commerce Services",
+          0.28561379130203285
+        ]
+      ]
+    },
+    {
+      "timestamp": "2025-06-16T19:16:24.127648",
+      "company_data": {
+        "description": "Mizuki Kogyo Co., Ltd. is a Japanese company that specializes in planning and developing equipment for educational facilities, including nursery equipment such as kindergarten desks and chairs for children's care facilities. They manufacture and sell supplies, furniture, and accessories for infants, kindergarten children, primary schools, secondary schools, and high schools. The company has a long-standing experience and expertise in the education field and aims to provide safe and secure products that meet the needs of future generations. They have a focus on safety and quality and are committed to advancing in the future.",
+        "business_tags": "['Furniture and Construction Supplies', 'Teaching Materials', 'Nursery Chairs', 'Development Planning', 'Planning and Development of Nursery Equipment', 'Bike Handles', 'Kindergarten Desks and Chairs Manufacturer', 'High School Equipment Manufacturer or Supplier/manufacturer', 'Motorcycle Frames', 'Educational Equipment Manufacturing']",
+        "sector": "Manufacturing",
+        "category": "Furniture Stores",
+        "niche": "Custom Architectural Woodwork and Millwork Manufacturing"
+      },
+      "weighted_predictions": [
+        [
+          "Furniture Manufacturing",
+          0.34783287701792587
+        ],
+        [
+          "Children's Clothing Manufacturing",
+          0.31467545803989855
+        ],
+        [
+          "Agricultural Equipment Services",
+          0.2638928983775935
+        ],
+        [
+          "Fire Safety Equipment Services",
+          0.2417716395950566
+        ],
+        [
+          "Accessory Manufacturing",
+          0.23169556908982572
+        ]
+      ],
+      "few_shot_predictions": [
+        [
+          "Manufacturing",
+          0.4772293146238322
+        ],
+        [
+          "Retail",
+          0.4126863327399726
+        ],
+        [
+          "Chemical Manufacturing",
+          0.4042423734639425
+        ],
+        [
+          "Industrial Machinery Installation",
+          0.39454193666555526
+        ],
+        [
+          "Machinery Manufacturing",
+          0.35978264380131714
+        ]
+      ],
+      "ensemble_predictions": [
+        [
+          "Manufacturing",
+          0.3340605202366826
+        ],
+        [
+          "Wood Product Manufacturing",
+          0.30748222384291973
+        ],
+        [
+          "Retail",
+          0.2888804329179808
+        ],
+        [
+          "Chemical Manufacturing",
+          0.28296966142475977
+        ],
+        [
+          "Plastic Manufacturing",
+          0.26485071636815116
+        ]
+      ]
+    },
+    {
+      "timestamp": "2025-06-16T19:16:24.544184",
+      "company_data": {
+        "description": "Anhua Supply Chain Co., Ltd. is a Chinese cross-border e-commerce one-stop service platform that provides logistics, warehousing, and software services to global cross-merchandising enterprises and brand manufacturers. The company offers a full range of logistics services, including domestic and international logistics, overseas warehousing and storage, order management, and pre-sales and after-sale services. Anhua Supply chain Co.,ltd. has four major business business platforms, with over 20 domestic subsidiaries, 50 overseas branches, and more than 50 agents. The platform is committed to providing high-quality products and services, with a focus on logistics and warehousing as the foundation.",
+        "business_tags": "['Cross-border Logistics Services', 'International Logistics Services Provider', 'Warehousing Services']",
+        "sector": "Services",
+        "category": "Trucking and Logistics",
+        "niche": "General Freight Trucking, Long-Distance, Truckload"
+      },
+      "weighted_predictions": [
+        [
+          "E-Commerce Services",
+          0.3446946728365739
+        ],
+        [
+          "Textile Manufacturing Services",
+          0.303365187623032
+        ],
+        [
+          "Gas Manufacturing Services",
+          0.2912684395706781
+        ],
+        [
+          "Carpet Manufacturing Services",
+          0.2786783295650562
+        ],
+        [
+          "Business Development Services",
+          0.27709590386848176
+        ]
+      ],
+      "few_shot_predictions": [
+        [
+          "Freight Forwarding Services",
+          0.5246040116336711
+        ],
+        [
+          "Project Logistics Services",
+          0.5246040116336711
+        ],
+        [
+          "Multimodal Logistics Services",
+          0.5246040116336711
+        ],
+        [
+          "International Logistics",
+          0.5246040116336711
+        ],
+        [
+          "Manufacturing",
+          0.39533978912085055
+        ]
+      ],
+      "ensemble_predictions": [
+        [
+          "Manufacturing",
+          0.2767378523845954
+        ],
+        [
+          "Chemical Manufacturing",
+          0.2685219912304145
+        ],
+        [
+          "Retail",
+          0.2576995738359441
+        ],
+        [
+          "Industrial Machinery Installation",
+          0.2544359243858205
+        ],
+        [
+          "Consulting Services",
+          0.23796336924039757
+        ]
+      ]
+    }
+  ],
+  "model_info": {
+    "taxonomy_path": "data/input/insurance_taxonomy - insurance_taxonomy.csv",
+    "deepseek_results_path": "data/deepseek_112_batch.json",
+    "model_name": "all-MiniLM-L6-v2",
+    "created_at": "2025-06-16T19:16:50.978060"
+  }
+}

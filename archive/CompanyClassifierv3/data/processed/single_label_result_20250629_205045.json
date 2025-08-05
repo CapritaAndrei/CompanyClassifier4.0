@@ -1,0 +1,12 @@
+{
+  "label": "Publishing Services",
+  "strategy_used": "Flexible",
+  "valid_mappings": [
+    {
+      "naics_code": "512230",
+      "description": "Music Publishers",
+      "provided_description": "Music Publishers"
+    }
+  ],
+  "timestamp": "20250629_205045"
+}

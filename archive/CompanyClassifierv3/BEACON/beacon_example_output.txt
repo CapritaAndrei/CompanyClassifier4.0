@@ -1,0 +1,128 @@
+Purpose:  Illustrate fitting BEACON models, making NAICS predictions, and using cross-validation to optimize hyperparameters
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@    Fit BeaconModel    @@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Parameter and data validation
+Text cleaning (time = 1.733s)
+Dictionary creation
+[ 1/21] ..... Sector 00 (time = 3.591s)
+[ 2/21] ..... Sector 11 (time = 0.105s)
+[ 3/21] ..... Sector 21 (time = 0.094s)
+[ 4/21] ..... Sector 22 (time = 0.016s)
+[ 5/21] ..... Sector 23 (time = 0.15s)
+[ 6/21] ..... Sector 31 (time = 10.963s)
+[ 7/21] ..... Sector 42 (time = 0.547s)
+[ 8/21] ..... Sector 44 (time = 0.788s)
+[ 9/21] ..... Sector 48 (time = 0.094s)
+[10/21] ..... Sector 51 (time = 0.089s)
+[11/21] ..... Sector 52 (time = 0.064s)
+[12/21] ..... Sector 53 (time = 0.063s)
+[13/21] ..... Sector 54 (time = 0.088s)
+[14/21] ..... Sector 55 (time = 0.0s)
+[15/21] ..... Sector 56 (time = 0.078s)
+[16/21] ..... Sector 61 (time = 0.043s)
+[17/21] ..... Sector 62 (time = 0.093s)
+[18/21] ..... Sector 71 (time = 0.063s)
+[19/21] ..... Sector 72 (time = 0.699s)
+[20/21] ..... Sector 81 (time = 0.167s)
+[21/21] ..... Sector 92 (time = 0.039s)
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@    BeaconModel Summary    @@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Sample size:               41918
+Number of sectors:         20
+Number of NAICS codes:     1057
+Dictionary size:           281307
+Frequency threshold:       1
+Umbrella ensemble weight:  0.6
+Exact ensemble weight:     0.3
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@    Apply fitted BeaconModel to example business descriptions    @@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+BUSINESS DESCRIPTION               CLEAN TEXT                    PREDICTED NAICS
+--------------------               ----------                    ---------------
+blueberry farm                     blueberri farm                111334         
+residential remodeling             residenti remodel             236118         
+retail bakery                      retail bakeri                 311811         
+sporting goods manufacturing       sport good manufactur         339920         
+toy wholesaler                     toy wholesal                  423920         
+car dealer                         car dealer                    441120         
+new car dealership                 new car dealership            441110         
+apothecary                         apothecari                    446110         
+pharmacy                           pharmaci                      446110         
+convenience store                  conveni store                 445120         
+pet store                          pet store                     453910         
+commercial photography             commerci photograph           541922         
+gasoline station                   gasolin station               447110         
+gift store                         gift store                    453220         
+florist                            florist                       453110         
+consultant                         consult                       541611         
+landscaping                        landscap                      561730         
+landscape architect                landscap architect            541320         
+medical doctor                     medic doctor                  621111         
+fast food restaurant               fast food restaur             722513         
+car repair                         car repair                    811111         
+gobbledygook                       gobbledygook                                 
+
+NAICS codes with score > 0.01 for the business description 'restaurant':
+
+NAICS     SCORE
+-----     -----
+492210    0.017431492207497463
+561720    0.02150706185676149
+722511    0.4358003060020304
+722513    0.4813180151544924
+
+Top 10 highest-scoring NAICS codes for the business description 'dealer':
+
+NAICS     
+-----     
+441120    
+441110    
+441320    
+441228    
+454310    
+441222    
+444190    
+441310    
+453930    
+441210    
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@    Cross-validation example involving 'freq_thresh'          @@@@
+@@@@    with two folds and three candidate values: 1, 2, and 3    @@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Fitting 2 folds for each of 3 candidates, totalling 6 fits
+[CV 1/2] END .....................freq_thresh=1;, score=0.822 total time= 2.1min
+[CV 2/2] END .....................freq_thresh=1;, score=0.829 total time= 2.1min
+[CV 1/2] END .....................freq_thresh=2;, score=0.715 total time= 1.8min
+[CV 2/2] END .....................freq_thresh=2;, score=0.724 total time= 1.8min
+[CV 1/2] END .....................freq_thresh=3;, score=0.673 total time= 1.6min
+[CV 2/2] END .....................freq_thresh=3;, score=0.676 total time= 1.6min
+
+Cross-validation results:
+
+ATTRIBUTE            VALUE
+---------            -----
+mean_fit_time        [14.95529604 10.5337137   7.58677721]
+std_fit_time         [0.56980324 0.2869755  0.09268451]
+mean_score_time      [111.89047325  97.37061357  90.67766929]
+std_score_time       [0.3803314  1.37012815 0.6804719 ]
+param_freq_thresh    [1 2 3]
+params               [{'freq_thresh': 1}, {'freq_thresh': 2}, {'freq_thresh': 3}]
+split0_test_score    [0.82200876 0.7152611  0.67283515]
+split1_test_score    [0.82860103 0.72444319 0.67603711]
+mean_test_score      [0.82530489 0.71985214 0.67443613]
+std_test_score       [0.00329613 0.00459104 0.00160098]
+rank_test_score      [1 2 3]
+
+Best value of 'freq_thresh':  1
+Best cross-validation score:  0.8253048924047652
+

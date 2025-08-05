@@ -1,0 +1,459 @@
+{
+  "successful_mappings": {
+    "Landscaping Services": [
+      {
+        "naics_code": "561730.0",
+        "match_text": "Landscaping Services",
+        "match_type": "title"
+      }
+    ],
+    "Veterinary Services": [
+      {
+        "naics_code": "541940.0",
+        "match_text": "Veterinary Services",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "812910.0",
+        "match_text": "Pet Care (except Veterinary) Services",
+        "match_type": "title"
+      }
+    ],
+    "Sand and Gravel Mining": [
+      {
+        "naics_code": "212321.0",
+        "match_text": "Construction Sand and Gravel Mining",
+        "match_type": "title"
+      }
+    ],
+    "Interior Design Services": [
+      {
+        "naics_code": "541410.0",
+        "match_text": "Interior Design Services",
+        "match_type": "title"
+      }
+    ],
+    "Confectionery Manufacturing": [
+      {
+        "naics_code": "311340.0",
+        "match_text": "Nonchocolate Confectionery Manufacturing",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "311351.0",
+        "match_text": "Chocolate and Confectionery Manufacturing from Cacao Beans",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "311352.0",
+        "match_text": "Confectionery Manufacturing from Purchased Chocolate",
+        "match_type": "title"
+      }
+    ],
+    "Apparel Manufacturing": [
+      {
+        "naics_code": "315250.0",
+        "match_text": "Cut and Sew Apparel Manufacturing (except Contractors)",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "315990.0",
+        "match_text": "Apparel Accessories and Other Apparel Manufacturing",
+        "match_type": "title"
+      }
+    ],
+    "Accessory Manufacturing": [
+      {
+        "naics_code": "333515.0",
+        "match_text": "Cutting Tool and Machine Tool Accessory Manufacturing",
+        "match_type": "title"
+      }
+    ],
+    "Wood Product Manufacturing": [
+      {
+        "naics_code": "321219.0",
+        "match_text": "Reconstituted Wood Product Manufacturing",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "321999.0",
+        "match_text": "All Other Miscellaneous Wood Product Manufacturing",
+        "match_type": "title"
+      }
+    ],
+    "Window and Door Manufacturing": [
+      {
+        "naics_code": "321911.0",
+        "match_text": "Wood Window and Door Manufacturing",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "332321.0",
+        "match_text": "Metal Window and Door Manufacturing",
+        "match_type": "title"
+      }
+    ],
+    "Trim Manufacturing": [
+      {
+        "naics_code": "332913.0",
+        "match_text": "Plumbing Fixture Fitting and Trim Manufacturing",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "336360.0",
+        "match_text": "Motor Vehicle Seating and Interior Trim Manufacturing",
+        "match_type": "title"
+      }
+    ],
+    "Pallet Manufacturing": [
+      {
+        "naics_code": "321920.0",
+        "match_text": "Wood Container and Pallet Manufacturing",
+        "match_type": "title"
+      }
+    ],
+    "Furniture Manufacturing": [
+      {
+        "naics_code": "337121.0",
+        "match_text": "Upholstered Household Furniture Manufacturing",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "337122.0",
+        "match_text": "Nonupholstered Wood Household Furniture Manufacturing",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "337127.0",
+        "match_text": "Institutional Furniture Manufacturing",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "337211.0",
+        "match_text": "Wood Office Furniture Manufacturing",
+        "match_type": "title"
+      }
+    ],
+    "Chemical Manufacturing": [
+      {
+        "naics_code": "325110.0",
+        "match_text": "Petrochemical Manufacturing",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "325180.0",
+        "match_text": "Other Basic Inorganic Chemical Manufacturing",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "325194.0",
+        "match_text": "Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "325199.0",
+        "match_text": "All Other Basic Organic Chemical Manufacturing",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "325320.0",
+        "match_text": "Pesticide and Other Agricultural Chemical Manufacturing",
+        "match_type": "title"
+      }
+    ],
+    "Rubber Manufacturing": [
+      {
+        "naics_code": "325212.0",
+        "match_text": "Synthetic Rubber Manufacturing",
+        "match_type": "title"
+      }
+    ],
+    "Waste Management Services": [
+      {
+        "naics_code": "562998.0",
+        "match_text": "All Other Miscellaneous Waste Management Services",
+        "match_type": "title"
+      }
+    ],
+    "Environmental Consulting": [
+      {
+        "naics_code": "541620.0",
+        "match_text": "Environmental Consulting Services",
+        "match_type": "title"
+      }
+    ],
+    "Legal Services": [
+      {
+        "naics_code": "541199.0",
+        "match_text": "All Other Legal Services",
+        "match_type": "title"
+      }
+    ],
+    "Consulting Services": [
+      {
+        "naics_code": "541611.0",
+        "match_text": "Administrative Management and General Management Consulting Services",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "541612.0",
+        "match_text": "Human Resources Consulting Services",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "541613.0",
+        "match_text": "Marketing Consulting Services",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "541614.0",
+        "match_text": "Process, Physical Distribution, and Logistics Consulting Services",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "541618.0",
+        "match_text": "Other Management Consulting Services",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "541620.0",
+        "match_text": "Environmental Consulting Services",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "541690.0",
+        "match_text": "Other Scientific and Technical Consulting Services",
+        "match_type": "title"
+      }
+    ],
+    "Management Consulting": [
+      {
+        "naics_code": "541611.0",
+        "match_text": "Administrative Management and General Management Consulting Services",
+        "match_type": "title"
+      },
+      {
+        "naics_code": "541618.0",
+        "match_text": "Other Management Consulting Services",
+        "match_type": "title"
+      }
+    ],
+    "Graphic Design Services": [
+      {
+        "naics_code": "541430.0",
+        "match_text": "Graphic Design Services",
+        "match_type": "title"
+      }
+    ]
+  },
+  "failed_mappings": [
+    "Agricultural Equipment Services",
+    "Soil Nutrient Application Services",
+    "Pesticide Application Services",
+    "Ornamental Plant Nurseries",
+    "Gardening Services",
+    "Tree Services - Pruning / Removal",
+    "Veterinary Clinics",
+    "Pet Boarding Services",
+    "Animal Day Care Services",
+    "Pet Grooming Services",
+    "Animal Training Services",
+    "Veterinary Health Centers",
+    "Animal Trainers",
+    "Livestock Dealer Services",
+    "Timber Harvesting Operations",
+    "Fishing and Hunting Services",
+    "Well Maintenance Services",
+    "Field Welding Services",
+    "Residential Driveway Construction",
+    "Commercial Driveway Construction",
+    "Fencing Construction Services",
+    "Sidewalk Construction Services",
+    "Commercial Irrigation Systems",
+    "Residential Drainage Systems",
+    "Residential Snow Removal",
+    "Commercial Snow Removal",
+    "General Snow Removal Services",
+    "Land Leveling Services",
+    "Residential Drain Cleaning",
+    "Commercial Drain Cleaning",
+    "Street Cleaning Operations",
+    "Conveyor System Installation",
+    "Low-Rise Signage Installation",
+    "High-Rise Signage Installation",
+    "Tank Installation Services",
+    "Residential Communication Equipment Installation",
+    "Commercial Communication Equipment Installation",
+    "Low-Rise Glass Installation",
+    "High-Rise Glass Installation",
+    "Industrial Machinery Installation",
+    "Agricultural Machinery Installation",
+    "Grain Handling Machinery Installation",
+    "Dock and Pier Construction",
+    "Road and Highway Construction",
+    "Road Maintenance Services",
+    "Pipeline Construction Services",
+    "New Ground Pipeline Installation",
+    "Excavation Services",
+    "Residential Plumbing Services",
+    "Commercial Plumbing Services",
+    "Industrial Plumbing Services",
+    "Boiler Installation Services",
+    "Boiler Repair Services",
+    "Steam Services",
+    "Gas Installation Services",
+    "Medical Gas Installation Services",
+    "Fire Protection System Services",
+    "HVAC Installation and Service",
+    "HVAC Inspections",
+    "Air Duct Cleaning Services",
+    "Water Treatment Services",
+    "Residential Electrical Services",
+    "Commercial Electrical Services",
+    "Alarm Installation Services",
+    "Electric Line Construction",
+    "Cable Installation Services",
+    "Elevator Installation Services",
+    "Low-Rise Foundation Construction",
+    "High-Rise Foundation Construction",
+    "Precast Concrete Installation",
+    "Tilt-Up Concrete Services",
+    "Masonry Construction Services",
+    "Drywall Services",
+    "Tile Installation Services",
+    "Carpentry Services",
+    "Millwork Services",
+    "General Handyman Services",
+    "Insulation Services",
+    "Painting Services",
+    "Spray Painting Services",
+    "Flooring Installation Services",
+    "Home Staging Services",
+    "Sheet Metal Services",
+    "Welding Services",
+    "Structural Steel Erection",
+    "Non-Structural Steel Fabrication",
+    "Windows and Doors Installation",
+    "Well Drilling Services",
+    "Directional Drilling Services",
+    "Infrastructure Excavation",
+    "New Ground Excavation",
+    "Residential Roofing Services",
+    "Roofing Services with Heat Application",
+    "Waterproofing Services",
+    "Septic System Services",
+    "Building Cleaning Services",
+    "Fire Safety Equipment Services",
+    "Testing and Inspection Services",
+    "Single Family Residential Construction",
+    "Single Family Renovation Services",
+    "Multi-Family Construction Services",
+    "Apartment Renovation Services",
+    "Restoration Services",
+    "Mobile Home Construction Services",
+    "Commercial Construction Services",
+    "Commercial Renovation Services",
+    "Swimming Pool Installation Services",
+    "Swimming Pool Maintenance Services",
+    "Vacant Building Management",
+    "Vacant Land Services",
+    "Meat Processing Services",
+    "Seafood Processing Services",
+    "Dairy Production Services",
+    "Frozen Food Processing",
+    "Ice Production Services",
+    "Canning Services",
+    "Animal Feed Manufacturing",
+    "Pet Food Manufacturing",
+    "Grain Processing Services",
+    "Coffee Processing Services",
+    "Seed Processing Services",
+    "Bakery Production Services",
+    "Distilling Services",
+    "Brewery Operations",
+    "Non-Alcoholic Beverage Manufacturing",
+    "Oil and Fat Manufacturing",
+    "Rendering Services",
+    "Textile Manufacturing Services",
+    "Carpet Manufacturing Services",
+    "Children's Clothing Manufacturing",
+    "Window Treatment Manufacturing",
+    "Canvas Manufacturing",
+    "Rope Production Services",
+    "Tent Manufacturing Services",
+    "Cabinetry Manufacturing",
+    "Bedding Manufacturing",
+    "Paper Production Services",
+    "Stationery Manufacturing",
+    "Publishing Services",
+    "Printing Services",
+    "Gas Manufacturing Services",
+    "Ink Production Services",
+    "Plastic Manufacturing",
+    "Cosmetic Manufacturing",
+    "Soap Production Services",
+    "Asphalt Production Services",
+    "Plastic Signage Production",
+    "Media Production Services",
+    "Software Manufacturing",
+    "Food Processing Services",
+    "Pharmaceutical Manufacturing",
+    "Laboratory Services",
+    "Recycling Services",
+    "Property Management Services",
+    "Real Estate Services",
+    "Insurance Services",
+    "Financial Services",
+    "Marketing Services",
+    "Human Resources Services",
+    "Business Development Services",
+    "Project Management Services",
+    "Technology Consulting",
+    "Software Development Services",
+    "Data Analysis Services",
+    "Market Research Services",
+    "Strategic Planning Services",
+    "Training Services",
+    "Public Relations Services",
+    "Event Planning Services",
+    "Catering Services",
+    "Travel Services",
+    "Digital Marketing Services",
+    "E-Commerce Services",
+    "Online Marketing Services",
+    "Content Creation Services",
+    "Website Development Services",
+    "SEO Services",
+    "Social Media Services",
+    "Branding Services",
+    "Advertising Services",
+    "Corporate Training Services",
+    "Health and Safety Consulting",
+    "Food Safety Services",
+    "Quality Assurance Services",
+    "Compliance Services",
+    "Environmental Health Services",
+    "Risk Assessment Services",
+    "Crisis Management Services",
+    "Community Engagement Services",
+    "Stakeholder Services",
+    "Corporate Responsibility Services",
+    "Fundraising Services",
+    "Volunteer Services",
+    "Non-Profit Management",
+    "Arts Services",
+    "Sports Management Services",
+    "Fitness Coaching",
+    "Health Promotion Services",
+    "Physical Therapy Services",
+    "Occupational Health Services"
+  ],
+  "statistics": {
+    "total_labels": 220,
+    "successful_mappings": 20,
+    "failed_mappings": 200,
+    "success_rate": 0.09090909090909091,
+    "total_matches": 41,
+    "average_matches_per_label": 2.05
+  }
+}

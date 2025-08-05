@@ -1,0 +1,282 @@
+true_label,true_domain,pred_label,pred_confidence,pred_domain,domain_conf,correct,top3_correct,top5_correct,domain_correct,fuzzy_matches,method,sector,category
+Environmental Consulting,Unknown,Environmental Consulting,0.8646215319633483,Professional Services,0.0,True,True,True,False,5,ensemble,Manufacturing,Farms & Agriculture Production
+Environmental Consulting,Unknown,Testing and Inspection Services,0.5399199724197388,Professional Services,0.0,False,True,True,False,5,ensemble,Services,Environmental Engineering Services
+Environmental Consulting,Unknown,Consulting Services,0.3101354598999023,Professional Services,0.0,False,True,True,False,4,ensemble,Manufacturing,Water Supply & Water Treatment
+Laboratory Services,Unknown,Laboratory Services,0.7281210422515869,Professional Services,0.0,True,True,True,False,5,ensemble,Services,Medical Laboratories
+Laboratory Services,Unknown,Laboratory Services,0.7397820949554443,Professional Services,0.0,True,True,True,False,5,ensemble,Manufacturing,Dental Laboratory
+Laboratory Services,Unknown,Laboratory Services,0.8023403286933899,Professional Services,0.0,True,True,True,False,4,ensemble,Manufacturing,Laboratory Equipment & Supplies
+Laboratory Services,Unknown,Chemical Manufacturing,0.5626734867691994,Manufacturing & Production,0.0,False,False,True,False,5,ensemble,Wholesale,Laboratory Equipment & Supplies
+Commercial Communication Equipment Installation,Unknown,Alarm Installation Services,0.6208280918498834,Professional Services,0.0,False,False,False,False,5,ensemble,Services,Tech Companies
+Commercial Communication Equipment Installation,Unknown,Alarm Installation Services,0.6398152569929758,Professional Services,0.0,False,False,False,False,5,ensemble,Services,Telecommunications
+Commercial Communication Equipment Installation,Unknown,Financial Services,0.2973794460296631,Manufacturing & Production,0.0,False,True,True,False,5,ensemble,Services,"Alarms, Surveillance & Security Systems"
+Media Production Services,Unknown,Plastic Manufacturing,0.21461310088634492,Manufacturing & Production,0.0,False,True,True,False,5,ensemble,Services,Video and Audio Production
+Furniture Manufacturing,Unknown,Furniture Manufacturing,0.6598795056343079,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Furniture Stores
+Furniture Manufacturing,Unknown,Textile Manufacturing Services,0.7228512167930603,Manufacturing & Production,0.0,False,True,True,False,5,ensemble,Manufacturing,Furniture Stores
+Furniture Manufacturing,Unknown,Furniture Manufacturing,0.6598795056343079,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Furniture Stores
+Furniture Manufacturing,Unknown,Furniture Manufacturing,1.0,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Furniture Stores
+Furniture Manufacturing,Unknown,Furniture Manufacturing,0.8957728147506714,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Furniture Stores
+Furniture Manufacturing,Unknown,Furniture Manufacturing,0.5914351403713226,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Furniture Stores
+Furniture Manufacturing,Unknown,Furniture Manufacturing,0.6598795056343079,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Furniture Stores
+Furniture Manufacturing,Unknown,Furniture Manufacturing,0.7935412526130676,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Office Furniture
+Livestock Dealer Services,Unknown,Livestock Dealer Services,0.9620968699455261,Professional Services,0.0,True,True,True,False,5,ensemble,Manufacturing,Livestock & Animal Raising
+Livestock Dealer Services,Unknown,Livestock Dealer Services,0.9587998390197754,Professional Services,0.0,True,True,True,False,5,ensemble,Manufacturing,Livestock & Animal Raising
+Livestock Dealer Services,Unknown,Livestock Dealer Services,0.44312338531017303,Professional Services,0.0,True,True,True,False,5,ensemble,Wholesale,Livestock & Animal Raising
+Livestock Dealer Services,Unknown,Livestock Dealer Services,0.8109591603279114,Professional Services,0.0,True,True,True,False,0,ensemble,Wholesale,Livestock & Animal Raising
+Livestock Dealer Services,Unknown,Livestock Dealer Services,0.805290937423706,Professional Services,0.0,True,True,True,False,0,ensemble,Wholesale,Livestock & Animal Raising
+Livestock Dealer Services,Unknown,Livestock Dealer Services,0.8120623230934143,Professional Services,0.0,True,True,True,False,0,ensemble,Manufacturing,Livestock & Animal Raising
+Livestock Dealer Services,Unknown,Livestock Dealer Services,0.9620968699455261,Professional Services,0.0,True,True,True,False,5,ensemble,Manufacturing,Livestock & Animal Raising
+Carpentry Services,Unknown,Commercial Construction Services,0.6128464341163635,Construction & Real Estate,0.0,False,True,True,False,5,ensemble,Services,Roofing Contractors
+Marketing Services,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Services,Real Estate Rental
+Frozen Food Processing,Unknown,Frozen Food Processing,0.8294215798377991,Manufacturing & Production,0.0,True,True,True,False,0,ensemble,Manufacturing,Fruit & Vegetable - Markets & Stores
+Frozen Food Processing,Unknown,Frozen Food Processing,0.9420632719993591,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Wholesale,Fruit & Vegetable - Markets & Stores
+Frozen Food Processing,Unknown,Frozen Food Processing,0.29450435042381284,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Ice Cream
+Frozen Food Processing,Unknown,Frozen Food Processing,1.0,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Fruit & Vegetable - Markets & Stores
+Alarm Installation Services,Unknown,Alarm Installation Services,0.6162195801734924,Professional Services,0.0,True,True,True,False,1,ensemble,Services,"Alarms, Surveillance & Security Systems"
+Commercial Construction Services,Unknown,Commercial Construction Services,0.9768648743629456,Construction & Real Estate,0.0,True,True,True,False,5,ensemble,Manufacturing,Paper & Cardboard Products
+Property Management Services,Unknown,Property Management Services,0.928294837474823,Construction & Real Estate,0.0,True,True,True,False,5,ensemble,Non Profit,Real Estate Associations
+Property Management Services,Unknown,Non-Profit Management,0.6303108930587769,Professional Services,0.0,False,False,False,False,5,ensemble,Services,Homelessness Shelter
+Property Management Services,Unknown,Property Management Services,0.928294837474823,Construction & Real Estate,0.0,True,True,True,False,5,ensemble,Non Profit,Real Estate Associations
+Financial Services,Unknown,Financial Services,1.0,Financial Services,0.0,True,True,True,False,5,ensemble,Services,Loans & Financing
+Financial Services,Unknown,Financial Services,1.0,Financial Services,0.0,True,True,True,False,5,ensemble,Services,Cryptocurrency
+Financial Services,Unknown,Legal Services,0.41200685501098633,Professional Services,0.0,False,False,True,False,0,ensemble,Services,Money Transfer
+Financial Services,Unknown,Financial Services,1.0,Financial Services,0.0,True,True,True,False,5,ensemble,Services,Credit Reporting Services
+Financial Services,Unknown,Financial Services,1.0,Financial Services,0.0,True,True,True,False,5,ensemble,Services,Retirement Planning
+Financial Services,Unknown,Financial Services,1.0,Financial Services,0.0,True,True,True,False,5,ensemble,Services,"Insurance - Agents, Carriers & Brokers"
+Financial Services,Unknown,Financial Services,0.8492268919944763,Financial Services,0.0,True,True,True,False,5,ensemble,Services,Mortgage Brokers
+Financial Services,Unknown,Human Resources Services,0.5886983156204223,Professional Services,0.0,False,False,True,False,5,ensemble,Services,Accounting & Bookkeeping Services
+Financial Services,Unknown,Financial Services,1.0,Financial Services,0.0,True,True,True,False,5,ensemble,Services,Credit Reporting Services
+Financial Services,Unknown,Financial Services,1.0,Financial Services,0.0,True,True,True,False,5,ensemble,Services,Credit Reporting Services
+Financial Services,Unknown,Consulting Services,0.6559343338012695,Professional Services,0.0,False,True,True,False,3,ensemble,Services,Investment Consultants & Financial Advisors
+Financial Services,Unknown,Financial Services,1.0,Financial Services,0.0,True,True,True,False,5,ensemble,Services,"Insurance - Agents, Carriers & Brokers"
+Financial Services,Unknown,Financial Services,1.0,Financial Services,0.0,True,True,True,False,5,ensemble,Services,Credit Unions & Savings Institutions
+Financial Services,Unknown,Financial Services,1.0,Financial Services,0.0,True,True,True,False,5,ensemble,Services,Credit Unions & Savings Institutions
+Financial Services,Unknown,Financial Services,0.8492268919944763,Financial Services,0.0,True,True,True,False,5,ensemble,Services,Mortgage Brokers
+Financial Services,Unknown,Financial Services,0.8492268919944763,Financial Services,0.0,True,True,True,False,5,ensemble,Services,Mortgage Brokers
+Financial Services,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Services,Cryptocurrency
+Financial Services,Unknown,Financial Services,1.0,Financial Services,0.0,True,True,True,False,5,ensemble,Services,Investment Firms & Venture Capital
+Single Family Residential Construction,Unknown,Wood Product Manufacturing,0.3559543043375015,Manufacturing & Production,0.0,False,False,False,False,5,ensemble,Manufacturing,Wood Building Material Stores
+Recycling Services,Unknown,Recycling Services,0.47409204244613645,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,"Minerals, Earths & Ores"
+Pharmaceutical Manufacturing,Unknown,Pharmaceutical Manufacturing,0.7794509530067444,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Pharmaceutical Products
+Confectionery Manufacturing,Unknown,Confectionery Manufacturing,0.8394687175750732,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Bakeries & Desserts
+Industrial Machinery Installation,Unknown,Chemical Manufacturing,0.5898558677898513,Manufacturing & Production,0.0,False,True,True,False,5,ensemble,Manufacturing,Heavy Construction Equipment
+Industrial Machinery Installation,Unknown,Industrial Machinery Installation,0.2743990957736969,Manufacturing & Production,0.0,True,True,True,False,1,ensemble,Manufacturing,Industrial Machinery & Supplies
+Industrial Machinery Installation,Unknown,Industrial Machinery Installation,0.5888552725315094,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Industrial Machinery & Supplies
+Industrial Machinery Installation,Unknown,Furniture Manufacturing,0.36845215857028957,Manufacturing & Production,0.0,False,True,True,False,5,ensemble,Manufacturing,Industrial Machinery & Supplies
+Industrial Machinery Installation,Unknown,Industrial Machinery Installation,0.5914527237415313,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Industrial Machinery & Supplies
+Community Engagement Services,Unknown,Community Engagement Services,0.8096186518669128,Professional Services,0.0,True,True,True,False,0,ensemble,Government,"Executive, Legislative & Government Institutions"
+Community Engagement Services,Unknown,Human Resources Services,0.4150238037109375,Professional Services,0.0,False,False,False,False,0,ensemble,Non Profit,Domestic Violence NGOs
+Community Engagement Services,Unknown,Community Engagement Services,0.7938306927680969,Professional Services,0.0,True,True,True,False,0,ensemble,Government,"Executive, Legislative & Government Institutions"
+Chemical Manufacturing,Unknown,Chemical Manufacturing,0.5688585788011551,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Chemicals
+Chemical Manufacturing,Unknown,Pharmaceutical Manufacturing,0.3625369638204574,Manufacturing & Production,0.0,False,True,True,False,5,ensemble,Manufacturing,Chemicals
+Chemical Manufacturing,Unknown,Plastic Manufacturing,0.3488453984260559,Manufacturing & Production,0.0,False,False,True,False,5,ensemble,Manufacturing,Chemicals
+Chemical Manufacturing,Unknown,Chemical Manufacturing,0.7985433340072632,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Chemicals
+Chemical Manufacturing,Unknown,Chemical Manufacturing,0.5950371086597442,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Chemicals
+Chemical Manufacturing,Unknown,Chemical Manufacturing,0.8980055451393127,Manufacturing & Production,0.0,True,True,True,False,4,ensemble,Manufacturing,Chemicals
+Chemical Manufacturing,Unknown,Chemical Manufacturing,0.7831453680992126,Manufacturing & Production,0.0,True,True,True,False,0,ensemble,Manufacturing,Chemicals
+Chemical Manufacturing,Unknown,Agricultural Equipment Services,0.7070903182029724,Manufacturing & Production,0.0,False,True,True,False,5,ensemble,Manufacturing,Chemicals
+Chemical Manufacturing,Unknown,Chemical Manufacturing,0.8491279482841492,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Chemicals
+Chemical Manufacturing,Unknown,Chemical Manufacturing,0.8491279482841492,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Chemicals
+Chemical Manufacturing,Unknown,Chemical Manufacturing,1.0,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Chemicals
+Chemical Manufacturing,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Manufacturing,Plastics Products
+Chemical Manufacturing,Unknown,Chemical Manufacturing,0.5688585788011551,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Chemicals
+Chemical Manufacturing,Unknown,Chemical Manufacturing,0.8491279482841492,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Chemicals
+Publishing Services,Unknown,Advertising Services,0.46161776781082153,Professional Services,0.0,False,False,False,False,1,ensemble,Services,Newspapers & Magazines
+Publishing Services,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Manufacturing,Livestock & Animal Raising
+Publishing Services,Unknown,Publishing Services,0.5830643236637115,Professional Services,0.0,True,True,True,False,0,ensemble,Manufacturing,Livestock & Animal Raising
+Fire Protection System Services,Unknown,Fire Protection System Services,1.0,Software & Technology,0.0,True,True,True,False,5,ensemble,Services,"Alarms, Surveillance & Security Systems"
+Wood Product Manufacturing,Unknown,Furniture Manufacturing,0.48995086550712585,Manufacturing & Production,0.0,False,False,True,False,5,ensemble,Manufacturing,Musical Instruments & Music Stores
+Wood Product Manufacturing,Unknown,Wood Product Manufacturing,0.3554202377796173,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Wholesale,Renewable energy companies
+Wood Product Manufacturing,Unknown,Furniture Manufacturing,0.8386431336402893,Manufacturing & Production,0.0,False,False,True,False,5,ensemble,Manufacturing,Wood Building Material Stores
+Wood Product Manufacturing,Unknown,Wood Product Manufacturing,0.7684537172317505,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Building Material Manufacturers
+Wood Product Manufacturing,Unknown,Textile Manufacturing Services,0.5079323649406433,Manufacturing & Production,0.0,False,True,True,False,1,ensemble,Manufacturing,Wood Building Material Stores
+Event Planning Services,Unknown,Event Planning Services,0.6220557689666748,Professional Services,0.0,True,True,True,False,5,ensemble,Manufacturing,Oil & Gas - Extraction & Distribution
+Event Planning Services,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Services,Party Rentals
+E-Commerce Services,Unknown,Textile Manufacturing Services,0.45344454050064087,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Manufacturing,Industrial Air Solutions
+E-Commerce Services,Unknown,Content Creation Services,0.28608853220939634,Professional Services,0.0,False,True,True,False,0,ensemble,Retail,Book Stores
+E-Commerce Services,Unknown,E-Commerce Services,0.790181577205658,Retail & Commerce,0.0,True,True,True,False,5,ensemble,Wholesale,Paper & Cardboard Products
+E-Commerce Services,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Manufacturing,Farms & Agriculture Production
+E-Commerce Services,Unknown,E-Commerce Services,0.9485197067260742,Retail & Commerce,0.0,True,True,True,False,1,ensemble,Retail,Electronics Stores
+E-Commerce Services,Unknown,E-Commerce Services,0.5555848836898803,Retail & Commerce,0.0,True,True,True,False,5,ensemble,Retail,Groceries
+Non-Profit Management,Unknown,Consulting Services,0.2454165816307068,Professional Services,0.0,False,False,True,False,0,ensemble,Non Profit,Social Services & NGOs
+Non-Profit Management,Unknown,Non-Profit Management,0.9205087532599767,Professional Services,0.0,True,True,True,False,5,ensemble,Non Profit,Social Services & NGOs
+Human Resources Services,Unknown,Human Resources Services,0.7592889070510864,Professional Services,0.0,True,True,True,False,5,ensemble,Services,Employment Agencies & HR Consulting
+Water Treatment Services,Unknown,Waste Management Services,1.0,Professional Services,0.0,False,True,True,False,5,ensemble,Government,"Executive, Legislative & Government Institutions"
+Technology Consulting,Unknown,Commercial Electrical Services,0.30662122964859007,Professional Services,0.0,False,False,False,False,5,ensemble,Government,"Executive, Legislative & Government Institutions"
+Technology Consulting,Unknown,Commercial Electrical Services,0.6343088150024414,Professional Services,0.0,False,False,False,False,5,ensemble,Manufacturing,Electronical Components Manufacturing
+Training Services,Unknown,Training Services,0.9866068959236145,Education & Training,0.0,True,True,True,False,5,ensemble,Government,Police & Sheriffs
+Training Services,Unknown,Training Services,0.5943598002195357,Education & Training,0.0,True,True,True,False,0,ensemble,Education,Dance Schools
+Training Services,Unknown,Training Services,1.0,Education & Training,0.0,True,True,True,False,5,ensemble,Manufacturing,Auto Parts Manufacturers
+Training Services,Unknown,Training Services,0.8871933221817017,Education & Training,0.0,True,True,True,False,2,ensemble,Education,Computer Training Schools
+Training Services,Unknown,Training Services,0.8759243190288544,Education & Training,0.0,True,True,True,False,1,ensemble,Education,Beauty Schools
+Training Services,Unknown,Training Services,1.0,Education & Training,0.0,True,True,True,False,5,ensemble,Non Profit,Social Services & NGOs
+Training Services,Unknown,Training Services,0.5853454053401946,Education & Training,0.0,True,True,True,False,5,ensemble,Education,Colleges & Universities
+Training Services,Unknown,Training Services,0.9059099555015564,Education & Training,0.0,True,True,True,False,1,ensemble,Services,Occupational Therapy
+Training Services,Unknown,Training Services,0.9247023463249207,Education & Training,0.0,True,True,True,False,5,ensemble,Education,Computer Training Schools
+Training Services,Unknown,Training Services,0.9866068959236145,Education & Training,0.0,True,True,True,False,5,ensemble,Government,Police & Sheriffs
+Training Services,Unknown,Training Services,0.7248424291610718,Education & Training,0.0,True,True,True,False,5,ensemble,Education,Religious Schools
+Training Services,Unknown,Training Services,1.0,Education & Training,0.0,True,True,True,False,5,ensemble,Education,Flight Training
+Training Services,Unknown,Training Services,0.8048524856567383,Education & Training,0.0,True,True,True,False,5,ensemble,Services,Other Engineering Services
+Training Services,Unknown,Training Services,0.5006769299507141,Education & Training,0.0,True,True,True,False,2,ensemble,Education,"Learning, Tutoring & Courses"
+Training Services,Unknown,Financial Services,1.0,Financial Services,0.0,False,False,False,False,5,ensemble,Services,Retirement Planning
+Legal Services,Unknown,Seafood Processing Services,0.31489628255367275,Professional Services,0.0,False,True,True,False,5,ensemble,Government,Courthouses
+Legal Services,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Services,Notaries
+Legal Services,Unknown,Legal Services,1.0,Professional Services,0.0,True,True,True,False,5,ensemble,Non Profit,Social Services & NGOs
+Legal Services,Unknown,Training Services,0.40501642908368796,Professional Services,0.0,False,True,True,False,5,ensemble,Government,Courthouses
+Consulting Services,Unknown,Consulting Services,1.0,Professional Services,0.0,True,True,True,False,5,ensemble,Education,Educational Consultants
+Consulting Services,Unknown,Consulting Services,1.0,Professional Services,0.0,True,True,True,False,5,ensemble,Education,Educational Consultants
+Consulting Services,Unknown,Consulting Services,0.986649152636528,Professional Services,0.0,True,True,True,False,5,ensemble,Services,Trucking and Logistics
+Consulting Services,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Education,Colleges & Universities
+Consulting Services,Unknown,Financial Services,0.6670839786529541,Financial Services,0.0,False,False,False,False,5,ensemble,Manufacturing,Paper & Cardboard Products
+Software Development Services,Unknown,Software Development Services,0.5936315029859542,Software & Technology,0.0,True,True,True,False,5,ensemble,Government,Courthouses
+Software Development Services,Unknown,Data Analysis Services,0.5186077356338501,Professional Services,0.0,False,True,True,False,5,ensemble,Services,Medical Research
+Software Development Services,Unknown,Environmental Consulting,0.31329057216644285,Professional Services,0.0,False,False,False,False,5,ensemble,Government,"Executive, Legislative & Government Institutions"
+Software Development Services,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Services,Art & Music Publishers
+Software Development Services,Unknown,Software Development Services,0.9582845106720925,Software & Technology,0.0,True,True,True,False,5,ensemble,Manufacturing,Electronical Components Manufacturing
+Software Development Services,Unknown,Software Development Services,0.9582845106720925,Software & Technology,0.0,True,True,True,False,5,ensemble,Manufacturing,Electronical Components Manufacturing
+Volunteer Services,Unknown,Volunteer Services,0.9438291788101196,Professional Services,0.0,True,True,True,False,3,ensemble,Government,Fire Departments & Fire Protection
+Agricultural Equipment Services,Unknown,Veterinary Services,0.8396127223968506,Healthcare & Medical,0.0,False,False,False,False,5,ensemble,Manufacturing,Farms & Agriculture Production
+Agricultural Equipment Services,Unknown,Veterinary Services,0.8396127223968506,Healthcare & Medical,0.0,False,False,False,False,5,ensemble,Manufacturing,Farms & Agriculture Production
+Agricultural Equipment Services,Unknown,Environmental Consulting,0.8646215319633483,Professional Services,0.0,False,False,False,False,5,ensemble,Manufacturing,Farms & Agriculture Production
+Dock and Pier Construction,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Services,Civil Engineering Services
+Soap Production Services,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Manufacturing,Religious Goods
+Food Processing Services,Unknown,Food Processing Services,0.8054690957069397,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Fruit & Vegetable - Markets & Stores
+Food Processing Services,Unknown,Food Processing Services,0.767842710018158,Manufacturing & Production,0.0,True,True,True,False,1,ensemble,Wholesale,Fruit & Vegetable - Markets & Stores
+Food Processing Services,Unknown,Food Processing Services,0.767842710018158,Manufacturing & Production,0.0,True,True,True,False,1,ensemble,Wholesale,Fruit & Vegetable - Markets & Stores
+Food Processing Services,Unknown,Food Processing Services,0.5970602393150329,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Farms & Agriculture Production
+Food Processing Services,Unknown,Canning Services,0.8193576335906982,Professional Services,0.0,False,True,True,False,5,ensemble,Manufacturing,Fruit & Vegetable - Markets & Stores
+Food Processing Services,Unknown,Canning Services,0.8291636109352112,Professional Services,0.0,False,True,True,False,2,ensemble,Manufacturing,Fruit & Vegetable - Markets & Stores
+Food Processing Services,Unknown,Frozen Food Processing,0.9331899285316467,Manufacturing & Production,0.0,False,True,True,False,5,ensemble,Manufacturing,Fruit & Vegetable - Markets & Stores
+Food Processing Services,Unknown,Pharmaceutical Manufacturing,0.6306585073471069,Manufacturing & Production,0.0,False,True,True,False,5,ensemble,Manufacturing,Farms & Agriculture Production
+Food Processing Services,Unknown,Frozen Food Processing,0.7183916568756104,Manufacturing & Production,0.0,False,True,True,False,5,ensemble,Manufacturing,Fruit & Vegetable - Markets & Stores
+Plastic Manufacturing,Unknown,Plastic Manufacturing,0.8839908242225647,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Plastics Products
+Plastic Manufacturing,Unknown,Plastic Manufacturing,1.0,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Plastics Products
+Plastic Manufacturing,Unknown,Plastic Manufacturing,1.0,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Wholesale,Plastics Products
+Plastic Manufacturing,Unknown,Textile Manufacturing Services,0.9057762026786804,Manufacturing & Production,0.0,False,True,True,False,5,ensemble,Manufacturing,Fabric-Based Home Goods
+Plastic Manufacturing,Unknown,Plastic Manufacturing,1.0,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Plastics Products
+Plastic Manufacturing,Unknown,Accessory Manufacturing,0.5502971410751343,Manufacturing & Production,0.0,False,False,False,False,1,ensemble,Manufacturing,"Minerals, Earths & Ores"
+Plastic Manufacturing,Unknown,Plastic Manufacturing,0.4935022294521332,Professional Services,0.0,True,True,True,False,5,ensemble,Manufacturing,"Pipes, Tubes, Fittings & Valves"
+Plastic Manufacturing,Unknown,Plastic Manufacturing,0.5860593974590301,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Plastics Products
+Plastic Manufacturing,Unknown,Chemical Manufacturing,0.39184512645006175,Manufacturing & Production,0.0,False,True,True,False,5,ensemble,Wholesale,Adhesives & Sealants
+Plastic Manufacturing,Unknown,Plastic Manufacturing,0.9244817841798068,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Plastics Products
+Plastic Manufacturing,Unknown,Plastic Manufacturing,1.0,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Injection Molding Services
+Plastic Manufacturing,Unknown,Plastic Manufacturing,0.5727925658226013,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Plastics Products
+Real Estate Services,Unknown,Real Estate Services,0.8509010672569275,Construction & Real Estate,0.0,True,True,True,False,5,ensemble,Services,Mortgage Brokers
+Real Estate Services,Unknown,Real Estate Services,1.0,Construction & Real Estate,0.0,True,True,True,False,5,ensemble,Services,Real Estate - Agents & Managers
+Real Estate Services,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Retail,"Motor Homes, Trailers & RVs - Dealers & Rentals"
+Seafood Processing Services,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Retail,"Meat, Fish & Seafood Stores"
+Health Promotion Services,Unknown,Laboratory Services,0.30745269060134883,Professional Services,0.0,False,False,False,False,5,ensemble,Services,Podiatrists
+Health Promotion Services,Unknown,Health Promotion Services,0.5886261999607085,Healthcare & Medical,0.0,True,True,True,False,5,ensemble,Non Profit,Social Services & NGOs
+Health Promotion Services,Unknown,Fundraising Services,0.8073460459709167,Professional Services,0.0,False,False,False,False,5,ensemble,Non Profit,Social Services & NGOs
+Textile Manufacturing Services,Unknown,Textile Manufacturing Services,1.0,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Fabric-Based Home Goods
+Textile Manufacturing Services,Unknown,Textile Manufacturing Services,0.7729509472846985,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Fabric-Based Home Goods
+Textile Manufacturing Services,Unknown,Textile Manufacturing Services,0.9820001721382141,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Fabric-Based Home Goods
+Textile Manufacturing Services,Unknown,Textile Manufacturing Services,0.7729509472846985,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Fabric-Based Home Goods
+Textile Manufacturing Services,Unknown,Apparel Manufacturing,0.8500404953956604,Software & Technology,0.0,False,False,False,False,5,ensemble,Manufacturing,Fabric-Based Home Goods
+Textile Manufacturing Services,Unknown,Textile Manufacturing Services,0.7729509472846985,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Fabric-Based Home Goods
+Textile Manufacturing Services,Unknown,Textile Manufacturing Services,0.6602940559387207,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Fabric-Based Home Goods
+Textile Manufacturing Services,Unknown,Furniture Manufacturing,0.7713949084281921,Manufacturing & Production,0.0,False,True,True,False,5,ensemble,Manufacturing,Fabric-Based Home Goods
+Textile Manufacturing Services,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,True,True,True,False,0,ensemble,Manufacturing,Fabric-Based Home Goods
+Textile Manufacturing Services,Unknown,Textile Manufacturing Services,0.9820001721382141,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Fabric-Based Home Goods
+Rubber Manufacturing,Unknown,Plastic Manufacturing,0.5672125220298767,Manufacturing & Production,0.0,False,False,False,False,3,ensemble,Manufacturing,Fabricated Rubber Products
+Insurance Services,Unknown,Insurance Services,0.5740965366363525,Financial Services,0.0,True,True,True,False,5,ensemble,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,Unknown,Insurance Services,1.0,Financial Services,0.0,True,True,True,False,5,ensemble,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,Unknown,Insurance Services,0.5740965366363525,Financial Services,0.0,True,True,True,False,5,ensemble,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,Unknown,Website Development Services,0.45631057024002075,Manufacturing & Production,0.0,False,True,True,False,5,ensemble,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,Unknown,Insurance Services,1.0,Financial Services,0.0,True,True,True,False,5,ensemble,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,Unknown,Insurance Services,0.9529228806495667,Financial Services,0.0,True,True,True,False,1,ensemble,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,Unknown,Insurance Services,1.0,Financial Services,0.0,True,True,True,False,5,ensemble,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,Unknown,Insurance Services,0.9529228806495667,Financial Services,0.0,True,True,True,False,1,ensemble,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,Unknown,Insurance Services,1.0,Financial Services,0.0,True,True,True,False,5,ensemble,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,Unknown,Insurance Services,1.0,Financial Services,0.0,True,True,True,False,5,ensemble,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,Unknown,Insurance Services,0.9114771485328674,Financial Services,0.0,True,True,True,False,1,ensemble,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,Unknown,Insurance Services,1.0,Financial Services,0.0,True,True,True,False,5,ensemble,Services,"Insurance - Agents, Carriers & Brokers"
+Insurance Services,Unknown,Insurance Services,1.0,Financial Services,0.0,True,True,True,False,5,ensemble,Services,"Insurance - Agents, Carriers & Brokers"
+Content Creation Services,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Manufacturing,Paper & Cardboard Products
+Content Creation Services,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Manufacturing,Fabric-Based Home Goods
+Content Creation Services,Unknown,Financial Services,0.5942937135696411,Professional Services,0.0,False,True,True,False,5,ensemble,Services,Loans & Financing
+Content Creation Services,Unknown,Financial Services,0.5942937135696411,Professional Services,0.0,False,True,True,False,5,ensemble,Services,Loans & Financing
+HVAC Installation and Service,Unknown,Commercial Electrical Services,0.3933546543121338,Manufacturing & Production,0.0,False,False,False,False,5,ensemble,Wholesale,Industrial Air Solutions
+HVAC Installation and Service,Unknown,HVAC Installation and Service,0.542760705947876,Professional Services,0.0,True,True,True,False,5,ensemble,Wholesale,Industrial Air Solutions
+Well Drilling Services,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Manufacturing,Oil & Gas - Extraction & Distribution
+Bakery Production Services,Unknown,Food Processing Services,0.659381628036499,Manufacturing & Production,0.0,False,False,False,False,5,ensemble,Manufacturing,Fruit & Vegetable - Markets & Stores
+Non-Structural Steel Fabrication,Unknown,Industrial Machinery Installation,0.38839956820011134,Manufacturing & Production,0.0,False,False,False,False,5,ensemble,Manufacturing,Electric Supplies & Power Generation
+Meat Processing Services,Unknown,Meat Processing Services,0.8609766960144043,Manufacturing & Production,0.0,True,True,True,False,1,ensemble,Wholesale,Meat Production & Processing
+Catering Services,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Services,Coffee & Tea Shops
+Website Development Services,Unknown,Website Development Services,0.8172940611839294,Software & Technology,0.0,True,True,True,False,0,ensemble,Education,Educational Consultants
+Website Development Services,Unknown,Website Development Services,1.0,Software & Technology,0.0,True,True,True,False,5,ensemble,Services,Garbage Collection & Waste Disposal
+Rope Production Services,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Manufacturing,Fabric-Based Home Goods
+Non-Alcoholic Beverage Manufacturing,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,Manufacturing,Beverages & Refreshments
+Advertising Services,Unknown,Content Creation Services,1.0,Professional Services,0.0,False,False,True,False,5,ensemble,Manufacturing,Farms & Agriculture Production
+Travel Services,Unknown,Financial Services,0.317020446062088,Professional Services,0.0,False,False,False,False,5,ensemble,Services,"Buses, Shuttles & Local Transit"
+Pipeline Construction Services,Unknown,Textile Manufacturing Services,0.6506260514259339,Manufacturing & Production,0.0,False,False,False,False,0,ensemble,,
+Multi-Family Construction Services,Unknown,Commercial Construction Services,0.44833815693855283,Construction & Real Estate,0.0,False,False,False,False,5,ensemble,Services,Roofing Contractors
+Cosmetic Manufacturing,Unknown,Cosmetic Manufacturing,0.7577448374695248,Manufacturing & Production,0.0,True,True,True,False,1,ensemble,Wholesale,CBD and Medical Marijuana
+Compliance Services,Unknown,Compliance Services,0.5817660450935364,Professional Services,0.0,True,True,True,False,5,ensemble,Government,"Executive, Legislative & Government Institutions"
+Compliance Services,Unknown,Environmental Consulting,0.5845699369907379,Professional Services,0.0,False,True,True,False,5,ensemble,Government,"Executive, Legislative & Government Institutions"
+Commercial Electrical Services,Unknown,Residential Electrical Services,0.8103294372558594,Professional Services,0.0,False,True,True,False,5,ensemble,Services,Electrical & Wiring Contractors
+Cable Installation Services,Unknown,Commercial Construction Services,0.44522690773010254,Professional Services,0.0,False,False,False,False,5,ensemble,Services,Construction Services
+Sand and Gravel Mining,Unknown,Sand and Gravel Mining,0.5797077775001526,Other Services,0.0,True,True,True,False,5,ensemble,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,Unknown,Sand and Gravel Mining,0.9116916060447693,Other Services,0.0,True,True,True,False,1,ensemble,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,Unknown,Sand and Gravel Mining,0.7307046194871267,Other Services,0.0,True,True,True,False,0,ensemble,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,Unknown,Sand and Gravel Mining,0.5874001145362854,Other Services,0.0,True,True,True,False,5,ensemble,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,Unknown,Sand and Gravel Mining,0.9700084328651428,Other Services,0.0,True,True,True,False,4,ensemble,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,Unknown,Sand and Gravel Mining,0.5874001145362854,Other Services,0.0,True,True,True,False,5,ensemble,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,Unknown,Sand and Gravel Mining,1.0,Other Services,0.0,True,True,True,False,2,ensemble,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,Unknown,Sand and Gravel Mining,0.5847341775894165,Other Services,0.0,True,True,True,False,5,ensemble,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,Unknown,Sand and Gravel Mining,0.9116916060447693,Other Services,0.0,True,True,True,False,1,ensemble,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,Unknown,Sand and Gravel Mining,0.5881697297096252,Other Services,0.0,True,True,True,False,5,ensemble,Manufacturing,"Minerals, Earths & Ores"
+Sand and Gravel Mining,Unknown,Sand and Gravel Mining,0.9700084328651428,Other Services,0.0,True,True,True,False,4,ensemble,Manufacturing,"Minerals, Earths & Ores"
+Testing and Inspection Services,Unknown,Testing and Inspection Services,0.6480799317359924,Professional Services,0.0,True,True,True,False,5,ensemble,Wholesale,Watches & Jewelry Stores
+Testing and Inspection Services,Unknown,Testing and Inspection Services,0.5107916593551636,Professional Services,0.0,True,True,True,False,5,ensemble,Manufacturing,Dental Laboratory
+Testing and Inspection Services,Unknown,Laboratory Services,0.7818390727043152,Professional Services,0.0,False,True,True,False,5,ensemble,Services,Other Engineering Services
+Boiler Installation Services,Unknown,Boiler Installation Services,0.5670322954654693,Professional Services,0.0,True,True,True,False,5,ensemble,Manufacturing,Industrial Air Solutions
+Fitness Coaching,Unknown,Fitness Coaching,0.5937018752098083,Healthcare & Medical,0.0,True,True,True,False,5,ensemble,Education,Music Schools & Instructors
+Management Consulting,Unknown,Business Development Services,0.9854312539100647,Software & Technology,0.0,False,False,False,False,5,ensemble,Wholesale,Furniture Stores
+Swimming Pool Maintenance Services,Unknown,Swimming Pool Maintenance Services,0.509912446141243,Professional Services,0.0,True,True,True,False,5,ensemble,Government,"Executive, Legislative & Government Institutions"
+Data Analysis Services,Unknown,Data Analysis Services,1.0,Professional Services,0.0,True,True,True,False,5,ensemble,Services,Livestock & Animal Raising
+Data Analysis Services,Unknown,Data Analysis Services,1.0,Professional Services,0.0,True,True,True,False,5,ensemble,Government,"Executive, Legislative & Government Institutions"
+Data Analysis Services,Unknown,Laboratory Services,0.3628296037515004,Professional Services,0.0,False,False,False,False,5,ensemble,Services,Biotechnology
+Public Relations Services,Unknown,Public Relations Services,0.5000488758087158,Professional Services,0.0,True,True,True,False,5,ensemble,Government,"Executive, Legislative & Government Institutions"
+Accessory Manufacturing,Unknown,Accessory Manufacturing,0.5806665778160095,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Fabric-Based Home Goods
+Accessory Manufacturing,Unknown,Food Processing Services,0.5729811251163482,Manufacturing & Production,0.0,False,False,False,False,5,ensemble,Manufacturing,Livestock & Animal Raising
+Accessory Manufacturing,Unknown,Plastic Manufacturing,0.5928585290908813,Manufacturing & Production,0.0,False,False,False,False,5,ensemble,Manufacturing,Fabric-Based Home Goods
+Apparel Manufacturing,Unknown,Environmental Consulting,0.36078783869743347,Professional Services,0.0,False,False,False,False,2,ensemble,Non Profit,Animal Shelters
+Fundraising Services,Unknown,Fundraising Services,0.8073460459709167,Professional Services,0.0,True,True,True,False,5,ensemble,Non Profit,Social Services & NGOs
+Fundraising Services,Unknown,Fundraising Services,0.8073537945747375,Professional Services,0.0,True,True,True,False,5,ensemble,Non Profit,Social Services & NGOs
+Fundraising Services,Unknown,Fundraising Services,0.8073460459709167,Professional Services,0.0,True,True,True,False,5,ensemble,Non Profit,Social Services & NGOs
+Fundraising Services,Unknown,Fundraising Services,0.9143344163894653,Professional Services,0.0,True,True,True,False,2,ensemble,Non Profit,Social Services & NGOs
+Veterinary Services,Unknown,Veterinary Services,0.8096849322319031,Healthcare & Medical,0.0,True,True,True,False,1,ensemble,Non Profit,Animal Shelters
+Building Cleaning Services,Unknown,Painting Services,0.5907951056957245,Professional Services,0.0,False,False,False,False,5,ensemble,Retail,Hardware Stores
+Building Cleaning Services,Unknown,Building Cleaning Services,1.0,Construction & Real Estate,0.0,True,True,True,False,5,ensemble,Services,Office & Industrial Cleaning
+Software Manufacturing,Unknown,Software Manufacturing,0.7783960123856861,Software & Technology,0.0,True,True,True,False,0,ensemble,Retail,Device Manufacturing
+Arts Services,Unknown,Arts Services,1.0,Professional Services,0.0,True,True,True,False,5,ensemble,Non Profit,Social Services & NGOs
+Painting Services,Unknown,Arts Services,0.4537495970726013,Professional Services,0.0,False,False,True,False,1,ensemble,Retail,Art Galleries
+Cabinetry Manufacturing,Unknown,Cabinetry Manufacturing,0.8377265334129333,Manufacturing & Production,0.0,True,True,True,False,0,ensemble,Retail,Cabinet Makers
+Waste Management Services,Unknown,Compliance Services,0.31498090028762815,Professional Services,0.0,False,False,False,False,5,ensemble,Services,Garbage Collection & Waste Disposal
+Low-Rise Foundation Construction,Unknown,Residential Driveway Construction,0.9870766997337341,Construction & Real Estate,0.0,False,True,True,False,5,ensemble,Services,Concrete Work
+Gas Installation Services,Unknown,Gas Installation Services,0.9814252853393555,Professional Services,0.0,True,True,True,False,5,ensemble,Wholesale,Oil & Gas - Extraction & Distribution
+Gas Installation Services,Unknown,Gas Installation Services,1.0,Professional Services,0.0,True,True,True,False,5,ensemble,Wholesale,Oil & Gas - Extraction & Distribution
+Gas Manufacturing Services,Unknown,Gas Manufacturing Services,0.5900723695755005,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Wholesale,Renewable energy companies
+Animal Feed Manufacturing,Unknown,Animal Feed Manufacturing,0.8347116112709045,Manufacturing & Production,0.0,True,True,True,False,0,ensemble,Manufacturing,Farms & Agriculture Production
+Business Development Services,Unknown,Business Development Services,0.9770227074623108,Software & Technology,0.0,True,True,True,False,5,ensemble,Government,"Executive, Legislative & Government Institutions"
+Strategic Planning Services,Unknown,Strategic Planning Services,0.8353151679039001,Professional Services,0.0,True,True,True,False,5,ensemble,Government,"Executive, Legislative & Government Institutions"
+Market Research Services,Unknown,Testing and Inspection Services,0.6714780926704407,Professional Services,0.0,False,False,False,False,5,ensemble,Services,Market Research & Opinion Polling
+Market Research Services,Unknown,Market Research Services,1.0,Retail & Commerce,0.0,True,True,True,False,5,ensemble,Manufacturing,Fruit & Vegetable - Markets & Stores
+Pet Food Manufacturing,Unknown,Pet Food Manufacturing,0.9898517727851868,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Livestock & Animal Raising
+Fishing and Hunting Services,Unknown,Fishing and Hunting Services,1.0,Professional Services,0.0,True,True,True,False,5,ensemble,Manufacturing,"Minerals, Earths & Ores"
+Paper Production Services,Unknown,Paper Production Services,0.826793909072876,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Wholesale,Paper & Cardboard Products
+Paper Production Services,Unknown,Paper Production Services,0.8230383396148682,Manufacturing & Production,0.0,True,True,True,False,0,ensemble,Manufacturing,Paper & Cardboard Products
+Printing Services,Unknown,Printing Services,1.0,Professional Services,0.0,True,True,True,False,5,ensemble,Wholesale,Paper & Cardboard Products
+Tent Manufacturing Services,Unknown,Tent Manufacturing Services,1.0,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Furniture Stores
+Landscaping Services,Unknown,Textile Manufacturing Services,0.25210066735744474,Manufacturing & Production,0.0,False,False,False,False,5,ensemble,Services,Landscaping & Lawn Services
+Excavation Services,Unknown,Waterproofing Services,0.5162445386250814,Professional Services,0.0,False,False,True,False,5,ensemble,Services,"Excavation, Bulldozing & Demolition"
+Tank Installation Services,Unknown,Tank Installation Services,0.6458585262298584,Professional Services,0.0,True,True,True,False,5,ensemble,Manufacturing,Metal Storage Tanks
+Canning Services,Unknown,Canning Services,0.8291636109352112,Professional Services,0.0,True,True,True,False,2,ensemble,Manufacturing,Fruit & Vegetable - Markets & Stores
+Mobile Home Construction Services,Unknown,Mobile Home Construction Services,0.3646140083670617,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,"Motor Homes, Trailers & RVs - Dealers & Rentals"
+Window and Door Manufacturing,Unknown,Window and Door Manufacturing,0.6701163649559021,Manufacturing & Production,0.0,True,True,True,False,5,ensemble,Manufacturing,Plastics Products
+Directional Drilling Services,Unknown,Commercial Construction Services,0.5075123906135559,Construction & Real Estate,0.0,False,True,True,False,5,ensemble,Services,Construction Services
+Residential Communication Equipment Installation,Unknown,Financial Services,0.38941890001296997,Professional Services,0.0,False,False,False,False,5,ensemble,Services,Telecommunications
+Residential Electrical Services,Unknown,Alarm Installation Services,0.3876060346762339,Professional Services,0.0,False,False,False,False,5,ensemble,Wholesale,Solar Energy Company
+Restoration Services,Unknown,Restoration Services,0.7214354872703552,Professional Services,0.0,True,True,True,False,5,ensemble,Services,Damage Restoration & Mold Remediation
+Fencing Construction Services,Unknown,Alarm Installation Services,0.3827265202999115,Manufacturing & Production,0.0,False,False,False,False,5,ensemble,Services,Elevators & Ramps - Installation & Service
+Drywall Services,Unknown,Drywall Services,0.7578725814819336,Professional Services,0.0,True,True,True,False,5,ensemble,Services,Drywall & Insulation Contractors

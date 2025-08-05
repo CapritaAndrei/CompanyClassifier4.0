@@ -1,0 +1,5896 @@
+{
+  "Landscaping Services": [
+    {
+      "naics_code": "561730",
+      "description": "Landscaping Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999998807907104
+    },
+    {
+      "naics_code": "561730",
+      "description": "Landscaping Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999998807907104
+    }
+  ],
+  "Gardening Services": [
+    {
+      "naics_code": "561730",
+      "description": "Landscaping Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7679039835929871
+    },
+    {
+      "naics_code": "561730",
+      "description": "Landscaping Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7679039835929871
+    }
+  ],
+  "Veterinary Services": [
+    {
+      "naics_code": "541940",
+      "description": "Veterinary Services",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "541940",
+      "description": "Veterinary Services",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "812910",
+      "description": "Pet Care (except Veterinary) Services",
+      "source": "exact_match",
+      "similarity_score": 1.0
+    }
+  ],
+  "Veterinary Clinics": [
+    {
+      "naics_code": "541940",
+      "description": "Veterinary Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8526130318641663
+    },
+    {
+      "naics_code": "541940",
+      "description": "Veterinary Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8526130318641663
+    }
+  ],
+  "Animal Day Care Services": [
+    {
+      "naics_code": "812910",
+      "description": "Pet Care (except Veterinary) Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7582127451896667
+    },
+    {
+      "naics_code": "812910",
+      "description": "Pet Care (except Veterinary) Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7582128047943115
+    }
+  ],
+  "Veterinary Health Centers": [
+    {
+      "naics_code": "541940",
+      "description": "Veterinary Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461102247238159
+    },
+    {
+      "naics_code": "541940",
+      "description": "Veterinary Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461102247238159
+    }
+  ],
+  "Livestock Dealer Services": [
+    {
+      "naics_code": "424520",
+      "description": "Livestock Merchant Wholesalers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.777472198009491
+    },
+    {
+      "naics_code": "424520",
+      "description": "Livestock Merchant Wholesalers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.777472198009491
+    }
+  ],
+  "Timber Harvesting Operations": [
+    {
+      "naics_code": "11311",
+      "description": "Timber Tract Operations",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7614549398422241
+    },
+    {
+      "naics_code": "113110",
+      "description": "Timber Tract Operations",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7614549398422241
+    },
+    {
+      "naics_code": "11311",
+      "description": "Timber Tract Operations",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7614549398422241
+    },
+    {
+      "naics_code": "113110",
+      "description": "Timber Tract Operations",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7614549398422241
+    }
+  ],
+  "Sand and Gravel Mining": [
+    {
+      "naics_code": "212321",
+      "description": "Construction Sand and Gravel Mining",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7992956638336182
+    },
+    {
+      "naics_code": "212322",
+      "description": "Industrial Sand Mining",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7992956638336182
+    },
+    {
+      "naics_code": "212324",
+      "description": "Kaolin and Ball Clay Mining",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7992956638336182
+    },
+    {
+      "naics_code": "212325",
+      "description": "Clay and Ceramic and Refractory Minerals Mining",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7992956638336182
+    },
+    {
+      "naics_code": "212311",
+      "description": "Dimension Stone Mining and Quarrying",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7763993144035339
+    },
+    {
+      "naics_code": "212312",
+      "description": "Crushed and Broken Limestone Mining and Quarrying",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7763993144035339
+    },
+    {
+      "naics_code": "212313",
+      "description": "Crushed and Broken Granite Mining and Quarrying",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7763993144035339
+    },
+    {
+      "naics_code": "212319",
+      "description": "Other Crushed and Broken Stone Mining and Quarrying",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7763993144035339
+    },
+    {
+      "naics_code": "212321",
+      "description": "Construction Sand and Gravel Mining",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7992956638336182
+    },
+    {
+      "naics_code": "212322",
+      "description": "Industrial Sand Mining",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7992956638336182
+    },
+    {
+      "naics_code": "212323",
+      "description": "Kaolin, Clay, and Ceramic and Refractory Minerals Mining",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7992956638336182
+    },
+    {
+      "naics_code": "212311",
+      "description": "Dimension Stone Mining and Quarrying",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7763993144035339
+    },
+    {
+      "naics_code": "212312",
+      "description": "Crushed and Broken Limestone Mining and Quarrying",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7763993144035339
+    },
+    {
+      "naics_code": "212313",
+      "description": "Crushed and Broken Granite Mining and Quarrying",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7763993144035339
+    },
+    {
+      "naics_code": "212319",
+      "description": "Other Crushed and Broken Stone Mining and Quarrying",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7763993144035339
+    }
+  ],
+  "Commercial Irrigation Systems": [
+    {
+      "naics_code": "221310",
+      "description": "Water Supply and Irrigation Systems",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8518008589744568
+    },
+    {
+      "naics_code": "221310",
+      "description": "Water Supply and Irrigation Systems",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8518008589744568
+    }
+  ],
+  "Agricultural Machinery Installation": [
+    {
+      "naics_code": "333111",
+      "description": "Farm Machinery and Equipment Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7564641237258911
+    },
+    {
+      "naics_code": "333111",
+      "description": "Farm Machinery and Equipment Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7564641237258911
+    }
+  ],
+  "Road and Highway Construction": [
+    {
+      "naics_code": "23731",
+      "description": "Highway, Street, and Bridge Construction",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8791939616203308
+    },
+    {
+      "naics_code": "237310",
+      "description": "Highway, Street, and Bridge Construction",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8791939616203308
+    },
+    {
+      "naics_code": "23731",
+      "description": "Highway, Street, and Bridge Construction",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8791939616203308
+    },
+    {
+      "naics_code": "237310",
+      "description": "Highway, Street, and Bridge Construction",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8791939616203308
+    }
+  ],
+  "Fire Protection System Services": [
+    {
+      "naics_code": "922160",
+      "description": "Fire Protection",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7750884890556335
+    },
+    {
+      "naics_code": "922160",
+      "description": "Fire Protection",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7750884890556335
+    }
+  ],
+  "Masonry Construction Services": [
+    {
+      "naics_code": "238140",
+      "description": "Masonry Contractors",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8738725185394287
+    },
+    {
+      "naics_code": "238140",
+      "description": "Masonry Contractors",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8738725185394287
+    }
+  ],
+  "Millwork Services": [
+    {
+      "naics_code": "321911",
+      "description": "Wood Window and Door Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8392864465713501
+    },
+    {
+      "naics_code": "321912",
+      "description": "Cut Stock, Resawing Lumber, and Planing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8392864465713501
+    },
+    {
+      "naics_code": "321918",
+      "description": "Other Millwork (including Flooring)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8392864465713501
+    },
+    {
+      "naics_code": "321911",
+      "description": "Wood Window and Door Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8392863869667053
+    },
+    {
+      "naics_code": "321912",
+      "description": "Cut Stock, Resawing Lumber, and Planing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8392863869667053
+    },
+    {
+      "naics_code": "321918",
+      "description": "Other Millwork (including Flooring)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8392863869667053
+    }
+  ],
+  "Interior Design Services": [
+    {
+      "naics_code": "541410",
+      "description": "Interior Design Services",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    },
+    {
+      "naics_code": "541410",
+      "description": "Interior Design Services",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    }
+  ],
+  "Septic System Services": [
+    {
+      "naics_code": "562991",
+      "description": "Septic Tank and Related Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8624925017356873
+    },
+    {
+      "naics_code": "562991",
+      "description": "Septic Tank and Related Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8624925017356873
+    }
+  ],
+  "Testing and Inspection Services": [
+    {
+      "naics_code": "541350",
+      "description": "Building Inspection Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7642210125923157
+    },
+    {
+      "naics_code": "541350",
+      "description": "Building Inspection Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7642211318016052
+    }
+  ],
+  "Single Family Residential Construction": [
+    {
+      "naics_code": "236115",
+      "description": "New Single-Family Housing Construction (except For-Sale Builders)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.850350022315979
+    },
+    {
+      "naics_code": "236115",
+      "description": "New Single-Family Housing Construction (except For-Sale Builders)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.850350022315979
+    }
+  ],
+  "Dairy Production Services": [
+    {
+      "naics_code": "31151",
+      "description": "Dairy Product (except Frozen) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7876331806182861
+    },
+    {
+      "naics_code": "311511",
+      "description": "Fluid Milk Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7876331806182861
+    },
+    {
+      "naics_code": "311512",
+      "description": "Creamery Butter Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7876331806182861
+    },
+    {
+      "naics_code": "311513",
+      "description": "Cheese Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7876331806182861
+    },
+    {
+      "naics_code": "311514",
+      "description": "Dry, Condensed, and Evaporated Dairy Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7876331806182861
+    },
+    {
+      "naics_code": "31152",
+      "description": "Ice Cream and Frozen Dessert Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7876331806182861
+    },
+    {
+      "naics_code": "311520",
+      "description": "Ice Cream and Frozen Dessert Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7876331806182861
+    },
+    {
+      "naics_code": "112120",
+      "description": "Dairy Cattle and Milk Production",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7842265367507935
+    },
+    {
+      "naics_code": "31151",
+      "description": "Dairy Product (except Frozen) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7876331806182861
+    },
+    {
+      "naics_code": "311511",
+      "description": "Fluid Milk Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7876331806182861
+    },
+    {
+      "naics_code": "311512",
+      "description": "Creamery Butter Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7876331806182861
+    },
+    {
+      "naics_code": "311513",
+      "description": "Cheese Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7876331806182861
+    },
+    {
+      "naics_code": "311514",
+      "description": "Dry, Condensed, and Evaporated Dairy Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7876331806182861
+    },
+    {
+      "naics_code": "31152",
+      "description": "Ice Cream and Frozen Dessert Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7876331806182861
+    },
+    {
+      "naics_code": "311520",
+      "description": "Ice Cream and Frozen Dessert Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7876331806182861
+    },
+    {
+      "naics_code": "112120",
+      "description": "Dairy Cattle and Milk Production",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7842265367507935
+    }
+  ],
+  "Frozen Food Processing": [
+    {
+      "naics_code": "311411",
+      "description": "Frozen Fruit, Juice, and Vegetable Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8879910707473755
+    },
+    {
+      "naics_code": "311412",
+      "description": "Frozen Specialty Food Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8879910707473755
+    },
+    {
+      "naics_code": "311411",
+      "description": "Frozen Fruit, Juice, and Vegetable Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8879910707473755
+    },
+    {
+      "naics_code": "311412",
+      "description": "Frozen Specialty Food Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8879910707473755
+    }
+  ],
+  "Ice Production Services": [
+    {
+      "naics_code": "312113",
+      "description": "Ice Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8146539926528931
+    },
+    {
+      "naics_code": "312113",
+      "description": "Ice Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8146539926528931
+    }
+  ],
+  "Canning Services": [
+    {
+      "naics_code": "311422",
+      "description": "Specialty Canning",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8601692318916321
+    },
+    {
+      "naics_code": "311422",
+      "description": "Specialty Canning",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8601692914962769
+    }
+  ],
+  "Animal Feed Manufacturing": [
+    {
+      "naics_code": "31111",
+      "description": "Animal Food Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9100214838981628
+    },
+    {
+      "naics_code": "311111",
+      "description": "Dog and Cat Food Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9100214838981628
+    },
+    {
+      "naics_code": "311119",
+      "description": "Other Animal Food Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9100214838981628
+    },
+    {
+      "naics_code": "31111",
+      "description": "Animal Food Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9100214838981628
+    },
+    {
+      "naics_code": "311111",
+      "description": "Dog and Cat Food Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9100214838981628
+    },
+    {
+      "naics_code": "311119",
+      "description": "Other Animal Food Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9100214838981628
+    }
+  ],
+  "Pet Food Manufacturing": [
+    {
+      "naics_code": "311111",
+      "description": "Dog and Cat Food Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8875331282615662
+    },
+    {
+      "naics_code": "311119",
+      "description": "Other Animal Food Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8409360647201538
+    },
+    {
+      "naics_code": "311111",
+      "description": "Dog and Cat Food Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8875331282615662
+    },
+    {
+      "naics_code": "311119",
+      "description": "Other Animal Food Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.840936005115509
+    }
+  ],
+  "Bakery Production Services": [
+    {
+      "naics_code": "311811",
+      "description": "Retail Bakeries",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7726364731788635
+    },
+    {
+      "naics_code": "311812",
+      "description": "Commercial Bakeries",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7726364731788635
+    },
+    {
+      "naics_code": "311813",
+      "description": "Frozen Cakes, Pies, and Other Pastries Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7726364731788635
+    },
+    {
+      "naics_code": "311811",
+      "description": "Retail Bakeries",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7726364731788635
+    },
+    {
+      "naics_code": "311812",
+      "description": "Commercial Bakeries",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7726364731788635
+    },
+    {
+      "naics_code": "311813",
+      "description": "Frozen Cakes, Pies, and Other Pastries Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7726364731788635
+    }
+  ],
+  "Confectionery Manufacturing": [
+    {
+      "naics_code": "31131",
+      "description": "Sugar Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8223751783370972
+    },
+    {
+      "naics_code": "311313",
+      "description": "Beet Sugar Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8223751783370972
+    },
+    {
+      "naics_code": "311314",
+      "description": "Cane Sugar Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8223751783370972
+    },
+    {
+      "naics_code": "31134",
+      "description": "Nonchocolate Confectionery Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8223751783370972
+    },
+    {
+      "naics_code": "311340",
+      "description": "Nonchocolate Confectionery Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8223751783370972
+    },
+    {
+      "naics_code": "31135",
+      "description": "Chocolate and Confectionery Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8223751783370972
+    },
+    {
+      "naics_code": "311351",
+      "description": "Chocolate and Confectionery Manufacturing from Cacao Beans",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8223751783370972
+    },
+    {
+      "naics_code": "311352",
+      "description": "Confectionery Manufacturing from Purchased Chocolate",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8223751783370972
+    },
+    {
+      "naics_code": "31131",
+      "description": "Sugar Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8223751187324524
+    },
+    {
+      "naics_code": "311313",
+      "description": "Beet Sugar Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8223751187324524
+    },
+    {
+      "naics_code": "311314",
+      "description": "Cane Sugar Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8223751187324524
+    },
+    {
+      "naics_code": "31134",
+      "description": "Nonchocolate Confectionery Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8223751187324524
+    },
+    {
+      "naics_code": "311340",
+      "description": "Nonchocolate Confectionery Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8223751187324524
+    },
+    {
+      "naics_code": "31135",
+      "description": "Chocolate and Confectionery Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8223751187324524
+    },
+    {
+      "naics_code": "311351",
+      "description": "Chocolate and Confectionery Manufacturing from Cacao Beans",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8223751187324524
+    },
+    {
+      "naics_code": "311352",
+      "description": "Confectionery Manufacturing from Purchased Chocolate",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8223751187324524
+    }
+  ],
+  "Non-Alcoholic Beverage Manufacturing": [
+    {
+      "naics_code": "31211",
+      "description": "Soft Drink and Ice Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461054563522339
+    },
+    {
+      "naics_code": "312111",
+      "description": "Soft Drink Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461054563522339
+    },
+    {
+      "naics_code": "312112",
+      "description": "Bottled Water Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461054563522339
+    },
+    {
+      "naics_code": "312113",
+      "description": "Ice Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461054563522339
+    },
+    {
+      "naics_code": "31212",
+      "description": "Breweries",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461054563522339
+    },
+    {
+      "naics_code": "312120",
+      "description": "Breweries",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461054563522339
+    },
+    {
+      "naics_code": "31213",
+      "description": "Wineries",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461054563522339
+    },
+    {
+      "naics_code": "312130",
+      "description": "Wineries",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461054563522339
+    },
+    {
+      "naics_code": "31214",
+      "description": "Distilleries",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461054563522339
+    },
+    {
+      "naics_code": "312140",
+      "description": "Distilleries",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461054563522339
+    },
+    {
+      "naics_code": "31211",
+      "description": "Soft Drink and Ice Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461055159568787
+    },
+    {
+      "naics_code": "312111",
+      "description": "Soft Drink Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461055159568787
+    },
+    {
+      "naics_code": "312112",
+      "description": "Bottled Water Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461055159568787
+    },
+    {
+      "naics_code": "312113",
+      "description": "Ice Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461055159568787
+    },
+    {
+      "naics_code": "31212",
+      "description": "Breweries",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461055159568787
+    },
+    {
+      "naics_code": "312120",
+      "description": "Breweries",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461055159568787
+    },
+    {
+      "naics_code": "31213",
+      "description": "Wineries",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461055159568787
+    },
+    {
+      "naics_code": "312130",
+      "description": "Wineries",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461055159568787
+    },
+    {
+      "naics_code": "31214",
+      "description": "Distilleries",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461055159568787
+    },
+    {
+      "naics_code": "312140",
+      "description": "Distilleries",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8461055159568787
+    }
+  ],
+  "Textile Manufacturing Services": [
+    {
+      "naics_code": "3141",
+      "description": "Textile Furnishings Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405206203460693
+    },
+    {
+      "naics_code": "31411",
+      "description": "Carpet and Rug Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405206203460693
+    },
+    {
+      "naics_code": "314110",
+      "description": "Carpet and Rug Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405206203460693
+    },
+    {
+      "naics_code": "31412",
+      "description": "Curtain and Linen Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405206203460693
+    },
+    {
+      "naics_code": "314120",
+      "description": "Curtain and Linen Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405206203460693
+    },
+    {
+      "naics_code": "3149",
+      "description": "Other Textile Product Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405206203460693
+    },
+    {
+      "naics_code": "31491",
+      "description": "Textile Bag and Canvas Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405206203460693
+    },
+    {
+      "naics_code": "314910",
+      "description": "Textile Bag and Canvas Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405206203460693
+    },
+    {
+      "naics_code": "31499",
+      "description": "All Other Textile Product Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405206203460693
+    },
+    {
+      "naics_code": "314994",
+      "description": "Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405206203460693
+    },
+    {
+      "naics_code": "314999",
+      "description": "All Other Miscellaneous Textile Product Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405206203460693
+    },
+    {
+      "naics_code": "3131",
+      "description": "Fiber, Yarn, and Thread Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "31311",
+      "description": "Fiber, Yarn, and Thread Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "313110",
+      "description": "Fiber, Yarn, and Thread Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "3132",
+      "description": "Fabric Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "31321",
+      "description": "Broadwoven Fabric Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "313210",
+      "description": "Broadwoven Fabric Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "31322",
+      "description": "Narrow Fabric Mills and Schiffli Machine Embroidery",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "313220",
+      "description": "Narrow Fabric Mills and Schiffli Machine Embroidery",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "31323",
+      "description": "Nonwoven Fabric Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "313230",
+      "description": "Nonwoven Fabric Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "31324",
+      "description": "Knit Fabric Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "313240",
+      "description": "Knit Fabric Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "3133",
+      "description": "Textile and Fabric Finishing and Fabric Coating Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "31331",
+      "description": "Textile and Fabric Finishing Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "313310",
+      "description": "Textile and Fabric Finishing Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "31332",
+      "description": "Fabric Coating Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "313320",
+      "description": "Fabric Coating Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "3141",
+      "description": "Textile Furnishings Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405205607414246
+    },
+    {
+      "naics_code": "31411",
+      "description": "Carpet and Rug Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405205607414246
+    },
+    {
+      "naics_code": "314110",
+      "description": "Carpet and Rug Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405205607414246
+    },
+    {
+      "naics_code": "31412",
+      "description": "Curtain and Linen Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405205607414246
+    },
+    {
+      "naics_code": "314120",
+      "description": "Curtain and Linen Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405205607414246
+    },
+    {
+      "naics_code": "3149",
+      "description": "Other Textile Product Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405205607414246
+    },
+    {
+      "naics_code": "31491",
+      "description": "Textile Bag and Canvas Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405205607414246
+    },
+    {
+      "naics_code": "314910",
+      "description": "Textile Bag and Canvas Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405205607414246
+    },
+    {
+      "naics_code": "31499",
+      "description": "All Other Textile Product Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405205607414246
+    },
+    {
+      "naics_code": "314994",
+      "description": "Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405205607414246
+    },
+    {
+      "naics_code": "314999",
+      "description": "All Other Miscellaneous Textile Product Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8405205607414246
+    },
+    {
+      "naics_code": "3131",
+      "description": "Fiber, Yarn, and Thread Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "31311",
+      "description": "Fiber, Yarn, and Thread Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "313110",
+      "description": "Fiber, Yarn, and Thread Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "3132",
+      "description": "Fabric Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "31321",
+      "description": "Broadwoven Fabric Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "313210",
+      "description": "Broadwoven Fabric Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "31322",
+      "description": "Narrow Fabric Mills and Schiffli Machine Embroidery",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "313220",
+      "description": "Narrow Fabric Mills and Schiffli Machine Embroidery",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "31323",
+      "description": "Nonwoven Fabric Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "313230",
+      "description": "Nonwoven Fabric Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "31324",
+      "description": "Knit Fabric Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "313240",
+      "description": "Knit Fabric Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "3133",
+      "description": "Textile and Fabric Finishing and Fabric Coating Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "31331",
+      "description": "Textile and Fabric Finishing Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "313310",
+      "description": "Textile and Fabric Finishing Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "31332",
+      "description": "Fabric Coating Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    },
+    {
+      "naics_code": "313320",
+      "description": "Fabric Coating Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.834678590297699
+    }
+  ],
+  "Apparel Manufacturing": [
+    {
+      "naics_code": "3151",
+      "description": "Apparel Knitting Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    },
+    {
+      "naics_code": "31511",
+      "description": "Hosiery and Sock Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    },
+    {
+      "naics_code": "315110",
+      "description": "Hosiery and Sock Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    },
+    {
+      "naics_code": "31519",
+      "description": "Other Apparel Knitting Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    },
+    {
+      "naics_code": "315190",
+      "description": "Other Apparel Knitting Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    },
+    {
+      "naics_code": "3152",
+      "description": "Cut and Sew Apparel Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    },
+    {
+      "naics_code": "31521",
+      "description": "Cut and Sew Apparel Contractors",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    },
+    {
+      "naics_code": "315210",
+      "description": "Cut and Sew Apparel Contractors",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    },
+    {
+      "naics_code": "31522",
+      "description": "Men\u2019s and Boys\u2019 Cut and Sew Apparel Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    },
+    {
+      "naics_code": "315220",
+      "description": "Men\u2019s and Boys\u2019 Cut and Sew Apparel Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    },
+    {
+      "naics_code": "31524",
+      "description": "Women\u2019s, Girls\u2019, and Infants\u2019 Cut and Sew Apparel Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    },
+    {
+      "naics_code": "315240",
+      "description": "Women\u2019s, Girls\u2019, and Infants\u2019 Cut and Sew Apparel Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    },
+    {
+      "naics_code": "31528",
+      "description": "Other Cut and Sew Apparel Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    },
+    {
+      "naics_code": "315280",
+      "description": "Other Cut and Sew Apparel Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    },
+    {
+      "naics_code": "3159",
+      "description": "Apparel Accessories and Other Apparel Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    },
+    {
+      "naics_code": "31599",
+      "description": "Apparel Accessories and Other Apparel Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    },
+    {
+      "naics_code": "315990",
+      "description": "Apparel Accessories and Other Apparel Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.000000238418579
+    },
+    {
+      "naics_code": "31621",
+      "description": "Footwear Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.755077600479126
+    },
+    {
+      "naics_code": "316210",
+      "description": "Footwear Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.755077600479126
+    },
+    {
+      "naics_code": "3151",
+      "description": "Apparel Knitting Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "31512",
+      "description": "Apparel Knitting Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "315120",
+      "description": "Apparel Knitting Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "3152",
+      "description": "Cut and Sew Apparel Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "31521",
+      "description": "Cut and Sew Apparel Contractors",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "315210",
+      "description": "Cut and Sew Apparel Contractors",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "31525",
+      "description": "Cut and Sew Apparel Manufacturing (except Contractors)",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "315250",
+      "description": "Cut and Sew Apparel Manufacturing (except Contractors)",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "3159",
+      "description": "Apparel Accessories and Other Apparel Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "31599",
+      "description": "Apparel Accessories and Other Apparel Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "315990",
+      "description": "Apparel Accessories and Other Apparel Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "31621",
+      "description": "Footwear Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.755077600479126
+    },
+    {
+      "naics_code": "316210",
+      "description": "Footwear Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.755077600479126
+    }
+  ],
+  "Children's Clothing Manufacturing": [
+    {
+      "naics_code": "315240",
+      "description": "Women\u2019s, Girls\u2019, and Infants\u2019 Cut and Sew Apparel Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7725039124488831
+    }
+  ],
+  "Wood Product Manufacturing": [
+    {
+      "naics_code": "3211",
+      "description": "Sawmills and Wood Preservation",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "32111",
+      "description": "Sawmills and Wood Preservation",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321113",
+      "description": "Sawmills",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321114",
+      "description": "Wood Preservation",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "3212",
+      "description": "Veneer, Plywood, and Engineered Wood Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "32121",
+      "description": "Veneer, Plywood, and Engineered Wood Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321211",
+      "description": "Hardwood Veneer and Plywood Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321212",
+      "description": "Softwood Veneer and Plywood Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321213",
+      "description": "Engineered Wood Member (except Truss) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321214",
+      "description": "Truss Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321219",
+      "description": "Reconstituted Wood Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "3219",
+      "description": "Other Wood Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "32191",
+      "description": "Millwork",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321911",
+      "description": "Wood Window and Door Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321912",
+      "description": "Cut Stock, Resawing Lumber, and Planing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321918",
+      "description": "Other Millwork (including Flooring)",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "32192",
+      "description": "Wood Container and Pallet Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321920",
+      "description": "Wood Container and Pallet Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "32199",
+      "description": "All Other Wood Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321991",
+      "description": "Manufactured Home (Mobile Home) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321992",
+      "description": "Prefabricated Wood Building Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321999",
+      "description": "All Other Miscellaneous Wood Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "337211",
+      "description": "Wood Office Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8058054447174072
+    },
+    {
+      "naics_code": "3211",
+      "description": "Sawmills and Wood Preservation",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "32111",
+      "description": "Sawmills and Wood Preservation",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321113",
+      "description": "Sawmills",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321114",
+      "description": "Wood Preservation",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "3212",
+      "description": "Veneer, Plywood, and Engineered Wood Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "32121",
+      "description": "Veneer, Plywood, and Engineered Wood Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321211",
+      "description": "Hardwood Veneer and Plywood Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321212",
+      "description": "Softwood Veneer and Plywood Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321215",
+      "description": "Engineered Wood Member Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321219",
+      "description": "Reconstituted Wood Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "3219",
+      "description": "Other Wood Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "32191",
+      "description": "Millwork",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321911",
+      "description": "Wood Window and Door Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321912",
+      "description": "Cut Stock, Resawing Lumber, and Planing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321918",
+      "description": "Other Millwork (including Flooring)",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "32192",
+      "description": "Wood Container and Pallet Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321920",
+      "description": "Wood Container and Pallet Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "32199",
+      "description": "All Other Wood Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321991",
+      "description": "Manufactured Home (Mobile Home) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321992",
+      "description": "Prefabricated Wood Building Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "321999",
+      "description": "All Other Miscellaneous Wood Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "337211",
+      "description": "Wood Office Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8058054447174072
+    }
+  ],
+  "Window and Door Manufacturing": [
+    {
+      "naics_code": "321911",
+      "description": "Wood Window and Door Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9381592869758606
+    },
+    {
+      "naics_code": "332321",
+      "description": "Metal Window and Door Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9122853875160217
+    },
+    {
+      "naics_code": "321911",
+      "description": "Wood Window and Door Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9381592273712158
+    },
+    {
+      "naics_code": "332321",
+      "description": "Metal Window and Door Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9122853875160217
+    }
+  ],
+  "Cabinetry Manufacturing": [
+    {
+      "naics_code": "33711",
+      "description": "Wood Kitchen Cabinet and Countertop Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7707533240318298
+    },
+    {
+      "naics_code": "337110",
+      "description": "Wood Kitchen Cabinet and Countertop Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7707533240318298
+    },
+    {
+      "naics_code": "33712",
+      "description": "Household and Institutional Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7707533240318298
+    },
+    {
+      "naics_code": "337121",
+      "description": "Upholstered Household Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7707533240318298
+    },
+    {
+      "naics_code": "337122",
+      "description": "Nonupholstered Wood Household Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7707533240318298
+    },
+    {
+      "naics_code": "337124",
+      "description": "Metal Household Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7707533240318298
+    },
+    {
+      "naics_code": "337125",
+      "description": "Household Furniture (except Wood and Metal) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7707533240318298
+    },
+    {
+      "naics_code": "337127",
+      "description": "Institutional Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7707533240318298
+    },
+    {
+      "naics_code": "33711",
+      "description": "Wood Kitchen Cabinet and Countertop Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7707533240318298
+    },
+    {
+      "naics_code": "337110",
+      "description": "Wood Kitchen Cabinet and Countertop Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7707533240318298
+    },
+    {
+      "naics_code": "33712",
+      "description": "Household and Institutional Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7707533240318298
+    },
+    {
+      "naics_code": "337121",
+      "description": "Upholstered Household Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7707533240318298
+    },
+    {
+      "naics_code": "337122",
+      "description": "Nonupholstered Wood Household Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7707533240318298
+    },
+    {
+      "naics_code": "337126",
+      "description": "Household Furniture (except Wood and Upholstered) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7707533240318298
+    },
+    {
+      "naics_code": "337127",
+      "description": "Institutional Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7707533240318298
+    }
+  ],
+  "Pallet Manufacturing": [
+    {
+      "naics_code": "321920",
+      "description": "Wood Container and Pallet Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7821435928344727
+    },
+    {
+      "naics_code": "321920",
+      "description": "Wood Container and Pallet Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7821435928344727
+    }
+  ],
+  "Furniture Manufacturing": [
+    {
+      "naics_code": "3371",
+      "description": "Household and Institutional Furniture and Kitchen Cabinet Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "33711",
+      "description": "Wood Kitchen Cabinet and Countertop Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "337110",
+      "description": "Wood Kitchen Cabinet and Countertop Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "33712",
+      "description": "Household and Institutional Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "337121",
+      "description": "Upholstered Household Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "337122",
+      "description": "Nonupholstered Wood Household Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "337124",
+      "description": "Metal Household Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "337125",
+      "description": "Household Furniture (except Wood and Metal) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "337127",
+      "description": "Institutional Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "3372",
+      "description": "Office Furniture (including Fixtures) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "33721",
+      "description": "Office Furniture (including Fixtures) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "337211",
+      "description": "Wood Office Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "337212",
+      "description": "Custom Architectural Woodwork and Millwork Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "337214",
+      "description": "Office Furniture (except Wood) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "337215",
+      "description": "Showcase, Partition, Shelving, and Locker Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "3379",
+      "description": "Other Furniture Related Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "33791",
+      "description": "Mattress Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "337910",
+      "description": "Mattress Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "33792",
+      "description": "Blind and Shade Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "337920",
+      "description": "Blind and Shade Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729023933411
+    },
+    {
+      "naics_code": "3371",
+      "description": "Household and Institutional Furniture and Kitchen Cabinet Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    },
+    {
+      "naics_code": "33711",
+      "description": "Wood Kitchen Cabinet and Countertop Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    },
+    {
+      "naics_code": "337110",
+      "description": "Wood Kitchen Cabinet and Countertop Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    },
+    {
+      "naics_code": "33712",
+      "description": "Household and Institutional Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    },
+    {
+      "naics_code": "337121",
+      "description": "Upholstered Household Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    },
+    {
+      "naics_code": "337122",
+      "description": "Nonupholstered Wood Household Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    },
+    {
+      "naics_code": "337126",
+      "description": "Household Furniture (except Wood and Upholstered) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    },
+    {
+      "naics_code": "337127",
+      "description": "Institutional Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    },
+    {
+      "naics_code": "3372",
+      "description": "Office Furniture (including Fixtures) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    },
+    {
+      "naics_code": "33721",
+      "description": "Office Furniture (including Fixtures) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    },
+    {
+      "naics_code": "337211",
+      "description": "Wood Office Furniture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    },
+    {
+      "naics_code": "337212",
+      "description": "Custom Architectural Woodwork and Millwork Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    },
+    {
+      "naics_code": "337214",
+      "description": "Office Furniture (except Wood) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    },
+    {
+      "naics_code": "337215",
+      "description": "Showcase, Partition, Shelving, and Locker Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    },
+    {
+      "naics_code": "3379",
+      "description": "Other Furniture Related Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    },
+    {
+      "naics_code": "33791",
+      "description": "Mattress Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    },
+    {
+      "naics_code": "337910",
+      "description": "Mattress Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    },
+    {
+      "naics_code": "33792",
+      "description": "Blind and Shade Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    },
+    {
+      "naics_code": "337920",
+      "description": "Blind and Shade Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9088729619979858
+    }
+  ],
+  "Bedding Manufacturing": [
+    {
+      "naics_code": "337910",
+      "description": "Mattress Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7511946558952332
+    },
+    {
+      "naics_code": "337910",
+      "description": "Mattress Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7511946558952332
+    }
+  ],
+  "Paper Production Services": [
+    {
+      "naics_code": "3221",
+      "description": "Pulp, Paper, and Paperboard Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "32211",
+      "description": "Pulp Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322110",
+      "description": "Pulp Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "32212",
+      "description": "Paper Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322121",
+      "description": "Paper (except Newsprint) Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322122",
+      "description": "Newsprint Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "32213",
+      "description": "Paperboard Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322130",
+      "description": "Paperboard Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "3222",
+      "description": "Converted Paper Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "32221",
+      "description": "Paperboard Container Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322211",
+      "description": "Corrugated and Solid Fiber Box Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322212",
+      "description": "Folding Paperboard Box Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322219",
+      "description": "Other Paperboard Container Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "32222",
+      "description": "Paper Bag and Coated and Treated Paper Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322220",
+      "description": "Paper Bag and Coated and Treated Paper Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "32223",
+      "description": "Stationery Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322230",
+      "description": "Stationery Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "32229",
+      "description": "Other Converted Paper Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322291",
+      "description": "Sanitary Paper Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322299",
+      "description": "All Other Converted Paper Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "3221",
+      "description": "Pulp, Paper, and Paperboard Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "32211",
+      "description": "Pulp Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322110",
+      "description": "Pulp Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "32212",
+      "description": "Paper Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322120",
+      "description": "Paper Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "32213",
+      "description": "Paperboard Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322130",
+      "description": "Paperboard Mills",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "3222",
+      "description": "Converted Paper Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "32221",
+      "description": "Paperboard Container Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322211",
+      "description": "Corrugated and Solid Fiber Box Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322212",
+      "description": "Folding Paperboard Box Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322219",
+      "description": "Other Paperboard Container Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "32222",
+      "description": "Paper Bag and Coated and Treated Paper Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322220",
+      "description": "Paper Bag and Coated and Treated Paper Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "32223",
+      "description": "Stationery Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322230",
+      "description": "Stationery Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "32229",
+      "description": "Other Converted Paper Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322291",
+      "description": "Sanitary Paper Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    },
+    {
+      "naics_code": "322299",
+      "description": "All Other Converted Paper Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8162007927894592
+    }
+  ],
+  "Stationery Manufacturing": [
+    {
+      "naics_code": "322230",
+      "description": "Stationery Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9532510638237
+    },
+    {
+      "naics_code": "322230",
+      "description": "Stationery Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9532510638237
+    }
+  ],
+  "Printing Services": [
+    {
+      "naics_code": "3231",
+      "description": "Printing and Related Support Activities",
+      "source": "embedding_baseline",
+      "similarity_score": 0.798366904258728
+    },
+    {
+      "naics_code": "32311",
+      "description": "Printing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.798366904258728
+    },
+    {
+      "naics_code": "323111",
+      "description": "Commercial Printing (except Screen and Books)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.798366904258728
+    },
+    {
+      "naics_code": "323113",
+      "description": "Commercial Screen Printing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.798366904258728
+    },
+    {
+      "naics_code": "323117",
+      "description": "Books Printing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.798366904258728
+    },
+    {
+      "naics_code": "32312",
+      "description": "Support Activities for Printing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.798366904258728
+    },
+    {
+      "naics_code": "323120",
+      "description": "Support Activities for Printing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.798366904258728
+    },
+    {
+      "naics_code": "3231",
+      "description": "Printing and Related Support Activities",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7983667850494385
+    },
+    {
+      "naics_code": "32311",
+      "description": "Printing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7983667850494385
+    },
+    {
+      "naics_code": "323111",
+      "description": "Commercial Printing (except Screen and Books)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7983667850494385
+    },
+    {
+      "naics_code": "323113",
+      "description": "Commercial Screen Printing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7983667850494385
+    },
+    {
+      "naics_code": "323117",
+      "description": "Books Printing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7983667850494385
+    },
+    {
+      "naics_code": "32312",
+      "description": "Support Activities for Printing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7983667850494385
+    },
+    {
+      "naics_code": "323120",
+      "description": "Support Activities for Printing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7983667850494385
+    }
+  ],
+  "Gas Manufacturing Services": [
+    {
+      "naics_code": "325120",
+      "description": "Industrial Gas Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8239078521728516
+    },
+    {
+      "naics_code": "325120",
+      "description": "Industrial Gas Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8239078521728516
+    }
+  ],
+  "Plastic Manufacturing": [
+    {
+      "naics_code": "3261",
+      "description": "Plastics Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32611",
+      "description": "Plastics Packaging Materials and Unlaminated Film and Sheet Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326111",
+      "description": "Plastics Bag and Pouch Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326112",
+      "description": "Plastics Packaging Film and Sheet (including Laminated) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326113",
+      "description": "Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32612",
+      "description": "Plastics Pipe, Pipe Fitting, and Unlaminated Profile Shape Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326121",
+      "description": "Unlaminated Plastics Profile Shape Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326122",
+      "description": "Plastics Pipe and Pipe Fitting Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32613",
+      "description": "Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326130",
+      "description": "Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32614",
+      "description": "Polystyrene Foam Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326140",
+      "description": "Polystyrene Foam Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32615",
+      "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326150",
+      "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32616",
+      "description": "Plastics Bottle Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326160",
+      "description": "Plastics Bottle Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32619",
+      "description": "Other Plastics Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326191",
+      "description": "Plastics Plumbing Fixture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326199",
+      "description": "All Other Plastics Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "3262",
+      "description": "Rubber Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32621",
+      "description": "Tire Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326211",
+      "description": "Tire Manufacturing (except Retreading)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326212",
+      "description": "Tire Retreading",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32622",
+      "description": "Rubber and Plastics Hoses and Belting Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326220",
+      "description": "Rubber and Plastics Hoses and Belting Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32629",
+      "description": "Other Rubber Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326291",
+      "description": "Rubber Product Manufacturing for Mechanical Use",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326299",
+      "description": "All Other Rubber Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "325211",
+      "description": "Plastics Material and Resin Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7691806554794312
+    },
+    {
+      "naics_code": "3261",
+      "description": "Plastics Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32611",
+      "description": "Plastics Packaging Materials and Unlaminated Film and Sheet Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326111",
+      "description": "Plastics Bag and Pouch Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326112",
+      "description": "Plastics Packaging Film and Sheet (including Laminated) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326113",
+      "description": "Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32612",
+      "description": "Plastics Pipe, Pipe Fitting, and Unlaminated Profile Shape Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326121",
+      "description": "Unlaminated Plastics Profile Shape Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326122",
+      "description": "Plastics Pipe and Pipe Fitting Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32613",
+      "description": "Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326130",
+      "description": "Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32614",
+      "description": "Polystyrene Foam Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326140",
+      "description": "Polystyrene Foam Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32615",
+      "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326150",
+      "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32616",
+      "description": "Plastics Bottle Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326160",
+      "description": "Plastics Bottle Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32619",
+      "description": "Other Plastics Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326191",
+      "description": "Plastics Plumbing Fixture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326199",
+      "description": "All Other Plastics Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "3262",
+      "description": "Rubber Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32621",
+      "description": "Tire Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326211",
+      "description": "Tire Manufacturing (except Retreading)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326212",
+      "description": "Tire Retreading",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32622",
+      "description": "Rubber and Plastics Hoses and Belting Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326220",
+      "description": "Rubber and Plastics Hoses and Belting Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "32629",
+      "description": "Other Rubber Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326291",
+      "description": "Rubber Product Manufacturing for Mechanical Use",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "326299",
+      "description": "All Other Rubber Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8055583238601685
+    },
+    {
+      "naics_code": "325211",
+      "description": "Plastics Material and Resin Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7691806554794312
+    }
+  ],
+  "Chemical Manufacturing": [
+    {
+      "naics_code": "3251",
+      "description": "Basic Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32511",
+      "description": "Petrochemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325110",
+      "description": "Petrochemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32512",
+      "description": "Industrial Gas Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325120",
+      "description": "Industrial Gas Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32513",
+      "description": "Synthetic Dye and Pigment Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325130",
+      "description": "Synthetic Dye and Pigment Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32518",
+      "description": "Other Basic Inorganic Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325180",
+      "description": "Other Basic Inorganic Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32519",
+      "description": "Other Basic Organic Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325193",
+      "description": "Ethyl Alcohol Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325194",
+      "description": "Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325199",
+      "description": "All Other Basic Organic Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "3252",
+      "description": "Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32521",
+      "description": "Resin and Synthetic Rubber Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325211",
+      "description": "Plastics Material and Resin Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325212",
+      "description": "Synthetic Rubber Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32522",
+      "description": "Artificial and Synthetic Fibers and Filaments Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325220",
+      "description": "Artificial and Synthetic Fibers and Filaments Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "3253",
+      "description": "Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32531",
+      "description": "Fertilizer Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325311",
+      "description": "Nitrogenous Fertilizer Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325312",
+      "description": "Phosphatic Fertilizer Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325314",
+      "description": "Fertilizer (Mixing Only) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32532",
+      "description": "Pesticide and Other Agricultural Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325320",
+      "description": "Pesticide and Other Agricultural Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "3254",
+      "description": "Pharmaceutical and Medicine Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32541",
+      "description": "Pharmaceutical and Medicine Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325411",
+      "description": "Medicinal and Botanical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325412",
+      "description": "Pharmaceutical Preparation Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325413",
+      "description": "In-Vitro Diagnostic Substance Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325414",
+      "description": "Biological Product (except Diagnostic) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "3255",
+      "description": "Paint, Coating, and Adhesive Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32551",
+      "description": "Paint and Coating Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325510",
+      "description": "Paint and Coating Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32552",
+      "description": "Adhesive Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325520",
+      "description": "Adhesive Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "3256",
+      "description": "Soap, Cleaning Compound, and Toilet Preparation Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32561",
+      "description": "Soap and Cleaning Compound Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325611",
+      "description": "Soap and Other Detergent Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325612",
+      "description": "Polish and Other Sanitation Good Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325613",
+      "description": "Surface Active Agent Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32562",
+      "description": "Toilet Preparation Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325620",
+      "description": "Toilet Preparation Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "3259",
+      "description": "Other Chemical Product and Preparation Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32591",
+      "description": "Printing Ink Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325910",
+      "description": "Printing Ink Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32592",
+      "description": "Explosives Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325920",
+      "description": "Explosives Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32599",
+      "description": "All Other Chemical Product and Preparation Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325991",
+      "description": "Custom Compounding of Purchased Resins",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325992",
+      "description": "Photographic Film, Paper, Plate, and Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325998",
+      "description": "All Other Miscellaneous Chemical Product and Preparation Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "3251",
+      "description": "Basic Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32511",
+      "description": "Petrochemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325110",
+      "description": "Petrochemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32512",
+      "description": "Industrial Gas Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325120",
+      "description": "Industrial Gas Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32513",
+      "description": "Synthetic Dye and Pigment Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325130",
+      "description": "Synthetic Dye and Pigment Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32518",
+      "description": "Other Basic Inorganic Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325180",
+      "description": "Other Basic Inorganic Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32519",
+      "description": "Other Basic Organic Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325193",
+      "description": "Ethyl Alcohol Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325194",
+      "description": "Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325199",
+      "description": "All Other Basic Organic Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "3252",
+      "description": "Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32521",
+      "description": "Resin and Synthetic Rubber Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325211",
+      "description": "Plastics Material and Resin Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325212",
+      "description": "Synthetic Rubber Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32522",
+      "description": "Artificial and Synthetic Fibers and Filaments Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325220",
+      "description": "Artificial and Synthetic Fibers and Filaments Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "3253",
+      "description": "Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32531",
+      "description": "Fertilizer and Compost Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325311",
+      "description": "Nitrogenous Fertilizer Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325312",
+      "description": "Phosphatic Fertilizer Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325314",
+      "description": "Fertilizer (Mixing Only) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325315",
+      "description": "Compost Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32532",
+      "description": "Pesticide and Other Agricultural Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325320",
+      "description": "Pesticide and Other Agricultural Chemical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "3254",
+      "description": "Pharmaceutical and Medicine Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32541",
+      "description": "Pharmaceutical and Medicine Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325411",
+      "description": "Medicinal and Botanical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325412",
+      "description": "Pharmaceutical Preparation Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325413",
+      "description": "In-Vitro Diagnostic Substance Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325414",
+      "description": "Biological Product (except Diagnostic) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "3255",
+      "description": "Paint, Coating, and Adhesive Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32551",
+      "description": "Paint and Coating Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325510",
+      "description": "Paint and Coating Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32552",
+      "description": "Adhesive Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325520",
+      "description": "Adhesive Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "3256",
+      "description": "Soap, Cleaning Compound, and Toilet Preparation Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32561",
+      "description": "Soap and Cleaning Compound Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325611",
+      "description": "Soap and Other Detergent Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325612",
+      "description": "Polish and Other Sanitation Good Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325613",
+      "description": "Surface Active Agent Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32562",
+      "description": "Toilet Preparation Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325620",
+      "description": "Toilet Preparation Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "3259",
+      "description": "Other Chemical Product and Preparation Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32591",
+      "description": "Printing Ink Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325910",
+      "description": "Printing Ink Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32592",
+      "description": "Explosives Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325920",
+      "description": "Explosives Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "32599",
+      "description": "All Other Chemical Product and Preparation Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325991",
+      "description": "Custom Compounding of Purchased Resins",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325992",
+      "description": "Photographic Film, Paper, Plate, Chemical, and Copy Toner Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    },
+    {
+      "naics_code": "325998",
+      "description": "All Other Miscellaneous Chemical Product and Preparation Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9999999403953552
+    }
+  ],
+  "Rubber Manufacturing": [
+    {
+      "naics_code": "3261",
+      "description": "Plastics Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32611",
+      "description": "Plastics Packaging Materials and Unlaminated Film and Sheet Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326111",
+      "description": "Plastics Bag and Pouch Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326112",
+      "description": "Plastics Packaging Film and Sheet (including Laminated) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326113",
+      "description": "Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32612",
+      "description": "Plastics Pipe, Pipe Fitting, and Unlaminated Profile Shape Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326121",
+      "description": "Unlaminated Plastics Profile Shape Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326122",
+      "description": "Plastics Pipe and Pipe Fitting Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32613",
+      "description": "Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326130",
+      "description": "Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32614",
+      "description": "Polystyrene Foam Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326140",
+      "description": "Polystyrene Foam Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32615",
+      "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326150",
+      "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32616",
+      "description": "Plastics Bottle Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326160",
+      "description": "Plastics Bottle Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32619",
+      "description": "Other Plastics Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326191",
+      "description": "Plastics Plumbing Fixture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326199",
+      "description": "All Other Plastics Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "3262",
+      "description": "Rubber Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32621",
+      "description": "Tire Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326211",
+      "description": "Tire Manufacturing (except Retreading)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326212",
+      "description": "Tire Retreading",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32622",
+      "description": "Rubber and Plastics Hoses and Belting Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326220",
+      "description": "Rubber and Plastics Hoses and Belting Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32629",
+      "description": "Other Rubber Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326291",
+      "description": "Rubber Product Manufacturing for Mechanical Use",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326299",
+      "description": "All Other Rubber Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "325211",
+      "description": "Plastics Material and Resin Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7802131772041321
+    },
+    {
+      "naics_code": "325212",
+      "description": "Synthetic Rubber Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7802131772041321
+    },
+    {
+      "naics_code": "3261",
+      "description": "Plastics Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32611",
+      "description": "Plastics Packaging Materials and Unlaminated Film and Sheet Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326111",
+      "description": "Plastics Bag and Pouch Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326112",
+      "description": "Plastics Packaging Film and Sheet (including Laminated) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326113",
+      "description": "Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32612",
+      "description": "Plastics Pipe, Pipe Fitting, and Unlaminated Profile Shape Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326121",
+      "description": "Unlaminated Plastics Profile Shape Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326122",
+      "description": "Plastics Pipe and Pipe Fitting Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32613",
+      "description": "Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326130",
+      "description": "Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32614",
+      "description": "Polystyrene Foam Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326140",
+      "description": "Polystyrene Foam Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32615",
+      "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326150",
+      "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32616",
+      "description": "Plastics Bottle Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326160",
+      "description": "Plastics Bottle Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32619",
+      "description": "Other Plastics Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326191",
+      "description": "Plastics Plumbing Fixture Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326199",
+      "description": "All Other Plastics Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "3262",
+      "description": "Rubber Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32621",
+      "description": "Tire Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326211",
+      "description": "Tire Manufacturing (except Retreading)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326212",
+      "description": "Tire Retreading",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32622",
+      "description": "Rubber and Plastics Hoses and Belting Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326220",
+      "description": "Rubber and Plastics Hoses and Belting Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "32629",
+      "description": "Other Rubber Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326291",
+      "description": "Rubber Product Manufacturing for Mechanical Use",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "326299",
+      "description": "All Other Rubber Product Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.870551586151123
+    },
+    {
+      "naics_code": "325211",
+      "description": "Plastics Material and Resin Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7802131772041321
+    },
+    {
+      "naics_code": "325212",
+      "description": "Synthetic Rubber Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7802131772041321
+    }
+  ],
+  "Pharmaceutical Manufacturing": [
+    {
+      "naics_code": "32541",
+      "description": "Pharmaceutical and Medicine Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9665536880493164
+    },
+    {
+      "naics_code": "325411",
+      "description": "Medicinal and Botanical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9665536880493164
+    },
+    {
+      "naics_code": "325412",
+      "description": "Pharmaceutical Preparation Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9665536880493164
+    },
+    {
+      "naics_code": "325413",
+      "description": "In-Vitro Diagnostic Substance Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9665536880493164
+    },
+    {
+      "naics_code": "325414",
+      "description": "Biological Product (except Diagnostic) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9665536880493164
+    },
+    {
+      "naics_code": "32541",
+      "description": "Pharmaceutical and Medicine Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9665536880493164
+    },
+    {
+      "naics_code": "325411",
+      "description": "Medicinal and Botanical Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9665536880493164
+    },
+    {
+      "naics_code": "325412",
+      "description": "Pharmaceutical Preparation Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9665536880493164
+    },
+    {
+      "naics_code": "325413",
+      "description": "In-Vitro Diagnostic Substance Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9665536880493164
+    },
+    {
+      "naics_code": "325414",
+      "description": "Biological Product (except Diagnostic) Manufacturing",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9665536880493164
+    }
+  ],
+  "Laboratory Services": [
+    {
+      "naics_code": "541380",
+      "description": "Testing Laboratories and Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7600467205047607
+    }
+  ],
+  "Waste Management Services": [
+    {
+      "naics_code": "561",
+      "description": "Administrative and Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5611",
+      "description": "Office Administrative Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56111",
+      "description": "Office Administrative Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561110",
+      "description": "Office Administrative Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5612",
+      "description": "Facilities Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56121",
+      "description": "Facilities Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561210",
+      "description": "Facilities Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5613",
+      "description": "Employment Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56131",
+      "description": "Employment Placement Agencies and Executive Search Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561311",
+      "description": "Employment Placement Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561312",
+      "description": "Executive Search Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56132",
+      "description": "Temporary Help Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561320",
+      "description": "Temporary Help Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56133",
+      "description": "Professional Employer Organizations",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561330",
+      "description": "Professional Employer Organizations",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5614",
+      "description": "Business Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56141",
+      "description": "Document Preparation Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561410",
+      "description": "Document Preparation Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56142",
+      "description": "Telephone Call Centers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561421",
+      "description": "Telephone Answering Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561422",
+      "description": "Telemarketing Bureaus and Other Contact Centers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56143",
+      "description": "Business Service Centers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561431",
+      "description": "Private Mail Centers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561439",
+      "description": "Other Business Service Centers (including Copy Shops)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56144",
+      "description": "Collection Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561440",
+      "description": "Collection Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56145",
+      "description": "Credit Bureaus",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561450",
+      "description": "Credit Bureaus",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56149",
+      "description": "Other Business Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561491",
+      "description": "Repossession Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561492",
+      "description": "Court Reporting and Stenotype Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561499",
+      "description": "All Other Business Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5615",
+      "description": "Travel Arrangement and Reservation Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56151",
+      "description": "Travel Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561510",
+      "description": "Travel Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56152",
+      "description": "Tour Operators",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561520",
+      "description": "Tour Operators",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56159",
+      "description": "Other Travel Arrangement and Reservation Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561591",
+      "description": "Convention and Visitors Bureaus",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561599",
+      "description": "All Other Travel Arrangement and Reservation Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5616",
+      "description": "Investigation and Security Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56161",
+      "description": "Investigation, Guard, and Armored Car Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561611",
+      "description": "Investigation Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561612",
+      "description": "Security Guards and Patrol Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561613",
+      "description": "Armored Car Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56162",
+      "description": "Security Systems Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561621",
+      "description": "Security Systems Services (except Locksmiths)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561622",
+      "description": "Locksmiths",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5617",
+      "description": "Services to Buildings and Dwellings",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56171",
+      "description": "Exterminating and Pest Control Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561710",
+      "description": "Exterminating and Pest Control Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56172",
+      "description": "Janitorial Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561720",
+      "description": "Janitorial Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56173",
+      "description": "Landscaping Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561730",
+      "description": "Landscaping Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56174",
+      "description": "Carpet and Upholstery Cleaning Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561740",
+      "description": "Carpet and Upholstery Cleaning Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56179",
+      "description": "Other Services to Buildings and Dwellings",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5619",
+      "description": "Other Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56191",
+      "description": "Packaging and Labeling Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561910",
+      "description": "Packaging and Labeling Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56192",
+      "description": "Convention and Trade Show Organizers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561920",
+      "description": "Convention and Trade Show Organizers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56199",
+      "description": "All Other Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561990",
+      "description": "All Other Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562",
+      "description": "Waste Management and Remediation Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5621",
+      "description": "Waste Collection",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56211",
+      "description": "Waste Collection",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562111",
+      "description": "Solid Waste Collection",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562112",
+      "description": "Hazardous Waste Collection",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562119",
+      "description": "Other Waste Collection",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5622",
+      "description": "Waste Treatment and Disposal",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56221",
+      "description": "Waste Treatment and Disposal",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562211",
+      "description": "Hazardous Waste Treatment and Disposal",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562212",
+      "description": "Solid Waste Landfill",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562213",
+      "description": "Solid Waste Combustors and Incinerators",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562219",
+      "description": "Other Nonhazardous Waste Treatment and Disposal",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5629",
+      "description": "Remediation and Other Waste Management Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56291",
+      "description": "Remediation Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562910",
+      "description": "Remediation Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56292",
+      "description": "Materials Recovery Facilities",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562920",
+      "description": "Materials Recovery Facilities",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56299",
+      "description": "All Other Waste Management Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562991",
+      "description": "Septic Tank and Related Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562998",
+      "description": "All Other Miscellaneous Waste Management Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561",
+      "description": "Administrative and Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5611",
+      "description": "Office Administrative Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56111",
+      "description": "Office Administrative Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561110",
+      "description": "Office Administrative Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5612",
+      "description": "Facilities Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56121",
+      "description": "Facilities Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561210",
+      "description": "Facilities Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5613",
+      "description": "Employment Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56131",
+      "description": "Employment Placement Agencies and Executive Search Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561311",
+      "description": "Employment Placement Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561312",
+      "description": "Executive Search Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56132",
+      "description": "Temporary Help Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561320",
+      "description": "Temporary Help Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56133",
+      "description": "Professional Employer Organizations",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561330",
+      "description": "Professional Employer Organizations",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5614",
+      "description": "Business Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56141",
+      "description": "Document Preparation Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561410",
+      "description": "Document Preparation Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56142",
+      "description": "Telephone Call Centers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561421",
+      "description": "Telephone Answering Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561422",
+      "description": "Telemarketing Bureaus and Other Contact Centers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56143",
+      "description": "Business Service Centers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561431",
+      "description": "Private Mail Centers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561439",
+      "description": "Other Business Service Centers (including Copy Shops)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56144",
+      "description": "Collection Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561440",
+      "description": "Collection Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56145",
+      "description": "Credit Bureaus",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561450",
+      "description": "Credit Bureaus",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56149",
+      "description": "Other Business Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561491",
+      "description": "Repossession Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561492",
+      "description": "Court Reporting and Stenotype Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561499",
+      "description": "All Other Business Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5615",
+      "description": "Travel Arrangement and Reservation Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56151",
+      "description": "Travel Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561510",
+      "description": "Travel Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56152",
+      "description": "Tour Operators",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561520",
+      "description": "Tour Operators",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56159",
+      "description": "Other Travel Arrangement and Reservation Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561591",
+      "description": "Convention and Visitors Bureaus",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561599",
+      "description": "All Other Travel Arrangement and Reservation Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5616",
+      "description": "Investigation and Security Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56161",
+      "description": "Investigation, Guard, and Armored Car Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561611",
+      "description": "Investigation and Personal Background Check Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561612",
+      "description": "Security Guards and Patrol Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561613",
+      "description": "Armored Car Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56162",
+      "description": "Security Systems Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561621",
+      "description": "Security Systems Services (except Locksmiths)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561622",
+      "description": "Locksmiths",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5617",
+      "description": "Services to Buildings and Dwellings",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56171",
+      "description": "Exterminating and Pest Control Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561710",
+      "description": "Exterminating and Pest Control Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56172",
+      "description": "Janitorial Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561720",
+      "description": "Janitorial Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56173",
+      "description": "Landscaping Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561730",
+      "description": "Landscaping Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56174",
+      "description": "Carpet and Upholstery Cleaning Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561740",
+      "description": "Carpet and Upholstery Cleaning Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56179",
+      "description": "Other Services to Buildings and Dwellings",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561790",
+      "description": "Other Services to Buildings and Dwellings",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5619",
+      "description": "Other Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56191",
+      "description": "Packaging and Labeling Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561910",
+      "description": "Packaging and Labeling Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56192",
+      "description": "Convention and Trade Show Organizers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561920",
+      "description": "Convention and Trade Show Organizers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56199",
+      "description": "All Other Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "561990",
+      "description": "All Other Support Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562",
+      "description": "Waste Management and Remediation Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5621",
+      "description": "Waste Collection",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56211",
+      "description": "Waste Collection",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562111",
+      "description": "Solid Waste Collection",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562112",
+      "description": "Hazardous Waste Collection",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562119",
+      "description": "Other Waste Collection",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5622",
+      "description": "Waste Treatment and Disposal",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56221",
+      "description": "Waste Treatment and Disposal",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562211",
+      "description": "Hazardous Waste Treatment and Disposal",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562212",
+      "description": "Solid Waste Landfill",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562213",
+      "description": "Solid Waste Combustors and Incinerators",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562219",
+      "description": "Other Nonhazardous Waste Treatment and Disposal",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "5629",
+      "description": "Remediation and Other Waste Management Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56291",
+      "description": "Remediation Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562910",
+      "description": "Remediation Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56292",
+      "description": "Materials Recovery Facilities",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562920",
+      "description": "Materials Recovery Facilities",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "56299",
+      "description": "All Other Waste Management Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562991",
+      "description": "Septic Tank and Related Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    },
+    {
+      "naics_code": "562998",
+      "description": "All Other Miscellaneous Waste Management Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8227685689926147
+    }
+  ],
+  "Environmental Consulting": [
+    {
+      "naics_code": "541620",
+      "description": "Environmental Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9527071118354797
+    },
+    {
+      "naics_code": "541620",
+      "description": "Environmental Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.9527071118354797
+    }
+  ],
+  "Real Estate Services": [
+    {
+      "naics_code": "5311",
+      "description": "Lessors of Real Estate",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "53111",
+      "description": "Lessors of Residential Buildings and Dwellings",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "531110",
+      "description": "Lessors of Residential Buildings and Dwellings",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "53112",
+      "description": "Lessors of Nonresidential Buildings (except Miniwarehouses)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "531120",
+      "description": "Lessors of Nonresidential Buildings (except Miniwarehouses)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "53113",
+      "description": "Lessors of Miniwarehouses and Self-Storage Units",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "531130",
+      "description": "Lessors of Miniwarehouses and Self-Storage Units",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "53119",
+      "description": "Lessors of Other Real Estate Property",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "531190",
+      "description": "Lessors of Other Real Estate Property",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "5312",
+      "description": "Offices of Real Estate Agents and Brokers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "53121",
+      "description": "Offices of Real Estate Agents and Brokers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "531210",
+      "description": "Offices of Real Estate Agents and Brokers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "5313",
+      "description": "Activities Related to Real Estate",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "53131",
+      "description": "Real Estate Property Managers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "531311",
+      "description": "Residential Property Managers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "531312",
+      "description": "Nonresidential Property Managers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "53132",
+      "description": "Offices of Real Estate Appraisers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "531320",
+      "description": "Offices of Real Estate Appraisers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "53139",
+      "description": "Other Activities Related to Real Estate",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "531390",
+      "description": "Other Activities Related to Real Estate",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730700373649597
+    },
+    {
+      "naics_code": "5311",
+      "description": "Lessors of Real Estate",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "53111",
+      "description": "Lessors of Residential Buildings and Dwellings",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "531110",
+      "description": "Lessors of Residential Buildings and Dwellings",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "53112",
+      "description": "Lessors of Nonresidential Buildings (except Miniwarehouses)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "531120",
+      "description": "Lessors of Nonresidential Buildings (except Miniwarehouses)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "53113",
+      "description": "Lessors of Miniwarehouses and Self-Storage Units",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "531130",
+      "description": "Lessors of Miniwarehouses and Self-Storage Units",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "53119",
+      "description": "Lessors of Other Real Estate Property",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "531190",
+      "description": "Lessors of Other Real Estate Property",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "5312",
+      "description": "Offices of Real Estate Agents and Brokers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "53121",
+      "description": "Offices of Real Estate Agents and Brokers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "531210",
+      "description": "Offices of Real Estate Agents and Brokers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "5313",
+      "description": "Activities Related to Real Estate",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "53131",
+      "description": "Real Estate Property Managers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "531311",
+      "description": "Residential Property Managers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "531312",
+      "description": "Nonresidential Property Managers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "53132",
+      "description": "Offices of Real Estate Appraisers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "531320",
+      "description": "Offices of Real Estate Appraisers",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "53139",
+      "description": "Other Activities Related to Real Estate",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    },
+    {
+      "naics_code": "531390",
+      "description": "Other Activities Related to Real Estate",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7730699777603149
+    }
+  ],
+  "Legal Services": [
+    {
+      "naics_code": "54111",
+      "description": "Offices of Lawyers",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "541110",
+      "description": "Offices of Lawyers",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "54112",
+      "description": "Offices of Notaries",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "541120",
+      "description": "Offices of Notaries",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "54119",
+      "description": "Other Legal Services",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "541191",
+      "description": "Title Abstract and Settlement Offices",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "541199",
+      "description": "All Other Legal Services",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "54111",
+      "description": "Offices of Lawyers",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "541110",
+      "description": "Offices of Lawyers",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "54112",
+      "description": "Offices of Notaries",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "541120",
+      "description": "Offices of Notaries",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "54119",
+      "description": "Other Legal Services",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "541191",
+      "description": "Title Abstract and Settlement Offices",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    },
+    {
+      "naics_code": "541199",
+      "description": "All Other Legal Services",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0000001192092896
+    }
+  ],
+  "Consulting Services": [
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8373919725418091
+    },
+    {
+      "naics_code": "541612",
+      "description": "Human Resources Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8373919725418091
+    },
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8373919725418091
+    },
+    {
+      "naics_code": "541614",
+      "description": "Process, Physical Distribution, and Logistics Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8373919725418091
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8373919725418091
+    },
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8373919725418091
+    },
+    {
+      "naics_code": "541612",
+      "description": "Human Resources Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8373919725418091
+    },
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8373919725418091
+    },
+    {
+      "naics_code": "541614",
+      "description": "Process, Physical Distribution, and Logistics Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8373919725418091
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8373919725418091
+    },
+    {
+      "naics_code": "541620",
+      "description": "Environmental Consulting Services",
+      "source": "exact_match",
+      "similarity_score": 1.0
+    },
+    {
+      "naics_code": "541690",
+      "description": "Other Scientific and Technical Consulting Services",
+      "source": "exact_match",
+      "similarity_score": 1.0
+    },
+    {
+      "naics_code": "54161",
+      "description": "Management Consulting Services",
+      "source": "hierarchical_exact",
+      "similarity_score": 1.0
+    },
+    {
+      "naics_code": "54162",
+      "description": "Environmental Consulting Services",
+      "source": "hierarchical_exact",
+      "similarity_score": 1.0
+    },
+    {
+      "naics_code": "54169",
+      "description": "Other Scientific and Technical Consulting Services",
+      "source": "hierarchical_exact",
+      "similarity_score": 1.0
+    },
+    {
+      "naics_code": "54161",
+      "description": "Management Consulting Services",
+      "source": "hierarchical_exact",
+      "similarity_score": 1.0
+    },
+    {
+      "naics_code": "54162",
+      "description": "Environmental Consulting Services",
+      "source": "hierarchical_exact",
+      "similarity_score": 1.0
+    },
+    {
+      "naics_code": "54169",
+      "description": "Other Scientific and Technical Consulting Services",
+      "source": "hierarchical_exact",
+      "similarity_score": 1.0
+    }
+  ],
+  "Marketing Services": [
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8232053518295288
+    },
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8232053518295288
+    }
+  ],
+  "Human Resources Services": [
+    {
+      "naics_code": "9231",
+      "description": "Administration of Human Resource Programs",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7819199562072754
+    },
+    {
+      "naics_code": "92311",
+      "description": "Administration of Education Programs",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7819199562072754
+    },
+    {
+      "naics_code": "923110",
+      "description": "Administration of Education Programs",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7819199562072754
+    },
+    {
+      "naics_code": "92312",
+      "description": "Administration of Public Health Programs",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7819199562072754
+    },
+    {
+      "naics_code": "923120",
+      "description": "Administration of Public Health Programs",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7819199562072754
+    },
+    {
+      "naics_code": "92313",
+      "description": "Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7819199562072754
+    },
+    {
+      "naics_code": "923130",
+      "description": "Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7819199562072754
+    },
+    {
+      "naics_code": "92314",
+      "description": "Administration of Veterans' Affairs",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7819199562072754
+    },
+    {
+      "naics_code": "923140",
+      "description": "Administration of Veterans' Affairs",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7819199562072754
+    },
+    {
+      "naics_code": "541612",
+      "description": "Human Resources Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8457009196281433
+    },
+    {
+      "naics_code": "9231",
+      "description": "Administration of Human Resource Programs",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7819199562072754
+    },
+    {
+      "naics_code": "92311",
+      "description": "Administration of Education Programs",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7819199562072754
+    },
+    {
+      "naics_code": "923110",
+      "description": "Administration of Education Programs",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7819199562072754
+    },
+    {
+      "naics_code": "92312",
+      "description": "Administration of Public Health Programs",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7819199562072754
+    },
+    {
+      "naics_code": "923120",
+      "description": "Administration of Public Health Programs",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7819199562072754
+    },
+    {
+      "naics_code": "92313",
+      "description": "Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7819199562072754
+    },
+    {
+      "naics_code": "923130",
+      "description": "Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7819199562072754
+    },
+    {
+      "naics_code": "92314",
+      "description": "Administration of Veterans' Affairs",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7819199562072754
+    },
+    {
+      "naics_code": "923140",
+      "description": "Administration of Veterans' Affairs",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7819199562072754
+    },
+    {
+      "naics_code": "541612",
+      "description": "Human Resources Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8457009196281433
+    }
+  ],
+  "Management Consulting": [
+    {
+      "naics_code": "54161",
+      "description": "Management Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509847283363342
+    },
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509847283363342
+    },
+    {
+      "naics_code": "541612",
+      "description": "Human Resources Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509847283363342
+    },
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509847283363342
+    },
+    {
+      "naics_code": "541614",
+      "description": "Process, Physical Distribution, and Logistics Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509847283363342
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509847283363342
+    },
+    {
+      "naics_code": "54162",
+      "description": "Environmental Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509847283363342
+    },
+    {
+      "naics_code": "541620",
+      "description": "Environmental Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509847283363342
+    },
+    {
+      "naics_code": "54169",
+      "description": "Other Scientific and Technical Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509847283363342
+    },
+    {
+      "naics_code": "541690",
+      "description": "Other Scientific and Technical Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509847283363342
+    },
+    {
+      "naics_code": "54161",
+      "description": "Management Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509846687316895
+    },
+    {
+      "naics_code": "541611",
+      "description": "Administrative Management and General Management Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509846687316895
+    },
+    {
+      "naics_code": "541612",
+      "description": "Human Resources Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509846687316895
+    },
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509846687316895
+    },
+    {
+      "naics_code": "541614",
+      "description": "Process, Physical Distribution, and Logistics Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509846687316895
+    },
+    {
+      "naics_code": "541618",
+      "description": "Other Management Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509846687316895
+    },
+    {
+      "naics_code": "54162",
+      "description": "Environmental Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509846687316895
+    },
+    {
+      "naics_code": "541620",
+      "description": "Environmental Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509846687316895
+    },
+    {
+      "naics_code": "54169",
+      "description": "Other Scientific and Technical Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509846687316895
+    },
+    {
+      "naics_code": "541690",
+      "description": "Other Scientific and Technical Consulting Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7509846687316895
+    }
+  ],
+  "Public Relations Services": [
+    {
+      "naics_code": "541820",
+      "description": "Public Relations Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8849213123321533
+    },
+    {
+      "naics_code": "541820",
+      "description": "Public Relations Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8849213123321533
+    }
+  ],
+  "Travel Services": [
+    {
+      "naics_code": "561510",
+      "description": "Travel Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7593450546264648
+    },
+    {
+      "naics_code": "561510",
+      "description": "Travel Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.7593450546264648
+    }
+  ],
+  "Graphic Design Services": [
+    {
+      "naics_code": "541430",
+      "description": "Graphic Design Services",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0
+    },
+    {
+      "naics_code": "541430",
+      "description": "Graphic Design Services",
+      "source": "embedding_baseline",
+      "similarity_score": 1.0
+    }
+  ],
+  "Advertising Services": [
+    {
+      "naics_code": "54181",
+      "description": "Advertising Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "541810",
+      "description": "Advertising Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "54182",
+      "description": "Public Relations Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "541820",
+      "description": "Public Relations Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "54183",
+      "description": "Media Buying Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "541830",
+      "description": "Media Buying Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "54184",
+      "description": "Media Representatives",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "541840",
+      "description": "Media Representatives",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "54185",
+      "description": "Outdoor Advertising",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "541850",
+      "description": "Outdoor Advertising",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "54186",
+      "description": "Direct Mail Advertising",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "541860",
+      "description": "Direct Mail Advertising",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "54187",
+      "description": "Advertising Material Distribution Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "541870",
+      "description": "Advertising Material Distribution Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "54189",
+      "description": "Other Services Related to Advertising",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "541890",
+      "description": "Other Services Related to Advertising",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "54181",
+      "description": "Advertising Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "541810",
+      "description": "Advertising Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "54182",
+      "description": "Public Relations Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "541820",
+      "description": "Public Relations Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "54183",
+      "description": "Media Buying Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "541830",
+      "description": "Media Buying Agencies",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "54184",
+      "description": "Media Representatives",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "541840",
+      "description": "Media Representatives",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "54185",
+      "description": "Indoor and Outdoor Display Advertising",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "541850",
+      "description": "Indoor and Outdoor Display Advertising",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "54186",
+      "description": "Direct Mail Advertising",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "541860",
+      "description": "Direct Mail Advertising",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "54187",
+      "description": "Advertising Material Distribution Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "541870",
+      "description": "Advertising Material Distribution Services",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "54189",
+      "description": "Other Services Related to Advertising",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    },
+    {
+      "naics_code": "541890",
+      "description": "Other Services Related to Advertising",
+      "source": "embedding_baseline",
+      "similarity_score": 0.8105267286300659
+    }
+  ],
+  "Accessory Manufacturing": [
+    {
+      "naics_code": "333515",
+      "description": "Cutting Tool and Machine Tool Accessory Manufacturing",
+      "source": "exact_match",
+      "similarity_score": 1.0
+    }
+  ],
+  "Trim Manufacturing": [
+    {
+      "naics_code": "332913",
+      "description": "Plumbing Fixture Fitting and Trim Manufacturing",
+      "source": "exact_match",
+      "similarity_score": 1.0
+    },
+    {
+      "naics_code": "336360",
+      "description": "Motor Vehicle Seating and Interior Trim Manufacturing",
+      "source": "exact_match",
+      "similarity_score": 1.0
+    }
+  ],
+  "Fishing and Hunting Services": [
+    {
+      "naics_code": "11411",
+      "description": "Fishing",
+      "source": "hierarchical_exact",
+      "similarity_score": 1.0
+    },
+    {
+      "naics_code": "114111",
+      "description": "Finfish Fishing",
+      "source": "hierarchical_exact",
+      "similarity_score": 1.0
+    },
+    {
+      "naics_code": "114112",
+      "description": "Shellfish Fishing",
+      "source": "hierarchical_exact",
+      "similarity_score": 1.0
+    },
+    {
+      "naics_code": "114119",
+      "description": "Other Marine Fishing",
+      "source": "hierarchical_exact",
+      "similarity_score": 1.0
+    },
+    {
+      "naics_code": "11411",
+      "description": "Fishing",
+      "source": "hierarchical_exact",
+      "similarity_score": 1.0
+    },
+    {
+      "naics_code": "114111",
+      "description": "Finfish Fishing",
+      "source": "hierarchical_exact",
+      "similarity_score": 1.0
+    },
+    {
+      "naics_code": "114112",
+      "description": "Shellfish Fishing",
+      "source": "hierarchical_exact",
+      "similarity_score": 1.0
+    },
+    {
+      "naics_code": "114119",
+      "description": "Other Marine Fishing",
+      "source": "hierarchical_exact",
+      "similarity_score": 1.0
+    }
+  ]
+}

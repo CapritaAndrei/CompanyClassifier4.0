@@ -1,0 +1,139 @@
+{
+  "Road Maintenance Services": [
+    {
+      "naics_code": "237310",
+      "description": "Highway, Street, and Bridge Construction ",
+      "retry_type": "standard"
+    },
+    {
+      "naics_code": "488490",
+      "description": "Other Support Activities for Road Transportation ",
+      "retry_type": "standard"
+    },
+    {
+      "naics_code": "238990",
+      "description": "All Other Specialty Trade Contractors",
+      "retry_type": "standard"
+    },
+    {
+      "naics_code": "562998",
+      "description": "All Other Miscellaneous Waste Management Services ",
+      "retry_type": "standard"
+    }
+  ],
+  "Millwork Services": [
+    {
+      "naics_code": "321911",
+      "description": "Wood Window and Door Manufacturing ",
+      "retry_type": "standard"
+    },
+    {
+      "naics_code": "337212",
+      "description": "Custom Architectural Woodwork and Millwork Manufacturing ",
+      "retry_type": "standard"
+    },
+    {
+      "naics_code": "321912",
+      "description": "Cut Stock, Resawing Lumber, and Planing ",
+      "retry_type": "standard"
+    },
+    {
+      "naics_code": "321999",
+      "description": "All Other Miscellaneous Wood Product Manufacturing ",
+      "retry_type": "standard"
+    },
+    {
+      "naics_code": "321920",
+      "description": "Wood Container and Pallet Manufacturing",
+      "retry_type": "standard"
+    },
+    {
+      "naics_code": "238350",
+      "description": "Finish Carpentry Contractors",
+      "retry_type": "standard"
+    }
+  ],
+  "Rendering Services": [
+    {
+      "naics_code": "311613",
+      "description": "Rendering and Meat Byproduct Processing ",
+      "retry_type": "standard"
+    },
+    {
+      "naics_code": "541430",
+      "description": "Graphic Design Services",
+      "retry_type": "standard"
+    }
+  ],
+  "Branding Services": [
+    {
+      "naics_code": "541890",
+      "description": "Other Services Related to Advertising ",
+      "retry_type": "standard"
+    },
+    {
+      "naics_code": "541430",
+      "description": "Graphic Design Services",
+      "retry_type": "standard"
+    },
+    {
+      "naics_code": "541820",
+      "description": "Public Relations Agencies",
+      "retry_type": "standard"
+    },
+    {
+      "naics_code": "541910",
+      "description": "Marketing Research and Public Opinion Polling",
+      "retry_type": "standard"
+    }
+  ],
+  "Graphic Design Services": [
+    {
+      "naics_code": "541430",
+      "description": "Graphic Design Services",
+      "retry_type": "standard"
+    },
+    {
+      "naics_code": "541890",
+      "description": "Other Services Related to Advertising ",
+      "retry_type": "standard"
+    },
+    {
+      "naics_code": "541810",
+      "description": "Advertising Agencies",
+      "retry_type": "standard"
+    },
+    {
+      "naics_code": "541613",
+      "description": "Marketing Consulting Services ",
+      "retry_type": "standard"
+    },
+    {
+      "naics_code": "541420",
+      "description": "Industrial Design Services",
+      "retry_type": "standard"
+    },
+    {
+      "naics_code": "541490",
+      "description": "Other Specialized Design Services",
+      "retry_type": "standard"
+    },
+    {
+      "naics_code": "541512",
+      "description": "Computer Systems Design Services ",
+      "retry_type": "standard"
+    }
+  ],
+  "Publishing Services": [
+    {
+      "naics_code": "541840",
+      "description": "Media Representatives",
+      "retry_type": "flexible"
+    },
+    {
+      "naics_code": "541720",
+      "description": "Research and Development in the Social Sciences and Humanities ",
+      "retry_type": "flexible"
+    }
+  ]
+}

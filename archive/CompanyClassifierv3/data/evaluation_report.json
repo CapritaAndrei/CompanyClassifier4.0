@@ -1,0 +1,292 @@
+{
+  "evaluation_timestamp": "2025-06-16T18:49:45.019515",
+  "model_performance": {
+    "primary_accuracy": 0.0,
+    "avg_jaccard": 0.03111111111111111,
+    "avg_precision": 0.05333333333333333,
+    "avg_recall": 0.05333333333333333,
+    "avg_f1": 0.05333333333333333,
+    "confidence_accuracy": {
+      "HIGH": 0.0,
+      "MEDIUM": 0.0,
+      "LOW": 0.0
+    }
+  },
+  "baseline_comparisons": {
+    "random": {
+      "primary_accuracy": 0.0,
+      "description": "Random prediction from training labels"
+    },
+    "most_frequent": {
+      "primary_accuracy": 0.1,
+      "description": "Always predict most frequent label: Retail",
+      "most_frequent_label": "Retail"
+    }
+  },
+  "detailed_metrics": {
+    "primary_accuracy": 0.0,
+    "multi_label_jaccard": 0.03111111111111111,
+    "multi_label_precision": 0.05333333333333333,
+    "multi_label_recall": 0.05333333333333333,
+    "multi_label_f1": 0.05333333333333333
+  },
+  "confidence_breakdown": {
+    "HIGH": 0.0,
+    "MEDIUM": 0.0,
+    "LOW": 0.0
+  },
+  "top_performing_labels": [],
+  "challenging_labels": [],
+  "prediction_examples": [
+    {
+      "company_index": 100,
+      "true_labels": [
+        "Laboratory Services"
+      ],
+      "true_primary": "Laboratory Services",
+      "pred_labels": [
+        "Retail",
+        "Laboratory Services",
+        "Manufacturing",
+        "Medical Supplies",
+        "Digital Ordering System for Medical Practices"
+      ],
+      "pred_scores": [
+        0.404137965987343,
+        0.3685567827466336,
+        0.3599549997477114,
+        0.33478604618307,
+        0.33478604618307
+      ],
+      "primary_correct": false,
+      "jaccard": 0.0
+    },
+    {
+      "company_index": 68,
+      "true_labels": [
+        "Media Conversion Services",
+        "Cable Installation Services",
+        "Network Security Solutions",
+        "Network Management",
+        "Network Cabling Services",
+        "Extra Low Voltage System",
+        "Commercial Communication Equipment Installation",
+        "Wireless Lan",
+        "Structured Cabling Solutions",
+        "Data Center Solutions"
+      ],
+      "true_primary": "Commercial Communication Equipment Installation",
+      "pred_labels": [
+        "Fire Protection System Services",
+        "Fire Safety Equipment Services",
+        "Utility Network Connections Design and Construction",
+        "Multi-utility Connections",
+        "Water Connection Installation"
+      ],
+      "pred_scores": [
+        0.3111561693975967,
+        0.3111561693975967,
+        0.2767742202334512,
+        0.2767742202334512,
+        0.2767742202334512
+      ],
+      "primary_correct": false,
+      "jaccard": 0.0
+    },
+    {
+      "company_index": 89,
+      "true_labels": [
+        "Software Development Services",
+        "Media Production Services"
+      ],
+      "true_primary": "Media Production Services",
+      "pred_labels": [
+        "Online Retail",
+        "Electronics Stores",
+        "Retail",
+        "Technology Consulting",
+        "Household Appliances"
+      ],
+      "pred_scores": [
+        0.2803844139545501,
+        0.2802254317631805,
+        0.27852245667882397,
+        0.25062197544466014,
+        0.2483432980489766
+      ],
+      "primary_correct": false,
+      "jaccard": 0.0
+    },
+    {
+      "company_index": 26,
+      "true_labels": [
+        "Livestock Dealer Services"
+      ],
+      "true_primary": "Livestock Dealer Services",
+      "pred_labels": [
+        "Rice Wholesaler",
+        "Miscellaneous Crop Farming",
+        "Wholesale",
+        "Livestock Dealer Services",
+        "Bakery Production Services"
+      ],
+      "pred_scores": [
+        0.29930800647272293,
+        0.29930800647272293,
+        0.29549369420987026,
+        0.28788773881831775,
+        0.2859172514251849
+      ],
+      "primary_correct": false,
+      "jaccard": 0.0
+    },
+    {
+      "company_index": 74,
+      "true_labels": [
+        "Retail",
+        "E-Commerce Services"
+      ],
+      "true_primary": "Retail",
+      "pred_labels": [
+        "Food Processing Services",
+        "Wholesale",
+        "Rice Wholesaler",
+        "Miscellaneous Crop Farming",
+        "Bakery Production Services"
+      ],
+      "pred_scores": [
+        0.48891948842098365,
+        0.40757012501512235,
+        0.4011016454538466,
+        0.4011016454538466,
+        0.39710581975520637
+      ],
+      "primary_correct": false,
+      "jaccard": 0.0
+    },
+    {
+      "company_index": 85,
+      "true_labels": [
+        "Financial Services"
+      ],
+      "true_primary": "Financial Services",
+      "pred_labels": [
+        "Car Rental Services",
+        "Long-term Car Rental Services",
+        "Retail",
+        "Wholesale",
+        "Automotive Parts Retailer"
+      ],
+      "pred_scores": [
+        0.3981442048348318,
+        0.3981442048348318,
+        0.3713032781916539,
+        0.3587712030937335,
+        0.33154282097099275
+      ],
+      "primary_correct": false,
+      "jaccard": 0.0
+    },
+    {
+      "company_index": 96,
+      "true_labels": [
+        "Wine and Cacha\u00e7a Production",
+        "Confectionery Manufacturing",
+        "Artisanal Products",
+        "Food Products Supplier",
+        "Sweet Treats"
+      ],
+      "true_primary": "Confectionery Manufacturing",
+      "pred_labels": [
+        "Bakery Production Services",
+        "Food Processing Services",
+        "Confectionery Manufacturing",
+        "Cosmetic Manufacturing",
+        "Personal Care Products Manufacturer"
+      ],
+      "pred_scores": [
+        0.5545122890484202,
+        0.5377219660672659,
+        0.49020946306371727,
+        0.4892748595125893,
+        0.4892748595125893
+      ],
+      "primary_correct": false,
+      "jaccard": 0.1111111111111111
+    },
+    {
+      "company_index": 110,
+      "true_labels": [
+        "Industrial Machinery Installation",
+        "Conveyor System Installation",
+        "Testing and Inspection Services"
+      ],
+      "true_primary": "Industrial Machinery Installation",
+      "pred_labels": [
+        "Consulting Services",
+        "Management Consulting",
+        "Manufacturing",
+        "Retail",
+        "Event Planning Services"
+      ],
+      "pred_scores": [
+        0.43215524093438595,
+        0.3885205041247046,
+        0.3862145937386361,
+        0.3472074888767847,
+        0.34304939750284275
+      ],
+      "primary_correct": false,
+      "jaccard": 0.0
+    },
+    {
+      "company_index": 108,
+      "true_labels": [
+        "Chemical Manufacturing",
+        "Research and Development",
+        "Production"
+      ],
+      "true_primary": "Chemical Manufacturing",
+      "pred_labels": [
+        "Manufacturing",
+        "Chemical Manufacturing",
+        "Plastic Manufacturing",
+        "Industrial Machinery Installation",
+        "Project Management Services"
+      ],
+      "pred_scores": [
+        0.5382771050006806,
+        0.5025711797623837,
+        0.5015657504326239,
+        0.43357187844612033,
+        0.4275617809405949
+      ],
+      "primary_correct": false,
+      "jaccard": 0.2
+    },
+    {
+      "company_index": 92,
+      "true_labels": [
+        "Industrial Transportation Services",
+        "Wood Product Manufacturing"
+      ],
+      "true_primary": "Wood Product Manufacturing",
+      "pred_labels": [
+        "Retail",
+        "Manufacturing",
+        "Bakery Production Services",
+        "Wholesale",
+        "Food Processing Services"
+      ],
+      "pred_scores": [
+        0.4155305814365259,
+        0.37281571197025565,
+        0.3373104055405598,
+        0.30920602592375807,
+        0.30266970550186284
+      ],
+      "primary_correct": false,
+      "jaccard": 0.0
+    }
+  ]
+}

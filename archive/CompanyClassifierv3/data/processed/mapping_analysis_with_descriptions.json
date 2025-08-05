@@ -1,0 +1,377 @@
+{
+  "total_mappings": 53,
+  "total_training_examples": 6136,
+  "mappings_by_examples": [
+    {
+      "insurance_label": "Commercial Driveway Construction",
+      "naics_code": "236220",
+      "description": "Warehouse, industrial, construction",
+      "training_examples": 404,
+      "full_info": "Commercial Driveway Construction \u2192 236220: Warehouse, industrial, construction (404 examples)"
+    },
+    {
+      "insurance_label": "Commercial Construction Services",
+      "naics_code": "236220",
+      "description": "Warehouse, industrial, construction",
+      "training_examples": 404,
+      "full_info": "Commercial Construction Services \u2192 236220: Warehouse, industrial, construction (404 examples)"
+    },
+    {
+      "insurance_label": "Software Manufacturing",
+      "naics_code": "325998",
+      "description": "Writing inks manufacturing",
+      "training_examples": 358,
+      "full_info": "Software Manufacturing \u2192 325998: Writing inks manufacturing (358 examples)"
+    },
+    {
+      "insurance_label": "Plastic Manufacturing",
+      "naics_code": "326199",
+      "description": "Windshields, plastics, manufacturing",
+      "training_examples": 336,
+      "full_info": "Plastic Manufacturing \u2192 326199: Windshields, plastics, manufacturing (336 examples)"
+    },
+    {
+      "insurance_label": "Accessory Manufacturing",
+      "naics_code": "327110",
+      "description": "Water closet bowls, vitreous china, manufacturing",
+      "training_examples": 292,
+      "full_info": "Accessory Manufacturing \u2192 327110: Water closet bowls, vitreous china, manufacturing (292 examples)"
+    },
+    {
+      "insurance_label": "Rubber Manufacturing",
+      "naics_code": "325130",
+      "description": "Zinc based pigments manufacturing",
+      "training_examples": 252,
+      "full_info": "Rubber Manufacturing \u2192 325130: Zinc based pigments manufacturing (252 examples)"
+    },
+    {
+      "insurance_label": "Pharmaceutical Manufacturing",
+      "naics_code": "314999",
+      "description": "Wool waste processing",
+      "training_examples": 238,
+      "full_info": "Pharmaceutical Manufacturing \u2192 314999: Wool waste processing (238 examples)"
+    },
+    {
+      "insurance_label": "Chemical Manufacturing",
+      "naics_code": "333249",
+      "description": "Zipper making machinery manufacturing",
+      "training_examples": 218,
+      "full_info": "Chemical Manufacturing \u2192 333249: Zipper making machinery manufacturing (218 examples)"
+    },
+    {
+      "insurance_label": "Oil and Fat Manufacturing",
+      "naics_code": "339992",
+      "description": "Zithers and parts manufacturing",
+      "training_examples": 196,
+      "full_info": "Oil and Fat Manufacturing \u2192 339992: Zithers and parts manufacturing (196 examples)"
+    },
+    {
+      "insurance_label": "Conveyor System Installation",
+      "naics_code": "238290",
+      "description": "Water pipe insulating",
+      "training_examples": 192,
+      "full_info": "Conveyor System Installation \u2192 238290: Water pipe insulating (192 examples)"
+    },
+    {
+      "insurance_label": "Elevator Installation Services",
+      "naics_code": "238290",
+      "description": "Water pipe insulating",
+      "training_examples": 192,
+      "full_info": "Elevator Installation Services \u2192 238290: Water pipe insulating (192 examples)"
+    },
+    {
+      "insurance_label": "Cosmetic Manufacturing",
+      "naics_code": "325620",
+      "description": "Towelettes, premoistened, manufacturing",
+      "training_examples": 172,
+      "full_info": "Cosmetic Manufacturing \u2192 325620: Towelettes, premoistened, manufacturing (172 examples)"
+    },
+    {
+      "insurance_label": "Agricultural Machinery Installation",
+      "naics_code": "532490",
+      "description": "Woodworking machinery and equipment rental or leasing",
+      "training_examples": 166,
+      "full_info": "Agricultural Machinery Installation \u2192 532490: Woodworking machinery and equipment rental or leasing (166 examples)"
+    },
+    {
+      "insurance_label": "Road and Highway Construction",
+      "naics_code": "237310",
+      "description": "Underpass construction",
+      "training_examples": 156,
+      "full_info": "Road and Highway Construction \u2192 237310: Underpass construction (156 examples)"
+    },
+    {
+      "insurance_label": "Furniture Manufacturing",
+      "naics_code": "337127",
+      "description": "Work benches manufacturing",
+      "training_examples": 128,
+      "full_info": "Furniture Manufacturing \u2192 337127: Work benches manufacturing (128 examples)"
+    },
+    {
+      "insurance_label": "Electric Line Construction",
+      "naics_code": "237130",
+      "description": "Wind power structure construction",
+      "training_examples": 124,
+      "full_info": "Electric Line Construction \u2192 237130: Wind power structure construction (124 examples)"
+    },
+    {
+      "insurance_label": "Single Family Residential Construction",
+      "naics_code": "236118",
+      "description": "Sunroom additions, residential",
+      "training_examples": 116,
+      "full_info": "Single Family Residential Construction \u2192 236118: Sunroom additions, residential (116 examples)"
+    },
+    {
+      "insurance_label": "Window Treatment Manufacturing",
+      "naics_code": "332321",
+      "description": "Windows, metal, manufacturing",
+      "training_examples": 104,
+      "full_info": "Window Treatment Manufacturing \u2192 332321: Windows, metal, manufacturing (104 examples)"
+    },
+    {
+      "insurance_label": "Pipeline Construction Services",
+      "naics_code": "237120",
+      "description": "Storage tank, natural gas or oil, tank farm or field, construction",
+      "training_examples": 100,
+      "full_info": "Pipeline Construction Services \u2192 237120: Storage tank, natural gas or oil, tank farm or field, construction (100 examples)"
+    },
+    {
+      "insurance_label": "Legal Services",
+      "naics_code": "541110",
+      "description": "Tax law attorneys' private practices",
+      "training_examples": 96,
+      "full_info": "Legal Services \u2192 541110: Tax law attorneys' private practices (96 examples)"
+    },
+    {
+      "insurance_label": "Agricultural Equipment Services",
+      "naics_code": "541690",
+      "description": "Waterproof consulting services",
+      "training_examples": 94,
+      "full_info": "Agricultural Equipment Services \u2192 541690: Waterproof consulting services (94 examples)"
+    },
+    {
+      "insurance_label": "Graphic Design Services",
+      "naics_code": "541430",
+      "description": "Studios, commercial art",
+      "training_examples": 88,
+      "full_info": "Graphic Design Services \u2192 541430: Studios, commercial art (88 examples)"
+    },
+    {
+      "insurance_label": "Veterinary Services",
+      "naics_code": "541940",
+      "description": "Veterinary testing laboratories",
+      "training_examples": 84,
+      "full_info": "Veterinary Services \u2192 541940: Veterinary testing laboratories (84 examples)"
+    },
+    {
+      "insurance_label": "Veterinary Clinics",
+      "naics_code": "541940",
+      "description": "Veterinary testing laboratories",
+      "training_examples": 84,
+      "full_info": "Veterinary Clinics \u2192 541940: Veterinary testing laboratories (84 examples)"
+    },
+    {
+      "insurance_label": "Landscaping Services",
+      "naics_code": "541320",
+      "description": "Urban planning services",
+      "training_examples": 84,
+      "full_info": "Landscaping Services \u2192 541320: Urban planning services (84 examples)"
+    },
+    {
+      "insurance_label": "Gardening Services",
+      "naics_code": "541320",
+      "description": "Urban planning services",
+      "training_examples": 84,
+      "full_info": "Gardening Services \u2192 541320: Urban planning services (84 examples)"
+    },
+    {
+      "insurance_label": "Swimming Pool Maintenance Services",
+      "naics_code": "561790",
+      "description": "Ventilation duct cleaning services",
+      "training_examples": 82,
+      "full_info": "Swimming Pool Maintenance Services \u2192 561790: Ventilation duct cleaning services (82 examples)"
+    },
+    {
+      "insurance_label": "Air Duct Cleaning Services",
+      "naics_code": "561790",
+      "description": "Ventilation duct cleaning services",
+      "training_examples": 82,
+      "full_info": "Air Duct Cleaning Services \u2192 561790: Ventilation duct cleaning services (82 examples)"
+    },
+    {
+      "insurance_label": "Building Cleaning Services",
+      "naics_code": "561790",
+      "description": "Ventilation duct cleaning services",
+      "training_examples": 82,
+      "full_info": "Building Cleaning Services \u2192 561790: Ventilation duct cleaning services (82 examples)"
+    },
+    {
+      "insurance_label": "Confectionery Manufacturing",
+      "naics_code": "311314",
+      "description": "Syrup, cane, manufacturing",
+      "training_examples": 80,
+      "full_info": "Confectionery Manufacturing \u2192 311314: Syrup, cane, manufacturing (80 examples)"
+    },
+    {
+      "insurance_label": "Pet Grooming Services",
+      "naics_code": "812910",
+      "description": "Working, sporting, and service dog training services",
+      "training_examples": 70,
+      "full_info": "Pet Grooming Services \u2192 812910: Working, sporting, and service dog training services (70 examples)"
+    },
+    {
+      "insurance_label": "Pet Boarding Services",
+      "naics_code": "812910",
+      "description": "Working, sporting, and service dog training services",
+      "training_examples": 70,
+      "full_info": "Pet Boarding Services \u2192 812910: Working, sporting, and service dog training services (70 examples)"
+    },
+    {
+      "insurance_label": "Animal Day Care Services",
+      "naics_code": "624410",
+      "description": "Preschool centers",
+      "training_examples": 66,
+      "full_info": "Animal Day Care Services \u2192 624410: Preschool centers (66 examples)"
+    },
+    {
+      "insurance_label": "Precast Concrete Installation",
+      "naics_code": "238120",
+      "description": "Structural steel erecting or iron work contractors",
+      "training_examples": 64,
+      "full_info": "Precast Concrete Installation \u2192 238120: Structural steel erecting or iron work contractors (64 examples)"
+    },
+    {
+      "insurance_label": "Business Development Services",
+      "naics_code": "541720",
+      "description": "Sociology research and development services",
+      "training_examples": 60,
+      "full_info": "Business Development Services \u2192 541720: Sociology research and development services (60 examples)"
+    },
+    {
+      "insurance_label": "Project Management Services",
+      "naics_code": "561110",
+      "description": "Office management services",
+      "training_examples": 56,
+      "full_info": "Project Management Services \u2192 561110: Office management services (56 examples)"
+    },
+    {
+      "insurance_label": "Crisis Management Services",
+      "naics_code": "561110",
+      "description": "Office management services",
+      "training_examples": 56,
+      "full_info": "Crisis Management Services \u2192 561110: Office management services (56 examples)"
+    },
+    {
+      "insurance_label": "Insurance Services",
+      "naics_code": "524298",
+      "description": "Ratemaking services, insurance",
+      "training_examples": 52,
+      "full_info": "Insurance Services \u2192 524298: Ratemaking services, insurance (52 examples)"
+    },
+    {
+      "insurance_label": "Children's Clothing Manufacturing",
+      "naics_code": "315110",
+      "description": "Tights knitting or knitting and finishing",
+      "training_examples": 48,
+      "full_info": "Children's Clothing Manufacturing \u2192 315110: Tights knitting or knitting and finishing (48 examples)"
+    },
+    {
+      "insurance_label": "Strategic Planning Services",
+      "naics_code": "541611",
+      "description": "Strategic planning consulting services",
+      "training_examples": 48,
+      "full_info": "Strategic Planning Services \u2192 541611: Strategic planning consulting services (48 examples)"
+    },
+    {
+      "insurance_label": "Human Resources Services",
+      "naics_code": "541612",
+      "description": "Personnel management consulting services",
+      "training_examples": 48,
+      "full_info": "Human Resources Services \u2192 541612: Personnel management consulting services (48 examples)"
+    },
+    {
+      "insurance_label": "Windows and Doors Installation",
+      "naics_code": "238150",
+      "description": "Window pane or sheet installation",
+      "training_examples": 48,
+      "full_info": "Windows and Doors Installation \u2192 238150: Window pane or sheet installation (48 examples)"
+    },
+    {
+      "insurance_label": "Pet Food Manufacturing",
+      "naics_code": "311111",
+      "description": "Pet food, dog and cat, manufacturing",
+      "training_examples": 48,
+      "full_info": "Pet Food Manufacturing \u2192 311111: Pet food, dog and cat, manufacturing (48 examples)"
+    },
+    {
+      "insurance_label": "Pallet Manufacturing",
+      "naics_code": "311213",
+      "description": "Wheat malt manufacturing",
+      "training_examples": 48,
+      "full_info": "Pallet Manufacturing \u2192 311213: Wheat malt manufacturing (48 examples)"
+    },
+    {
+      "insurance_label": "Low-Rise Glass Installation",
+      "naics_code": "238150",
+      "description": "Window pane or sheet installation",
+      "training_examples": 48,
+      "full_info": "Low-Rise Glass Installation \u2192 238150: Window pane or sheet installation (48 examples)"
+    },
+    {
+      "insurance_label": "High-Rise Glass Installation",
+      "naics_code": "238150",
+      "description": "Window pane or sheet installation",
+      "training_examples": 48,
+      "full_info": "High-Rise Glass Installation \u2192 238150: Window pane or sheet installation (48 examples)"
+    },
+    {
+      "insurance_label": "Marketing Research Services",
+      "naics_code": "541910",
+      "description": "Sampling services, statistical",
+      "training_examples": 40,
+      "full_info": "Marketing Research Services \u2192 541910: Sampling services, statistical (40 examples)"
+    },
+    {
+      "insurance_label": "Mobile Home Construction Services",
+      "naics_code": "541350",
+      "description": "Prepurchase home inspection services",
+      "training_examples": 28,
+      "full_info": "Mobile Home Construction Services \u2192 541350: Prepurchase home inspection services (28 examples)"
+    },
+    {
+      "insurance_label": "Interior Design Services",
+      "naics_code": "541410",
+      "description": "Interior designer services",
+      "training_examples": 26,
+      "full_info": "Interior Design Services \u2192 541410: Interior designer services (26 examples)"
+    },
+    {
+      "insurance_label": "Environmental Consulting",
+      "naics_code": "541620",
+      "description": "Wetland restoration planning services",
+      "training_examples": 24,
+      "full_info": "Environmental Consulting \u2192 541620: Wetland restoration planning services (24 examples)"
+    },
+    {
+      "insurance_label": "Public Relations Services",
+      "naics_code": "541820",
+      "description": "Public relations services",
+      "training_examples": 24,
+      "full_info": "Public Relations Services \u2192 541820: Public relations services (24 examples)"
+    },
+    {
+      "insurance_label": "Management Consulting",
+      "naics_code": "541613",
+      "description": "Sales management consulting services",
+      "training_examples": 20,
+      "full_info": "Management Consulting \u2192 541613: Sales management consulting services (20 examples)"
+    },
+    {
+      "insurance_label": "Sports Management Services",
+      "naics_code": "115116",
+      "description": "Management services, farm",
+      "training_examples": 8,
+      "full_info": "Sports Management Services \u2192 115116: Management services, farm (8 examples)"
+    }
+  ]
+}

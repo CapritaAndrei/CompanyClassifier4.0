@@ -1,0 +1,16 @@
+TEXT|NAICS
+Financial planning and investment advisory services|523930
+Commercial construction contracting services|236220  
+Software development and programming services|541511
+Restaurant and food service operations|722513
+Medical practice and healthcare services|621111
+Auto repair and maintenance shop|811111
+Real estate brokerage and property management|531210
+Manufacturing of electronic components|334419
+Retail clothing and apparel store|448140
+Professional accounting and tax services|541211
+Digital marketing and advertising agency|541810
+Commercial cleaning and janitorial services|561720
+Insurance brokerage and risk management|524210
+Veterinary clinic and animal hospital|541940
+Landscape design and maintenance services|561730 
